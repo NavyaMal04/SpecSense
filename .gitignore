@@ -1,0 +1,59 @@
+# === Secrets & Environment ===
+.env
+.env.*
+!.env.example
+credentials/
+*.pem
+*.key
+*.p12
+service-account*.json
+firebase-service-account.json
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+sdist/
+wheels/
+*.so
+pip-log.txt
+pip-delete-this-directory.txt
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+ENV/
+
+# === IDE & OS ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Testing & Coverage ===
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Temporary / Output files ===
+*.tmp
+*.bak
+output/
