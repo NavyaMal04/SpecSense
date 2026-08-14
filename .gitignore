@@ -8,6 +8,7 @@ credentials/
 *.p12
 service-account*.json
 firebase-service-account.json
+specsense-e0124-firebase-adminsdk-fbsvc-d57e342310.json
 
 # === Python ===
 __pycache__/
