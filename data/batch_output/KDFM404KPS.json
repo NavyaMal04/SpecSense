@@ -34,11 +34,11 @@
     "source_snippet": "Brand: KitchenAid"
   },
   "manufacturer_part_number": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
+    "value": "178293",
+    "source_type": "extracted",
+    "confidence": 1.0,
     "source_url": null,
-    "source_snippet": null
+    "source_snippet": "Manually verified by reviewer"
   },
   "alternate_part_number": {
     "value": null,
@@ -122,11 +122,7 @@
     "source_snippet": "KitchenAid KDFM404KPS 24 Inch Full Console Dishwasher with 16 Place Settings, 44 dBA, 5 Wash Cycles, FreeFlex™ 3rd Rack, ProWash™, Heat Dry, Express Wash, NSF® Certified, and Star K: PrintShield™ Stainless Steel"
   },
   "standard_approvals": {
-    "value": [
-      "NSF® Certified",
-      "Star K Certified",
-      "CUL"
-    ],
+    "value": "NSF® Certified; Star K Certified; CUL",
     "source_type": "extracted",
     "confidence": 0.95,
     "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
