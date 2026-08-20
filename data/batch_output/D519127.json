@@ -1,0 +1,546 @@
+{
+  "id": null,
+  "source_row_index": 3,
+  "part_number": "D519127",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "D519127",
+  "part_desc": "D519127 Heater Kit",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "V & V Appliance Parts Inc (VVAPP)",
+  "manufacturer_name": {
+    "value": "Alliance Laundry Systems",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://partsdr.com/part/d519127-heater-kit",
+    "source_snippet": "Genuine OEM part made by Speed Queen to work with Speed Queen appliances. KIT HEATER-ORG-5350W W/GRN Buy this commercial Alliance part #D519127 replacement KIT HEATER-ORG-5350W W/GRN LIMIT here online at Alliance Laundry Systems Distribution"
+  },
+  "brand_name": {
+    "value": "Speed Queen®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://partsdr.com/part/d519127-heater-kit",
+    "source_snippet": "Genuine OEM part made by Speed Queen to work with Speed Queen appliances. KIT HEATER-ORG-5350W W/GRN Buy this commercial Alliance part #D519127 replacement KIT HEATER-ORG-5350W W/GRN LIMIT here online at Alliance Laundry Systems Distribution"
+  },
+  "trade_name": {
+    "value": "Alliance / Speed Queen",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "source_snippet": "Alliance #D519127 KIT HEATER-ORG-5350W W/GRN LIMIT"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "mfr_url": {
+    "value": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://oemlaundryparts.com/alliance-laundry-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "https://partsdr.com/part/d519127-heater-kit",
+    "https://www.deyparts.com/product/inv_D519127",
+    "https://partssolutiongroup.com/products/speed-queen-d519127"
+  ],
+  "mobile_desc": {
+    "value": "Alliance Laundry Systems, Speed Queen®, Kit Heater-org-5350w W/grn Limit, D519127",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "KIT HEATER-ORG-5350W W/GRN LIMIT 5350 W ",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Speed Queen® D519127, Kit Heater-org-5350w W/grn Limit, Power Rating: 5350 W, Weight: 0.2 lbs",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Speed Queen® Kit Heater-org-5350w W/grn Limit, Power Rating: 5350 W, Weight: 0.2 lbs, Height: 2.0000 in, Width: 2.0000 in, Depth: 2.0000 in, Size: 2.0000 in H x 2.0000 in W x 2.0000 in D, Condition: New, Part Type: Heater, Machine Usage: Commercial, Warranty: This part is covered by manufacturer warranty.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Kit Heater-org-5350w W/grn Limit, Power Rating: 5350 W, Weight: 0.2 lbs, Height: 2.0000 in",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Kit Heater-org-5350w W/grn Limit from Speed Queen®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_approvals": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "prop_65": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "application": {
+    "value": "Commercial Laundry Machine",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "source_snippet": "Laundry Machine Type: Commercial Alliance"
+  },
+  "includes": {
+    "value": "Green Limit",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+    "source_snippet": "KIT HEATER-ORG-5350W W/GRN LIMIT"
+  },
+  "product_name": {
+    "value": "Kit Heater-org-5350w W/grn Limit",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://partssolutiongroup.com/products/speed-queen-d519127",
+    "source_snippet": "SPEED QUEEN D519127 KIT HEATER-ORG-5350W W/GRN LIMIT (GENUINE OEM PART)"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Power Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5350",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "W",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Weight",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "0.2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "2 in H x 2 in W x 2 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Condition",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "New",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Part Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Heater",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Machine Usage",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Commercial",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Warranty",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "This part is covered by manufacturer warranty.",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://parts.alliancelaundry.com/i-23928266-alliance-d519127-kit-heater-org-5350w-w-grn-limit.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-19T16:36:08.772663+00:00",
+  "fields_found_count": 38,
+  "fields_total_count": 69
+}

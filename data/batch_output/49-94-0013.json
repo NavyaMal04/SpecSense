@@ -1,0 +1,449 @@
+{
+  "id": null,
+  "source_row_index": 4,
+  "part_number": "49-94-0013",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "49-94-0013",
+  "part_desc": "49-94-0013 Milw 5\"x.045\"x7/8\" Metal Cut Off Disc",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Milwaukee Accessory (4031)",
+  "manufacturer_name": {
+    "value": "Milwaukee Electric Tool",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.milwaukeetool.com/products/details/5-x-045-x-7-8-metal-cut-off-wheel-type-1/49-94-0013",
+    "source_snippet": "Our cut-off wheels offer exceptional versatility for cutting through carbon steel, stainless steel, and nickel-based alloys, including materials such as steel, angle iron, pipe, rebar, and other ferrous metals."
+  },
+  "brand_name": {
+    "value": "Milwaukee®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.milwaukeetool.com/products/details/5-x-045-x-7-8-metal-cut-off-wheel-type-1/49-94-0013",
+    "source_snippet": "Our cut-off wheels offer exceptional versatility for cutting through carbon steel, stainless steel, and nickel-based alloys, including materials such as steel, angle iron, pipe, rebar, and other ferrous metals."
+  },
+  "trade_name": {
+    "value": "Milwaukee",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": "",
+    "source_snippet": "Milw"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "mfr_url": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ref_urls": [],
+  "mobile_desc": {
+    "value": "Milwaukee Electric Tool, Milwaukee®, Metal Cut Off Disc, 49-94-0013",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "METAL CUT OFF DISC 49-94-0013 5 IN X 0.0",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Milwaukee® 49-94-0013, Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Milwaukee® Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in, Diameter: 5 in, Thickness: 0.045 in, Arbor Size: 7/8 in, Material: Metal",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in, Diameter: 5 in",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Metal Cut Off Disc from Milwaukee®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_approvals": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "prop_65": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "application": {
+    "value": "Metal Cutting",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "",
+    "source_snippet": "Metal Cut Off Disc"
+  },
+  "includes": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "product_name": {
+    "value": "Metal Cut Off Disc",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "",
+    "source_snippet": "Metal Cut Off Disc"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "49-94-0013",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5 in x 1/16 in x 7/8 in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Diameter",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Thickness",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1/16",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Arbor Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "7/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Metal",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-19T16:36:50.191501+00:00",
+  "fields_found_count": 26,
+  "fields_total_count": 57
+}

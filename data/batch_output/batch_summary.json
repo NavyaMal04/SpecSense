@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-08-20T06:34:07.562473+00:00",
+  "total_attempted": 17,
+  "total_processed": 0,
+  "total_errored": 7,
+  "total_skipped": 10,
+  "skipped_mpns": [
+    "WDTS7024RZ",
+    "PDSH4816AF",
+    "KDFM404KPS",
+    "D519127",
+    "49-94-0013",
+    "05134545001",
+    "LNL65301",
+    "DCB518ASTS06G",
+    "3MABR-7100075678",
+    "5B-332-080"
+  ],
+  "avg_found_pct": 0.0,
+  "avg_fields_found_count": 0.0,
+  "total_wall_clock_seconds": 160.93,
+  "total_wall_clock_formatted": "2m 40s",
+  "review_status_counts": {
+    "pending": 0,
+    "flagged": 0
+  },
+  "retry_statistics": {
+    "total_calls": 9,
+    "total_retries": 21,
+    "rows_requiring_retries_count": 7,
+    "rows_requiring_retries_list": [
+      "402-R",
+      "27233",
+      "413S-DBA-36",
+      "ADB15516CS",
+      "1700-1PK-BB40",
+      "FS C01 2004S",
+      "PP-8BL"
+    ]
+  },
+  "key_usage_distribution": {
+    "key_1": 9,
+    "key_2": 7,
+    "key_3": 7
+  },
+  "errors": [
+    {
+      "mpn": "1700-1PK-BB40",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "413S-DBA-36",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "402-R",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "FS C01 2004S",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "ADB15516CS",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "27233",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    },
+    {
+      "mpn": "PP-8BL",
+      "error": "AllKeys429: All 3 Gemini API keys exhausted (daily quota). Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+    }
+  ],
+  "rows": []
+}

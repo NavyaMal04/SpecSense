@@ -7,8 +7,15 @@ credentials/
 *.key
 *.p12
 service-account*.json
-firebase-service-account.json
+firebase-service-account*.json
+*-firebase-adminsdk-*.json
+specsense-*.json
 specsense-e0124-firebase-adminsdk-fbsvc-d57e342310.json
+
+# === Test & Run Logs ===
+*.log
+validation_results*.txt
+batch_run_results*.txt
 
 # === Python ===
 __pycache__/

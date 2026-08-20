@@ -1,0 +1,646 @@
+{
+  "id": null,
+  "source_row_index": 6,
+  "part_number": "LNL65301",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "LNL65301",
+  "part_desc": "LNL65301 Digital Tire Pressure - Inflator Gauge",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "-",
+  "manufacturer_name": {
+    "value": "LockNLube LLC",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/collections/air-inflators/products/tire-inflator-deflator-with-digital-gauge",
+    "source_snippet": "Heavy-duty, aluminum diecast inflation/deflation gun with flexible stainless steel hose and LockNFlate® Air Chuck! Includes the LockNFlate® Air Chuck (open flow). Backlit, high-quality digital readout, 0–300 PSI."
+  },
+  "brand_name": {
+    "value": "LockNLube®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/collections/air-inflators/products/tire-inflator-deflator-with-digital-gauge",
+    "source_snippet": "Heavy-duty, aluminum diecast inflation/deflation gun with flexible stainless steel hose and LockNFlate® Air Chuck! Includes the LockNFlate® Air Chuck (open flow). Backlit, high-quality digital readout, 0–300 PSI."
+  },
+  "trade_name": {
+    "value": "LockNFlate",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "The LockNFlate® PRO Digital Tire Inflator Kit is a complete professional-grade digital tire inflator built for accuracy"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": "Air Tools > Tire Inflator Gauges",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "Home > Digital Tire Inflator Gauge with Air Chuck | LockNLube USA"
+  },
+  "mfr_url": {
+    "value": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://locknlube.com/pages/manuals"
+  ],
+  "mobile_desc": {
+    "value": "LockNLube LLC, LockNLube®, Digital Tire Inflator Gauge with Air Chuck, LNL65301",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "DIGITAL TIRE INFLATOR GAUGE WITH AIR CHU",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "LockNLube® LNL65301, Digital Tire Inflator Gauge with Air Chuck, Series: LockNFlate, Model: LNL65301",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "LockNLube® Digital Tire Inflator Gauge with Air Chuck, Series: LockNFlate, Model: LNL65301, Certifications: DIN EN 12645:2015, Warranty: 1 Year, Operating Temperature Range: 14°F to 122°F, Pressure Range: 7–174 PSI, Maximum Inlet Pressure: 218 PSI, Accuracy: ±1 PSI, Inflation Flow Rate: 900 L/min, Hose Length: 32 in, Battery Type: Rechargeable Lithium-Ion, Display Type: Backlit LED, Chuck Type: LockNFlate Locking Air Chuck, Additional Information: 3-in-1 Function (Inflate/Deflate/Measure), Auto Shut-Off, Inline Swivel, Magnetic Chuck Parking, Protective Rubber Shroud",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Digital Tire Inflator Gauge with Air Chuck, Series: LockNFlate, Model: LNL65301, Certifications: DIN EN 12645:2015",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Digital Tire Inflator Gauge with Air Chuck from LockNLube®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_approvals": {
+    "value": "DIN EN 12645:2015",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "measures 7–174 PSI (0.5–12 BAR) with ±1 PSI accuracy (DIN EN 12645:2015)"
+  },
+  "prop_65": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "application": {
+    "value": "Handles everything from bicycles to passenger vehicles to heavy-duty trucks",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "this gauge handles everything from bicycles to passenger vehicles to heavy-duty trucks"
+  },
+  "includes": {
+    "value": "LockNFlate® PRO Digital Tire Inflator Gauge, LockNFlate® Air Chuck, 32\" (800 mm) hybrid polymer hose with inline swivel and bend guards, Pre-installed rechargeable lithium-ion battery",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "Kit Includes: LockNFlate® PRO Digital Tire Inflator Gauge. LockNFlate® Air Chuck. 32\" (800 mm) hybrid polymer hose with inline swivel and bend guards. Pre-installed rechargeable lithium-ion battery."
+  },
+  "product_name": {
+    "value": "Digital Tire Inflator Gauge with Air Chuck",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+    "source_snippet": "Digital Tire Inflator Gauge with Air Chuck"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "LockNFlate",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "LNL65301",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Certifications",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "DIN EN 12645:2015",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Warranty",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1 Year",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Operating Temperature Range",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "14°F to 122°F",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Pressure Range",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "7–174",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "PSI",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Maximum Inlet Pressure",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "218",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "PSI",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Accuracy",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "±1",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "PSI",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Inflation Flow Rate",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "900",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "L/min",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Hose Length",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "32",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Battery Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Rechargeable Lithium-Ion",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Display Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Backlit LED",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Chuck Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "LockNFlate Locking Air Chuck",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3-in-1 Function (Inflate/Deflate/Measure), Auto Shut-Off, Inline Swivel, Magnetic Chuck Parking, Protective Rubber Shroud",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [
+    {
+      "asset_type": "owners_manual",
+      "url": {
+        "value": "https://locknlube.com/pages/manuals",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://locknlube.com/products/digital-tire-inflator-gauge-with-air-chuck",
+        "source_snippet": null
+      }
+    }
+  ],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-18T17:15:13.587500+00:00",
+  "fields_found_count": 48,
+  "fields_total_count": 81
+}

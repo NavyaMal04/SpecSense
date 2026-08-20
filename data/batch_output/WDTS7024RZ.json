@@ -1,0 +1,1044 @@
+{
+  "id": null,
+  "source_row_index": 0,
+  "part_number": "WDTS7024RZ",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "WDTS7024RZ",
+  "part_desc": "WDTS7024RZ Dishwasher SS - Display Only",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Appliance Dealers Cooperative (APPDE)",
+  "manufacturer_name": {
+    "value": "Whirlpool Corporation",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.vosstv.com/Whirlpool-WDTS7024RZ-Eco-Series-Quiet-Dishwasher-with-a-washing-3rd-Rack-Water-Repellent-Silverware-Basket",
+    "source_snippet": "Whirlpool brand’s quietest dishwasher stays out of your conversations at 41 dBA."
+  },
+  "brand_name": {
+    "value": "Whirlpool®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.vosstv.com/Whirlpool-WDTS7024RZ-Eco-Series-Quiet-Dishwasher-with-a-washing-3rd-Rack-Water-Repellent-Silverware-Basket",
+    "source_snippet": "Whirlpool brand’s quietest dishwasher stays out of your conversations at 41 dBA."
+  },
+  "trade_name": {
+    "value": "Whirlpool",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "Whirlpool WDTS7024RZ"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": "Built-In Dishwasher",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "Whirlpool WDTS7024RZ Built In Dishwasher"
+  },
+  "mfr_url": {
+    "value": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://plugsappliance.com/appliances/kitchen-cleanup/dishwashers/built-in-dishwasher/whirlpool/WDTS7024RZ",
+    "https://www.artnoeyappliance.com/Whirlpool-WDTS7024RZ-Eco-Series-Quiet-Dishwasher-with-a-washing-3rd-Rack--Water-Repellent-Silverware-Basket",
+    "https://www.southernhomeappliance.com/en/product/827018-whirlpool-wdts7024rz",
+    "https://www.westonsappliance.com/kitchen-cleanup/dishwashers/built-in-dishwasher/whirlpool/WDTS7024RZ",
+    "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "https://files.shopappliances.com/static/product_documents/WDTS7024RZ-119261_14923.pdf",
+    "https://www.appliancefactory.com/kitchen-cleanup/dishwashers/built-in-dishwasher/whirlpool/WDTS7024RZ",
+    "https://www.abcwarehouse.com/product_specs/14063_spec.pdf"
+  ],
+  "mobile_desc": {
+    "value": "Whirlpool Corporation, Whirlpool®, Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket, WDTS7024RZ",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "ECO SERIES QUIET DISHWASHER WITH A WASHI",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Whirlpool® WDTS7024RZ, Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket, With Yes, Series: Eco Series, Model: WDTS7024RZ",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Whirlpool® Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket, Series: Eco Series, Model: WDTS7024RZ, Mounting Type: Built-In, Size: 33.625 in H x 23.875 in W x 26.75 in D, Height: 33.625 in, Width: 23.875 in, Depth: 26.75 in, Depth With Door Open: 50.188 in, Weight: 89 lbs, Color: Stainless Steel, Material: Stainless Steel, Sound Level: 41 dBA, Number of Wash Cycles: 5, Plug Type: Direct Wire, Certifications: CUL, NSF Certified, Star K Certified, Number of Place Settings: 15, Number of Racks: 3, Control Location: Hidden, Control Type: Electronic Touch, Drying System Type: Vent Dry with Heating Element, Energy Rating: 270 kWh/year, CEE Tier Rating: Tier I, ADA Compliant: No, Energy Star Qualified: No, Tub Material: Stainless Steel, Tub Style: Built-in Tall Tub 24in., Dishwasher Cycle Selection: Heavy, Normal, Quick Wash, Sensor Wash, Soak & Clean, Dishwasher Option Selections: 1-24 Hour Delay, Extended Dry, Heated Dry, Hi Temp Wash, Sani Rinse, Handle Type: Towel Bar, Third Level Rack Type: Third rack with wash tube, Additional Information: Moisture Repellent Silverware Basket, True Hold Door, Triple Wash Spray, Fingerprint resistant, Leak Detect, Cycle Status Indicator, Automatic Temperature Controls",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket, Series: Eco Series, Model: WDTS7024RZ, Mounting Type: Built-In",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket from Whirlpool®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": "Yes",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "3rd rack with extra wash action"
+  },
+  "standard_approvals": {
+    "value": "CUL, NSF Certified, Star K Certified",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "Certifications Ada Compliant No Cee Tier Rating Tier I Cul Yes Energy Rating 270 Energy Rating (kwh/year) 270 Energy Star Qualified No Nsf Certified Yes Prop65 Standard Star K Certified Kosher Consumer Friendly"
+  },
+  "prop_65": {
+    "value": "Yes",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://files.shopappliances.com/static/product_documents/WDTS7024RZ-119261_14923.pdf",
+    "source_snippet": "WARNING: Cancer and Reproductive Harm - www.P65Warnings.ca.gov"
+  },
+  "application": {
+    "value": "Residential dishwashing",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "helps fit all the dishes and pans your family piles up"
+  },
+  "includes": {
+    "value": "Drain Hose",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "Hoses Included Yes, Drain"
+  },
+  "product_name": {
+    "value": "Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.townappliance.com/products/whirlpool-wdts7024rz-built-in-dishwasher",
+    "source_snippet": "Whirlpool WDTS7024RZ Eco Series Quiet Dishwasher With A Washing 3Rd Rack & Water Repellent Silverware Basket"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Eco Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "WDTS7024RZ",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mounting Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Built-In",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "33-5/8 in H x 23-7/8 in W x 26-3/4 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "33-5/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "23-7/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "26-3/4",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth With Door Open",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "50-3/16",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Weight",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "89",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Stainless Steel",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Stainless Steel",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Sound Level",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "41 dBA",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Number of Wash Cycles",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Plug Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Direct Wire",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Certifications",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "CUL, NSF Certified, Star K Certified",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Number of Place Settings",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "15",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Number of Racks",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Control Location",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Hidden",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Control Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Electronic Touch",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Drying System Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Vent Dry with Heating Element",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Energy Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "270",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "kWh/year",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "CEE Tier Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Tier I",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "ADA Compliant",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "No",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Energy Star Qualified",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "No",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Tub Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Stainless Steel",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Tub Style",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Built-in Tall Tub 24in.",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Dishwasher Cycle Selection",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Heavy, Normal, Quick Wash, Sensor Wash, Soak & Clean",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Dishwasher Option Selections",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1-24 Hour Delay, Extended Dry, Heated Dry, Hi Temp Wash, Sani Rinse",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Handle Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Towel Bar",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Third Level Rack Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Third rack with wash tube",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Moisture Repellent Silverware Basket, True Hold Door, Triple Wash Spray, Fingerprint resistant, Leak Detect, Cycle Status Indicator, Automatic Temperature Controls",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://files.shopappliances.com/static/product_documents/WDTS7024RZ-119261_14923.pdf",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.whirlpool.com/kitchen/dishwasher-and-cleaning/dishwashers/built-in-hidden-control-console/p.wdps7024rz.html",
+        "source_snippet": null
+      }
+    }
+  ],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-19T16:31:45.691359+00:00",
+  "fields_found_count": 85,
+  "fields_total_count": 132
+}
