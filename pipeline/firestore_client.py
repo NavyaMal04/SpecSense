@@ -1,21 +1,21 @@
 """
 firestore_client.py
 ====================
-Firestore persistence layer for the SpecSense pipeline.
+Firestore persistence layer for the SpecSense 252-column UniHack pipeline.
 
-Provides four core operations on the "products" collection:
-  - save_product_record()       — upsert a ProductRecord
-  - get_product_record()        — fetch by document ID
-  - list_product_records()      — list all, or filter by review_status
-  - update_review_status()      — patch just the review_status field
+Provides core operations on the "products" collection:
+  - save_product_record()       — upsert a ProductRecord (auto-generate or use existing ID)
+  - get_product_record()        — fetch by document ID and parse into ProductRecord
+  - list_product_records()      — lightweight summary list (all or filtered by review_status)
+  - get_dashboard_stats()       — compute aggregate metrics (total, completeness %, status counts)
+  - update_review_status()      — patch review_status field ("pending" / "approved" / "flagged")
 
 Credentials are loaded from FIREBASE_CREDENTIALS_PATH in .env.
 """
 
 import os
 import sys
-import json
-from typing import Optional, List
+from typing import Optional, List, Dict, Any
 
 from dotenv import load_dotenv
 import firebase_admin
@@ -29,14 +29,15 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 # Module-level Firebase app singleton — initialised once on first import
 # ---------------------------------------------------------------------------
-_db: Optional[firestore.Client] = None   # type: ignore[name-defined]
+_db: Optional[firestore.Client] = None
+COLLECTION = "products"
 
 
-def _get_db() -> firestore.Client:  # type: ignore[name-defined]
+def _get_db() -> firestore.Client:
     """
     Returns a Firestore client, initialising Firebase Admin SDK on first call.
 
-    Reads FIREBASE_CREDENTIALS_PATH from the environment.  Raises a clear
+    Reads FIREBASE_CREDENTIALS_PATH from the environment. Raises a clear
     RuntimeError if the credentials file is absent or the SDK fails to start.
     """
     global _db
@@ -68,89 +69,93 @@ def _get_db() -> firestore.Client:  # type: ignore[name-defined]
 
 
 # ---------------------------------------------------------------------------
-# Serialisation helpers
+# Helper: Extract lightweight summary dict from a raw document dict
 # ---------------------------------------------------------------------------
 
-def _record_to_dict(record: ProductRecord) -> dict:
+def _extract_summary(doc_id: str, data: dict) -> Dict[str, Any]:
     """
-    Converts a ProductRecord to a plain Python dict safe for Firestore storage.
-
-    model_dump() handles all nested Pydantic models including generic
-    AttributeField[T] and CommerceCopyField[T] instances.
+    Extracts a lightweight representation for fast list/table views in the UI.
+    Avoids returning deep 50-attribute objects over the network.
     """
-    return record.model_dump()
+    def _val(field: str) -> Optional[str]:
+        v = data.get(field)
+        if isinstance(v, dict):
+            return v.get("value")
+        return v if isinstance(v, str) else None
 
+    found = data.get("fields_found_count") or 0
+    total = data.get("fields_total_count") or 0
+    completeness = round((found / total * 100), 1) if total > 0 else 0.0
 
-def _dict_to_record(data: dict) -> ProductRecord:
-    """
-    Parses a raw Firestore document dict back into a ProductRecord.
+    mfg_part_num = data.get("mfg_part_num") or data.get("part_number") or ""
+    part_desc = data.get("part_desc") or ""
+    prod_name = _val("product_name") or part_desc
+    mfr_name = _val("manufacturer_name") or data.get("part_manuf") or ""
+    brand_name = _val("brand_name") or ""
+    classpath = _val("classpath") or ""
 
-    Uses model_validate() so Pydantic rebuilds nested sub-models correctly.
-    """
-    return ProductRecord.model_validate(data)
+    return {
+        "id": doc_id,
+        "mfg_part_num": mfg_part_num,
+        "part_number": data.get("part_number") or mfg_part_num,
+        "part_desc": part_desc,
+        "product_name": prod_name,
+        "name": prod_name,  # convenient alias for frontend
+        "manufacturer_name": mfr_name,
+        "brand_name": brand_name,
+        "category": classpath,
+        "classpath": classpath,
+        "fields_found_count": found,
+        "fields_total_count": total,
+        "completeness_pct": completeness,
+        "review_status": data.get("review_status", "pending"),
+        "processed_at": data.get("processed_at"),
+    }
 
 
 # ---------------------------------------------------------------------------
-# Public API
+# Public Operations
 # ---------------------------------------------------------------------------
-
-COLLECTION = "products"
-
 
 def save_product_record(record: ProductRecord) -> str:
     """
-    Saves (or overwrites) a ProductRecord to Firestore.
+    Saves or updates a ProductRecord in Firestore (collection: 'products').
 
-    - If record.id is None  → Firestore auto-generates a document ID, which
-      is then written back onto record.id before returning.
-    - If record.id is set   → that ID is used as the document key (upsert).
+    - If record.id is set   → updates/overwrites document at that ID.
+    - If record.id is None  → auto-generates document ID and sets it on record.id.
 
     Returns:
         The Firestore document ID (str).
-
-    Raises:
-        RuntimeError: On credential / SDK initialisation failure.
-        Exception:    On any Firestore write error (wraps with context).
     """
     try:
         db = _get_db()
         collection_ref = db.collection(COLLECTION)
-        payload = _record_to_dict(record)
+        payload = record.model_dump()
 
-        if record.id is None:
-            # Auto-generate ID
-            _, doc_ref = collection_ref.add(payload)
-            record.id = doc_ref.id
-            # Patch the auto-generated id back into the stored document
-            doc_ref.update({"id": record.id})
-        else:
+        if record.id:
             doc_ref = collection_ref.document(record.id)
             payload["id"] = record.id
-            doc_ref.set(payload)          # full overwrite / upsert
+            doc_ref.set(payload)
+        else:
+            _, doc_ref = collection_ref.add(payload)
+            record.id = doc_ref.id
+            doc_ref.update({"id": record.id})
 
         return record.id
 
     except RuntimeError:
         raise
     except Exception as err:
-        raise Exception(
-            f"[Firestore] Failed to save product record: {err}"
-        ) from err
+        raise Exception(f"[Firestore] Failed to save product record: {err}") from err
 
 
 def get_product_record(doc_id: str) -> ProductRecord:
     """
     Fetches a single ProductRecord from Firestore by document ID.
 
-    Args:
-        doc_id: The Firestore document ID to retrieve.
-
-    Returns:
-        A fully parsed ProductRecord instance.
-
     Raises:
-        KeyError:   If the document does not exist.
-        Exception:  On any Firestore read error.
+        KeyError: If no document exists with doc_id.
+        Exception: On network or parsing errors.
     """
     try:
         db = _get_db()
@@ -160,34 +165,30 @@ def get_product_record(doc_id: str) -> ProductRecord:
         if not doc.exists:
             raise KeyError(
                 f"[Firestore] No product found with document ID '{doc_id}'. "
-                "Verify the ID or check the 'products' collection."
+                f"Verify the ID or check the '{COLLECTION}' collection."
             )
 
-        return _dict_to_record(doc.to_dict())
+        data = doc.to_dict()
+        return ProductRecord.model_validate(data)
 
     except (KeyError, RuntimeError):
         raise
     except Exception as err:
-        raise Exception(
-            f"[Firestore] Failed to fetch product record '{doc_id}': {err}"
-        ) from err
+        raise Exception(f"[Firestore] Failed to fetch product record '{doc_id}': {err}") from err
 
 
-def list_product_records(review_status: Optional[str] = None) -> List[ProductRecord]:
+def list_product_records(review_status: Optional[str] = None) -> List[Dict[str, Any]]:
     """
-    Returns all ProductRecords in the "products" collection.
+    Returns a lightweight summary list of product records for fast UI display.
 
     Args:
-        review_status: Optional filter value — "pending", "approved", or
-                       "flagged".  When provided only matching documents are
-                       returned.  When None, all documents are returned.
+        review_status: Optional filter ("pending", "approved", "flagged").
+                       If None, returns all records.
 
     Returns:
-        A list of ProductRecord instances (may be empty).
-
-    Raises:
-        ValueError:  If review_status is not one of the accepted values.
-        Exception:   On any Firestore query error.
+        List of dicts with keys: id, mfg_part_num, part_desc, product_name, name,
+        manufacturer_name, brand_name, category, classpath, fields_found_count,
+        fields_total_count, completeness_pct, review_status, processed_at.
     """
     valid_statuses = {"pending", "approved", "flagged"}
     if review_status is not None and review_status not in valid_statuses:
@@ -204,43 +205,80 @@ def list_product_records(review_status: Optional[str] = None) -> List[ProductRec
             query = query.where(filter=FieldFilter("review_status", "==", review_status))
 
         docs = query.stream()
-        records = []
+        summaries = []
         for doc in docs:
             try:
-                records.append(_dict_to_record(doc.to_dict()))
+                data = doc.to_dict()
+                summaries.append(_extract_summary(doc.id, data))
             except Exception as parse_err:
-                # Skip malformed docs but surface a warning
-                print(
-                    f"[Firestore] Warning: could not parse document '{doc.id}': "
-                    f"{parse_err}"
-                )
+                print(f"[Firestore] Warning: Could not summarize doc '{doc.id}': {parse_err}")
 
-        return records
+        return summaries
 
     except (ValueError, RuntimeError):
         raise
     except Exception as err:
-        raise Exception(
-            f"[Firestore] Failed to list product records: {err}"
-        ) from err
+        raise Exception(f"[Firestore] Failed to list product records: {err}") from err
+
+
+def get_dashboard_stats() -> Dict[str, Any]:
+    """
+    Computes aggregate metrics across all product records in the collection:
+      - total_products: count of all documents
+      - avg_completeness_pct: average completeness % across all documents
+      - pending_count: count of records in 'pending' review status
+      - flagged_count: count of records in 'flagged' review status
+      - approved_count: count of records in 'approved' review status
+    """
+    try:
+        db = _get_db()
+        docs = db.collection(COLLECTION).stream()
+
+        total = 0
+        completeness_sum = 0.0
+        pending = 0
+        flagged = 0
+        approved = 0
+
+        for doc in docs:
+            data = doc.to_dict()
+            total += 1
+            status = data.get("review_status", "pending")
+            if status == "flagged":
+                flagged += 1
+            elif status == "approved":
+                approved += 1
+            else:
+                pending += 1
+
+            found = data.get("fields_found_count") or 0
+            total_fields = data.get("fields_total_count") or 0
+            if total_fields > 0:
+                completeness_sum += (found / total_fields * 100)
+
+        avg_completeness = round(completeness_sum / total, 1) if total > 0 else 0.0
+
+        return {
+            "total_products": total,
+            "avg_completeness_pct": avg_completeness,
+            "pending_count": pending,
+            "flagged_count": flagged,
+            "approved_count": approved,
+        }
+
+    except RuntimeError:
+        raise
+    except Exception as err:
+        raise Exception(f"[Firestore] Failed to compute dashboard stats: {err}") from err
 
 
 def update_review_status(doc_id: str, new_status: str) -> None:
     """
     Patches the review_status field on an existing Firestore document.
 
-    Used by the human-review dashboard to approve or re-flag records without
-    overwriting the full document.
-
     Args:
-        doc_id:     The Firestore document ID to update.
-        new_status: The new review status — must be "pending", "approved",
-                    or "flagged".
-
-    Raises:
-        ValueError:  If new_status is not a valid option.
-        KeyError:    If the document does not exist.
-        Exception:   On any Firestore write error.
+        doc_id: The document ID to update.
+        new_status: "pending", "approved", or "flagged".
     """
     valid_statuses = {"pending", "approved", "flagged"}
     if new_status not in valid_statuses:
@@ -255,123 +293,158 @@ def update_review_status(doc_id: str, new_status: str) -> None:
         doc = doc_ref.get()
 
         if not doc.exists:
-            raise KeyError(
-                f"[Firestore] Cannot update — no document found with ID '{doc_id}'."
-            )
+            raise KeyError(f"[Firestore] Cannot update — no document found with ID '{doc_id}'.")
 
         doc_ref.update({"review_status": new_status})
 
     except (ValueError, KeyError, RuntimeError):
         raise
     except Exception as err:
-        raise Exception(
-            f"[Firestore] Failed to update review_status for '{doc_id}': {err}"
-        ) from err
+        raise Exception(f"[Firestore] Failed to update review_status for '{doc_id}': {err}") from err
+
+
+def delete_product_record(doc_id: str) -> None:
+    """
+    Deletes a product document from the Firestore "products" collection.
+
+    Args:
+        doc_id: The document ID to delete.
+
+    Raises:
+        KeyError: If the document does not exist.
+        Exception: On Firestore network or permission errors.
+    """
+    try:
+        db = _get_db()
+        doc_ref = db.collection(COLLECTION).document(doc_id)
+        doc = doc_ref.get()
+
+        if not doc.exists:
+            raise KeyError(f"[Firestore] Cannot delete — no document found with ID '{doc_id}'.")
+
+        doc_ref.delete()
+
+    except (KeyError, RuntimeError):
+        raise
+    except Exception as err:
+        raise Exception(f"[Firestore] Failed to delete product record '{doc_id}': {err}") from err
+
+
+def audit_products_collection(delete_invalid: bool = False) -> Dict[str, Any]:
+    """
+    Diagnostic tool: scans all documents in the "products" collection and validates
+    each against the current ProductRecord schema.
+
+    Identifies valid 252-column UniHack records vs leftover/legacy records from
+    the old PDF-based schema.
+
+    Args:
+        delete_invalid: If True, automatically deletes invalid/legacy documents.
+
+    Returns:
+        Dict with keys: 'total_scanned', 'valid_count', 'invalid_count', 'valid_docs', 'invalid_docs'.
+    """
+    try:
+        db = _get_db()
+        docs = list(db.collection(COLLECTION).stream())
+
+        valid_docs: List[Dict[str, Any]] = []
+        invalid_docs: List[Dict[str, Any]] = []
+
+        print("=" * 75)
+        print(f"  FIRESTORE SCHEMA AUDIT — Auditing {len(docs)} Documents in '{COLLECTION}'")
+        print("=" * 75)
+
+        for doc in docs:
+            doc_id = doc.id
+            data = doc.to_dict()
+
+            # Check for legacy PDF-pipeline fields
+            is_legacy_pdf = (
+                ("raw_extracted_text" in data or "faq" in data or "source_file" in data)
+                and not data.get("mfg_part_num")
+            )
+
+            if is_legacy_pdf:
+                invalid_docs.append({
+                    "id": doc_id,
+                    "error": "Legacy PDF-pipeline test record (contains raw_extracted_text / faq, missing mfg_part_num)",
+                    "keys_present": list(data.keys()),
+                    "name": data.get("name", {}).get("value") if isinstance(data.get("name"), dict) else data.get("name"),
+                    "raw_data_preview": {k: str(data[k])[:40] for k in list(data.keys())[:8]},
+                })
+                continue
+
+            try:
+                # Attempt full schema validation
+                record = ProductRecord.model_validate(data)
+                mfr_val = record.manufacturer_name.value if record.manufacturer_name else ""
+                valid_docs.append({
+                    "id": doc_id,
+                    "mfg_part_num": record.mfg_part_num or record.part_number,
+                    "manufacturer": mfr_val,
+                    "review_status": record.review_status,
+                })
+            except Exception as val_err:
+                sample_keys = list(data.keys())[:8]
+                invalid_docs.append({
+                    "id": doc_id,
+                    "error": str(val_err),
+                    "keys_present": sample_keys,
+                    "raw_data_preview": {k: str(data[k])[:40] for k in sample_keys},
+                })
+
+        print(f"\n  ✅ Valid Current Schema Documents : {len(valid_docs)} / {len(docs)}")
+        print(f"  ❌ Invalid / Legacy Documents      : {len(invalid_docs)} / {len(docs)}")
+
+        if invalid_docs:
+            print("\n  " + "-" * 70)
+            print("  LEFTOVER / INVALID DOCUMENTS FOUND:")
+            print("  " + "-" * 70)
+            for inv in invalid_docs:
+                print(f"  • Doc ID : {inv['id']}")
+                print(f"    Keys   : {inv['keys_present']}")
+                print(f"    Preview: {inv['raw_data_preview']}")
+                print(f"    Reason : {inv['error'][:120]}...")
+                if delete_invalid:
+                    delete_product_record(inv['id'])
+                    print(f"    🗑️  DELETED from Firestore.")
+                print()
+
+        return {
+            "total_scanned": len(docs),
+            "valid_count": len(valid_docs),
+            "invalid_count": len(invalid_docs),
+            "valid_docs": valid_docs,
+            "invalid_docs": invalid_docs,
+        }
+
+    except Exception as err:
+        raise Exception(f"[Firestore] Schema audit failed: {err}") from err
 
 
 # ---------------------------------------------------------------------------
-# Test / smoke-test harness
+# Test / Diagnostic Harness
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    import json as _json
-
-    # Ensure stdout can handle any Unicode the pipeline produces on Windows
+    # Force UTF-8 output on Windows
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-    # Pipeline imports
-    from pipeline.extractor import get_full_text_with_citations
-    from pipeline.llm_extractor import extract_structured_fields
-    from pipeline.record_builder import build_product_record, infer_missing_fields
-    from pipeline.copy_generator import generate_commerce_copy
+    import argparse
+    parser = argparse.ArgumentParser(description="Firestore Client Diagnostic & Test")
+    parser.add_argument("--audit", action="store_true", help="Run schema audit on collection")
+    parser.add_argument("--delete-invalid", action="store_true", help="Delete invalid legacy records found during audit")
+    args = parser.parse_args()
 
-    REF_PATH = "data/reference/sample_products.json"
-    TEST_PDF = "data/samples/cordless_drill_spec.pdf"
+    # Run audit
+    audit_res = audit_products_collection(delete_invalid=args.delete_invalid)
 
-    print("=" * 62)
-    print("   SpecSense — Firestore Persistence Layer Smoke Test")
-    print("=" * 62)
-
-    # ── 1. Load reference dataset ─────────────────────────────────────────
-    ref_dataset = []
-    if os.path.exists(REF_PATH):
-        with open(REF_PATH, "r", encoding="utf-8") as f:
-            ref_dataset = _json.load(f)
-        print(f"[Setup]  Loaded {len(ref_dataset)} reference products.")
-
-    # ── 2. Run the full pipeline ──────────────────────────────────────────
-    filename = os.path.basename(TEST_PDF)
-    print(f"\n[Step 1] Running full pipeline on '{filename}' …")
-
-    try:
-        cited_text, _ = get_full_text_with_citations(os.path.abspath(TEST_PDF))
-        raw_llm = extract_structured_fields(cited_text, source_filename=filename)
-        record = build_product_record(raw_llm, filename, cited_text)
-        record = infer_missing_fields(record, ref_dataset)
-        record = generate_commerce_copy(record)
-        print(f"         [OK] Pipeline complete - product name: {record.name.value!r}")
-        print(f"         Review status before save: {record.review_status!r}")
-    except Exception as err:
-        print(f"[ERROR]  Pipeline failed: {err}")
-        sys.exit(1)
-
-    # ── 3. Save to Firestore ──────────────────────────────────────────────
-    print("\n[Step 2] Saving ProductRecord to Firestore...")
-    try:
-        doc_id = save_product_record(record)
-        print(f"         [OK] Saved successfully. Document ID: {doc_id!r}")
-    except Exception as err:
-        print(f"[ERROR]  save_product_record() failed: {err}")
-        sys.exit(1)
-
-    # ── 4. Fetch back and verify round-trip ───────────────────────────────
-    print(f"\n[Step 3] Fetching record back by ID '{doc_id}'...")
-    try:
-        fetched = get_product_record(doc_id)
-        print(f"         [OK] Fetch successful.")
-        print(f"         Name       : {fetched.name.value!r}")
-        print(f"         Category   : {fetched.category.value!r}")
-        print(f"         Title      : {fetched.title.value!r}")
-        print(f"         Review     : {fetched.review_status!r}")
-        print(f"         Source file: {fetched.source_file!r}")
-    except Exception as err:
-        print(f"[ERROR]  get_product_record() failed: {err}")
-        sys.exit(1)
-
-    # ── 5. List ALL products ──────────────────────────────────────────────
-    print("\n[Step 4] Listing ALL products in collection...")
-    try:
-        all_records = list_product_records()
-        print(f"         [OK] Total products in 'products' collection: {len(all_records)}")
-        for r in all_records:
-            print(f"           - [{r.id}]  {r.name.value!r}  ({r.review_status})")
-    except Exception as err:
-        print(f"[ERROR]  list_product_records() failed: {err}")
-
-    # ── 6. List FLAGGED products ──────────────────────────────────────────
-    print("\n[Step 5] Listing only 'flagged' products...")
-    try:
-        flagged_records = list_product_records(review_status="flagged")
-        print(f"         [OK] Flagged products: {len(flagged_records)}")
-        if flagged_records:
-            for r in flagged_records:
-                print(f"           - [{r.id}]  {r.name.value!r}")
-        else:
-            print("           (none — the drill has no conflicting fields)")
-    except Exception as err:
-        print(f"[ERROR]  list_product_records(flagged) failed: {err}")
-
-    # ── 7. Update review status ───────────────────────────────────────────
-    print(f"\n[Step 6] Patching review_status to 'approved' on '{doc_id}'...")
-    try:
-        update_review_status(doc_id, "approved")
-        # Confirm the patch landed
-        patched = get_product_record(doc_id)
-        print(f"         [OK] review_status is now: {patched.review_status!r}")
-    except Exception as err:
-        print(f"[ERROR]  update_review_status() failed: {err}")
-
-    print("\n" + "=" * 62)
-    print("   Smoke test complete.")
-    print("=" * 62)
+    print("\n" + "=" * 75)
+    print("  CURRENT DASHBOARD STATS")
+    print("=" * 75)
+    stats = get_dashboard_stats()
+    print(f"  Total Products In Firestore : {stats['total_products']}")
+    print(f"  Avg Completeness            : {stats['avg_completeness_pct']}%")
+    print(f"  Status Breakdown            : {stats['pending_count']} pending, {stats['flagged_count']} flagged, {stats['approved_count']} approved")

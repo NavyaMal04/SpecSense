@@ -1,0 +1,843 @@
+{
+  "id": "45297BK",
+  "source_row_index": 2,
+  "part_number": "45297BK",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "45297BK",
+  "part_desc": "45297BK Kichler Wall Lt",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Kichler Lighting (KICLI)",
+  "manufacturer_name": {
+    "value": "Kichler Lighting",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.supplylights.com/product/kichler-alton-three-light-bath-in-black-45297bk/",
+    "source_snippet": "Kichler Alton Three Light Bath in Black - 45297BK"
+  },
+  "brand_name": {
+    "value": "Kichler®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.supplylights.com/product/kichler-alton-three-light-bath-in-black-45297bk/",
+    "source_snippet": "Kichler Alton Three Light Bath in Black - 45297BK"
+  },
+  "trade_name": {
+    "value": "Kichler",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
+    "source_snippet": "Alton Bathroom Vanity Light by Kichler"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": "Bathroom Vanity Lights",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+    "source_snippet": "Category Bathroom Vanity Lights"
+  },
+  "mfr_url": {
+    "value": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://www.fergusonhome.com/kichler-45297/s1274487",
+    "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
+    "https://www.affordablelamps.com/kic-45297bk.html",
+    "https://www.kbauthority.com/kichler-45297bk-alton-24-inch-3-lights-wall-mounted-incandescent-vanity-light-black.html"
+  ],
+  "mobile_desc": {
+    "value": "Kichler Lighting, Kichler®, Alton 3 Light 24 inch Black Bath Vanity Light Wall Light, 45297BK",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "ALTON 3 LIGHT 24 INCH BLACK BATH VANITY ",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Kichler® 45297BK, Alton 3 Light 24 inch Black Bath Vanity Light Wall Light, Series: Alton, Model: 45297BK",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Kichler® Alton 3 Light 24 inch Black Bath Vanity Light Wall Light, Series: Alton, Model: 45297BK, Voltage Rating: 120 V, Mounting Type: Wall Mount, Size: 8 in H x 24 in W x 7.5 in D, Height: 8 in, Width: 24 in, Depth: 7.5 in, Weight: 5.00 lbs, Color: Black, Material: Glass, Steel, Country of Origin: China, Primary Number of Bulbs: 3, Socket: E26 (Medium), Wattage Max: 100.00 W, Backplate Width: 9.05 in, Backplate Height: 5 in, Backplate Extension: 1 in, Height from Center of Wall Opening: 3.5 in, Glass Features: Clear Seeded, Lead Wire Length: 6 in, Additional Information: Low Ceiling Adaptable: No, Slope Ceiling Kit: No, Prop 65 Warning, Inspired by the 1920s Bauhaus movement with simple refined geometric forms and decorative hardware accents",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Alton 3 Light 24 inch Black Bath Vanity Light Wall Light, Series: Alton, Model: 45297BK, Voltage Rating: 120 V",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Alton 3 Light 24 inch Black Bath Vanity Light Wall Light from Kichler®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_approvals": {
+    "value": "cETLus Listed Damp",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+    "source_snippet": "UL Ratings: cETLus Listed Damp"
+  },
+  "prop_65": {
+    "value": "Yes",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
+    "source_snippet": "Prop 65 Warning for California Residents This product can expose you to chemicals, which are known in the State of California to cause cancer, birth defects or other reproductive harm."
+  },
+  "application": {
+    "value": "Bathroom Sconce / Bath Vanity Sconce",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.affordablelamps.com/kic-45297bk.html",
+    "source_snippet": "Alton Black 3-Light Bathroom Sconce Lighting"
+  },
+  "includes": {
+    "value": "Clear Seeded Glass shades, steel fixture, mounting hardware",
+    "source_type": "extracted",
+    "confidence": 0.85,
+    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
+    "source_snippet": "Clear seeded glass shades and decorative hardware accents add a classic touch to the timeless design."
+  },
+  "product_name": {
+    "value": "Alton 3 Light 24 inch Black Bath Vanity Light Wall Light",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+    "source_snippet": "Alton 3 Light 24 inch Black Bath Vanity Light Wall Light"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Alton",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "45297BK",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Voltage Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "120",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "V",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mounting Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Wall Mount",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "8 in H x 24 in W x 7-1/2 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "24",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "7-1/2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Weight",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5.00",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Black",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Glass, Steel",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Country of Origin",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "China",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Primary Number of Bulbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Socket",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "E26 (Medium)",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Wattage Max",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "100",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "W",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Backplate Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "9-1/16",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Backplate Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Backplate Extension",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height from Center of Wall Opening",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3-1/2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Glass Features",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Clear Seeded",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Lead Wire Length",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "6",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Low Ceiling Adaptable: No, Slope Ceiling Kit: No, Prop 65 Warning, Inspired by the 1920s Bauhaus movement with simple refined geometric forms and decorative hardware accents",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    },
+    {
+      "asset_type": "installation_manual",
+      "url": {
+        "value": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
+        "source_snippet": null
+      }
+    }
+  ],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-21T07:13:26.591764+00:00",
+  "fields_found_count": 71,
+  "fields_total_count": 105
+}

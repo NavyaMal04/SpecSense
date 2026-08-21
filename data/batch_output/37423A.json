@@ -1,37 +1,37 @@
 {
-  "id": "PP-8BL",
-  "source_row_index": 16,
-  "part_number": "PP-8BL",
+  "id": "37423A",
+  "source_row_index": 5,
+  "part_number": "37423A",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "PP-8BL",
-  "part_desc": "8' Premier Rib XL Black",
+  "mfg_part_num": "37423A",
+  "part_desc": "37423A Kichler Bath Light",
   "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Premier Metals (PREME)",
+  "part_manuf": "Kichler Lighting (KICLI)",
   "manufacturer_name": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
+    "value": "Masco Corporation",
+    "source_type": "extracted",
+    "confidence": 0.9,
     "source_url": null,
     "source_snippet": null
   },
   "brand_name": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
+    "value": "Kichler®",
+    "source_type": "extracted",
+    "confidence": 0.9,
     "source_url": null,
     "source_snippet": null
   },
   "trade_name": {
-    "value": "Premier Metals",
+    "value": "Kichler Lighting",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/profile-premier-rib.html",
-    "source_snippet": "Premier Metals --> Call: (888) 852-1310"
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+    "source_snippet": "Barrington 4 Light Vanity Light Black | Kichler Lighting"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,63 +48,66 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Metal Roofing & Siding",
+    "value": "Bath and Vanity Lights",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/profile-premier-rib.html",
-    "source_snippet": "Metal Roofing & Siding Applications Post Frame"
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+    "source_snippet": "bath-and-vanity-lights"
   },
   "mfr_url": {
-    "value": "https://premiermetals.com/profile-accent-a-panel.html",
+    "value": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://premiermetals.com/assets/images/rib-legacy-panel-weatherxl-info.pdf",
-    "https://premiermetals.com/profile-premier-rib.html",
-    "https://premiermetals.com/",
-    "https://premiermetals.com/assets/images/docs/rib-legacy-panel-weatherxl-info.pdf",
-    "https://pmroof.com/wp-content/uploads/2024/11/PREMIER-Resource-Catalog.pdf"
+    "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
+    "https://manuals.plus/kichler/37423a-4-light-vanity-manual",
+    "https://manuals.plus/m/cd519bbeeddd3cb68c3cdbbf6c54abc7eae80db8e56e3f8e13ffd89148c64dce_optim.pdf",
+    "https://www.rona.ca/en/product/kichler-barrington-913-in-x-295-in-4-light-black-bathroom-vanity-light-37423a-61325017",
+    "https://www.datasheetarchive.com/",
+    "https://www.digchip.com/datasheets/search.php",
+    "https://www.alldatasheet.com/",
+    "https://pdf.datasheetarchive.com/"
   ],
   "mobile_desc": {
-    "value": "Premier Metals (PREME), -- Unbranded --, 8' Premier Rib XL Black, PP-8BL",
+    "value": "Masco Corporation, Kichler®, Barrington Vanity Light 4-Light, 37423A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "8' PREMIER RIB XL BLACK PREMIER RIB PP-8",
+    "value": "BARRINGTON VANITY LIGHT 4-LIGHT BARRINGT",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "-- Unbranded -- PP-8BL, 8' Premier Rib XL Black, Series: Premier Rib, Model: PP-8BL",
+    "value": "Kichler® 37423A, Barrington Vanity Light 4-Light, With True, Series: Barrington, Model: 37423A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "-- Unbranded -- 8' Premier Rib XL Black, Series: Premier Rib, Model: PP-8BL, Color: Black, Material: Steel, Gauge: 28 Gauge, Width: 36 in, Length: 8 ft, Size: 96 in L x 36 in W, Warranty: 40-Year, Substrate: AZ50 / AZ55 Galvalume, Finish / Coating: Sherwin-Williams WeatherXL, Steel Grade: ASTM A792 Grade 80, Weight per Square Foot: 0.6 PSF, Rib Spacing: 9 in, Additional Information: Available with DripStop applied, 40-year warranty, Proven energy efficient, ASTM A792 Grade 80, Standard 28 Gauge steel core",
+    "value": "Kichler® Barrington Vanity Light 4-Light, Series: Barrington, Model: 37423A, Mounting Type: Horizontal, Size: 9.13 in H x 5.5 in W x 29.5 in D, Height: 9.13 in, Width: 5.5 in, Depth: 29.5 in, Weight: 7.81 lbs, Color: Distressed Black, Material: Steel, Number of Bulbs: 4, Socket Type: E26 (Medium), Dimmable: No, Lead Wire Length: 6 in, Height From Center Of Wall: 6.5 in, Additional Information: Install glass up or down, features distressed black metal and wood tone finish, inspired by industrial elements",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "8' Premier Rib XL Black, Series: Premier Rib, Model: PP-8BL, Color: Black",
+    "value": "Barrington Vanity Light 4-Light, Series: Barrington, Model: 37423A, Mounting Type: Horizontal",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality 8' Premier Rib XL Black from -- Unbranded --.",
+    "value": "High quality Barrington Vanity Light 4-Light from Kichler®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -112,32 +115,32 @@
   },
   "item_features": [],
   "with_features": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
-    "source_url": null,
-    "source_snippet": null
+    "value": true,
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+    "source_snippet": "Barrington 4-Light Steel features a distressed black metal and a wood tone finish"
   },
   "standard_approvals": {
-    "value": "ASTM A792 Grade 80",
+    "value": [],
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/assets/images/docs/rib-legacy-panel-weatherxl-info.pdf",
-    "source_snippet": "ASTM A792 GRADE 80"
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
+    "source_snippet": "ADA Compliant No\nProp65 No\nDark Sky Compliant No"
   },
   "prop_65": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
-    "source_url": null,
-    "source_snippet": null
-  },
-  "application": {
-    "value": "Light commercial and residential roofing or siding",
+    "value": "No",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/profile-premier-rib.html",
-    "source_snippet": "Best application: light commercial and residential roofing or siding"
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
+    "source_snippet": "Prop65 No"
+  },
+  "application": {
+    "value": "Interior",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
+    "source_snippet": "Interior/Exterior Interior Product"
   },
   "includes": {
     "value": null,
@@ -147,11 +150,11 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "8' Premier Rib XL Black",
+    "value": "Barrington Vanity Light 4-Light",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://premiermetals.com/profile-premier-rib.html",
-    "source_snippet": "Premier Rib\nThis low-profile metal is customizable for both roofing and siding applications and is available in 28 and 26 gauges."
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
+    "source_snippet": "Barrington Vanity Light 4-Light | Clear Seeded Glass 37423A"
   },
   "attributes": [
     {
@@ -159,14 +162,14 @@
         "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "Premier Rib",
+        "value": "Barrington",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -182,14 +185,14 @@
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "PP-8BL",
+        "value": "37423A",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -202,17 +205,155 @@
     },
     {
       "label": {
-        "value": "Color",
+        "value": "Mounting Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "Black",
+        "value": "Horizontal",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "9-1/8 in H x 5-1/2 in W x 29-1/2 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "9-1/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5-1/2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "29-1/2",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Weight",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "7.81",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Distressed Black",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -228,14 +369,14 @@
         "value": "Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
         "value": "Steel",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -248,17 +389,17 @@
     },
     {
       "label": {
-        "value": "Gauge",
+        "value": "Number of Bulbs",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "28 Gauge",
+        "value": "4",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -271,208 +412,93 @@
     },
     {
       "label": {
-        "value": "Width",
+        "value": "Socket Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "36",
+        "value": "E26 (Medium)",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Dimmable",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "No",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Lead Wire Length",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "6",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       }
     },
     {
       "label": {
-        "value": "Length",
+        "value": "Height From Center Of Wall",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "8",
+        "value": "6-1/2",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "ft",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "96 in L x 36 in W",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Warranty",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "40-Year",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Substrate",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "AZ50 / AZ55 Galvalume",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Finish / Coating",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Sherwin-Williams WeatherXL",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Steel Grade",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "ASTM A792 Grade 80",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Weight per Square Foot",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "0.6",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "PSF",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Rib Spacing",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "9",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       }
     },
@@ -481,14 +507,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "value": {
-        "value": "Available with DripStop applied, 40-year warranty, Proven energy efficient, ASTM A792 Grade 80, Standard 28 Gauge steel core",
+        "value": "Install glass up or down, features distressed black metal and wood tone finish, inspired by industrial elements",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       },
       "uom": {
@@ -637,20 +663,20 @@
     {
       "asset_type": "specification_sheet",
       "url": {
-        "value": "https://premiermetals.com/assets/images/rib-legacy-panel-weatherxl-info.pdf",
+        "value": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       }
     },
     {
-      "asset_type": "specification_sheet",
+      "asset_type": "product_webpage",
       "url": {
-        "value": "https://premiermetals.com/assets/images/docs/rib-legacy-panel-weatherxl-info.pdf",
+        "value": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://premiermetals.com/profile-accent-a-panel.html",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
         "source_snippet": null
       }
     }
@@ -677,7 +703,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-21T05:46:53.611228+00:00",
-  "fields_found_count": 46,
-  "fields_total_count": 84
+  "processed_at": "2026-08-21T07:16:06.244220+00:00",
+  "fields_found_count": 54,
+  "fields_total_count": 87
 }

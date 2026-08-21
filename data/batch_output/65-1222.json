@@ -1,0 +1,916 @@
+{
+  "id": "65-1222",
+  "source_row_index": 0,
+  "part_number": "65-1222",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "65-1222",
+  "part_desc": "65-1222 1' Led Lt Multi CCT",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Satco Prod Inc (5573)",
+  "manufacturer_name": {
+    "value": "Satco Products, Inc.",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.supplyhouse.com/Nuvo-65-1222-LED-1-Connectable-Strip-Light-10W-27K-30K-35K-40K-50K-CCT-Selectable-White-Finish-120V",
+    "source_snippet": "This is a LED 1' Connectable Strip Light; 10W; 27K/30K/35K/40K/50K CCT Selectable; White Finish; 120V manufactured by Satco. SATCO NUVO's 65-1222 LED strip fixture offers 5 CCT selectable technology"
+  },
+  "brand_name": {
+    "value": "Nuvo®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.supplyhouse.com/Nuvo-65-1222-LED-1-Connectable-Strip-Light-10W-27K-30K-35K-40K-50K-CCT-Selectable-White-Finish-120V",
+    "source_snippet": "This is a LED 1' Connectable Strip Light; 10W; 27K/30K/35K/40K/50K CCT Selectable; White Finish; 120V manufactured by Satco. SATCO NUVO's 65-1222 LED strip fixture offers 5 CCT selectable technology"
+  },
+  "trade_name": {
+    "value": "NUVO",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.satco.com/products/65-1222",
+    "source_snippet": "Company NUVO"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": "LED Strip Lights",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.satco.com/products/65-1222",
+    "source_snippet": "LED STRIP FIXTURES STANDARD|CONNECTABLE"
+  },
+  "mfr_url": {
+    "value": "https://www.satco.com/products/65-1222",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.satco.com/products/65-1222",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "https://lightstoreusa.com/products/nuvo-65-1222-led-1-foot-connectable-strip-light-10-watts-27k-30k-35k-40k-50k-cct-selectable-white-finish-120-volt",
+    "https://www.fergusonhome.com/nuvo-lighting-65-1222/s2054903",
+    "https://www.granitecityelectric.com/sat-65-1222-led-1-foot-connectable-strip-light-10-watts-27k-30k-35k-40k-50k-cct-selectable-white-finish-120-volt",
+    "https://www.datasheetarchive.com/",
+    "https://pdf.datasheetarchive.com/",
+    "https://www.alldatasheet.com/",
+    "https://www.digchip.com/datasheets/search.php"
+  ],
+  "mobile_desc": {
+    "value": "Satco Products, Inc., Nuvo®, LED 1 Foot Connectable Strip Light, 65-1222",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "LED 1 FOOT CONNECTABLE STRIP LIGHT 65-12",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Nuvo® 65-1222, LED 1 Foot Connectable Strip Light, With Yes, Model: 65-1222, Voltage Rating: 120V V",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Nuvo® LED 1 Foot Connectable Strip Light, Model: 65-1222, Voltage Rating: 120V V, Amperage Rating: 0.090 A, Power Rating: 10 W, Frequency: 60 Hz, Mounting Type: Connectable / Strip Light, Size: 1.72 in H x 1.56 in W x 12.13 in D, Height: 1.72 in, Width: 1.56 in, Depth: 12.13 in, Weight: 0.71 lbs, Color: White, Material: Steel, Warranty: 5-Years, Operating Temperature Range: -4F to +104F (-20C to +40C), Lens Material: Polycarbonate (PC), Lens Finish: White, Beam Angle: 110 degree, CRI: 90+, Color Temp: 2700K/3000K/3500K/4000K/5000K K, Lumens: 800L-1000L lm, Hours Rated: 50000 hours, Dimmable: Non-Dimmable, Incandescent Equivalent: 60W, Additional Information: Connect up to 30 Units with accessories sold separately, Built-in surge protection - 2.5KV, Damp Location Rated, Title 20 Exempt, CA Prop 65 Lead",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "LED 1 Foot Connectable Strip Light, Model: 65-1222, Voltage Rating: 120V V, Amperage Rating: 0.090 A",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality LED 1 Foot Connectable Strip Light from Nuvo®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": "Yes",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.satco.com/products/65-1222",
+    "source_snippet": "CCT Selectable Yes"
+  },
+  "standard_approvals": {
+    "value": "cETLus, FCC, RoHS",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "source_snippet": "Safety Listing: cETLus\nFCC Compliant: Yes\nRoHS Compliant: Yes"
+  },
+  "prop_65": {
+    "value": "Lead",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "source_snippet": "CA Prop 65: Lead"
+  },
+  "application": {
+    "value": "Indoor utility and connectable strip lighting",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "source_snippet": "Indoor/Outoor: Indoor\nStyle Utility\nConnectable Units: 30"
+  },
+  "includes": {
+    "value": "Integrated LED",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "source_snippet": "Lamp Included : Integrated"
+  },
+  "product_name": {
+    "value": "LED 1 Foot Connectable Strip Light",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+    "source_snippet": "LED 1 Foot Connectable Strip Light; 10 Watts; 27K/30K/35K/40K/50K CCT Selectable; White Finish; 120 Volt"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "65-1222",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Voltage Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "120V",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "V",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Amperage Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "0.090",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "A",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Power Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "10",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "W",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Frequency",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "60",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "Hz",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mounting Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Connectable / Strip Light",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1-3/4 in H x 1-9/16 in W x 12-1/8 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1-3/4",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1-9/16",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "12-1/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Weight",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "0.71",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lbs",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "White",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Steel",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Warranty",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5-Years",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Operating Temperature Range",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "-4F to +104F (-20C to +40C)",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Lens Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Polycarbonate (PC)",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Lens Finish",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "White",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Beam Angle",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "110",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "degree",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "CRI",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "90+",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color Temp",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "2700K/3000K/3500K/4000K/5000K",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "K",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Lumens",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "800L-1000L",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "lm",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Hours Rated",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "50000",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "hours",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Dimmable",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Non-Dimmable",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Incandescent Equivalent",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "60W",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Connect up to 30 Units with accessories sold separately, Built-in surge protection - 2.5KV, Damp Location Rated, Title 20 Exempt, CA Prop 65 Lead",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://snap2satco.com/specifications/specsheet.php?sku=65-1222",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    },
+    {
+      "asset_type": "product_page",
+      "url": {
+        "value": "https://www.satco.com/products/65-1222",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.satco.com/products/65-1222",
+        "source_snippet": null
+      }
+    }
+  ],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-21T07:10:58.394391+00:00",
+  "fields_found_count": 79,
+  "fields_total_count": 114
+}

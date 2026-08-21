@@ -1,37 +1,37 @@
 {
-  "id": "ADB15516CS",
-  "source_row_index": 14,
-  "part_number": "ADB15516CS",
+  "id": "59-J",
+  "source_row_index": 0,
+  "part_number": "59-J",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "ADB15516CS",
-  "part_desc": "1x6-16' Coastline Sq Edge - Vintage Azek PVC Decking",
-  "e1_brand": "TIMBERTECH",
+  "mfg_part_num": "59-J",
+  "part_desc": "Light Buff 59-J Mortar - Type N",
+  "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Parksite (6151)",
+  "part_manuf": "Rees Cast Stone Company (REECA)",
   "manufacturer_name": {
-    "value": "The AZEK Company",
+    "value": "Fairborn Cement Company",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "confidence": 0.9,
+    "source_url": "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
+    "source_snippet": "Pueblo 59-J Fairborn Cement Company?s MIAMICOLOR masonry cement mortar is a high quality, versatile, colored product manufactured by blending Fairborn Cement Company?s masonry cement mortar with colored pigments and white masonry cement mortar when required."
   },
   "brand_name": {
-    "value": "TimberTech®",
+    "value": "MIAMICOLOR",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "confidence": 0.9,
+    "source_url": "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
+    "source_snippet": "Pueblo 59-J Fairborn Cement Company?s MIAMICOLOR masonry cement mortar is a high quality, versatile, colored product manufactured by blending Fairborn Cement Company?s masonry cement mortar with colored pigments and white masonry cement mortar when required."
   },
   "trade_name": {
-    "value": "Azek / TimberTech",
+    "value": "MIAMICOLOR",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "SUPPLIER AZEK/TIMBERTECH"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "Fairborn Cement Company’s MIAMICOLOR masonry cement is a high quality, versatile, colored product"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,66 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Decking",
+    "value": "Masonry Cement",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Shop by Category Ag Products Decking & Railing"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "MIAMICOLOR masonry cements are available in Type N and Type S strengths in either our Masonry Cement or Mortar Cement product lines."
   },
   "mfr_url": {
-    "value": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+    "value": "https://www.fairborncement.com/",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+    "source_url": "https://www.fairborncement.com/",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "https://www.dakotacountylumber.com/p/16-azek-coastline-solid-decking/16CLS",
-    "https://www.datasheetarchive.com/",
-    "https://www.alldatasheet.com/?lang=en",
-    "https://www.digchip.com/datasheets/search.php",
-    "https://pdf.datasheetarchive.com/",
-    "https://www.datasheets.com/",
-    "https://www.sierraic.com/buy_online/datasheet"
+    "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "https://www.lampus.com/files/Resources/Miami-Fairborn-MasonryMortar.pdf",
+    "https://www.fairborncement.com/product/",
+    "https://www.linkedin.com/company/fairborn-cement-company",
+    "https://cdn-global.laticrete.com/-/media/project/laticrete-international/north-america/product-documents/product-data-sheets/ds-60-1.ashx?sc_lang=en&vs=1&d=20220512T213403Z",
+    "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
+    "https://www.quikrete.com/pdfs/spec_guide-mortar.pdf",
+    "https://www.passcon-inc.com/masonry-cement.html"
   ],
   "mobile_desc": {
-    "value": "The AZEK Company, TimberTech®, Vintage Collection Deck Board, ADB15516CS",
+    "value": "Fairborn Cement Company, MIAMICOLOR, MIAMICOLOR Masonry Cement Type N - Pueblo (59-J), 59-J",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "VINTAGE COLLECTION DECK BOARD VINTAGE CO",
+    "value": "MIAMICOLOR MASONRY CEMENT TYPE N - PUEBL",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "TimberTech® ADB15516CS, Vintage Collection Deck Board, With Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending, Series: Vintage Collection, Model: AGB15516CS",
+    "value": "MIAMICOLOR 59-J, MIAMICOLOR Masonry Cement Type N - Pueblo (59-J), With Yes, Series: MIAMICOLOR, Model: 59-J",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "TimberTech® Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D, Height: 1 in, Width: 5.5 in, Depth: 16 ft, Color: Coastline, Certifications: ASTM D7032, ASTM E84, Additional Information: Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
+    "value": "MIAMICOLOR MIAMICOLOR Masonry Cement Type N - Pueblo (59-J), Series: MIAMICOLOR, Model: 59-J, Color: Pueblo, Material: Blended Masonry Cement with Pigments, Certifications: ASTM C91, ASTM C1329, ASTM C270, ASTM C144, Country of Origin: United States, Strength Type: Type N, Pigment Type: Iron Oxide, Additional Information: UV resistant, minimal fading, factory blended under strict quality conditions, American Owned and American Made",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D",
+    "value": "MIAMICOLOR Masonry Cement Type N - Pueblo (59-J), Series: MIAMICOLOR, Model: 59-J, Color: Pueblo",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Vintage Collection Deck Board from TimberTech®.",
+    "value": "High quality MIAMICOLOR Masonry Cement Type N - Pueblo (59-J) from MIAMICOLOR.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,18 +115,18 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending",
+    "value": "Yes",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Super Durable Fade & Stain Resistant Splinter Free & Barefoot Friendly Sustainable Low Maintenance Top-Rated Fire Resistance"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "MIAMICOLOR masonry cement is produced using iron oxide pigments which are notable for their UV resistance and minimal fading qualities."
   },
   "standard_approvals": {
-    "value": "ASTM D7032, ASTM E84",
+    "value": "ASTM C91, ASTM C1329, ASTM C270, ASTM C144",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Applicable Standards : ASTM D7032 ASTM E84"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "Fairborn Cement Company’s MIAMICOLOR masonry cements conform to the physical requirements of ASTM C91 and ASTM C1329 for mortar cement. MIAMICOLOR masonry cements are manufactured in Type N and Type S strengths for use in preparing ASTM C270 Types N and S mortar. MIAMICOLOR masonry cements are designed to be mixed with clean water and masonry sand conforming to ASTM C144."
   },
   "prop_65": {
     "value": null,
@@ -136,11 +136,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Decking",
+    "value": "Preparing masonry mortar for bonding masonry units like brick, block, and stone",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "Mortar is the glue that bonds masonry units like brick, block and stone together to form a single mass."
   },
   "includes": {
     "value": null,
@@ -150,11 +150,11 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Vintage Collection Deck Board",
+    "value": "MIAMICOLOR Masonry Cement Type N - Pueblo (59-J)",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board Coastline"
+    "source_url": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+    "source_snippet": "Fairborn Cement Company MIAMICOLOR Masonry Cement - Type S, Color Name: Pueblo, Color Code: 59-J"
   },
   "attributes": [
     {
@@ -162,14 +162,14 @@
         "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "Vintage Collection",
+        "value": "MIAMICOLOR",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "uom": {
@@ -185,14 +185,14 @@
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "AGB15516CS",
+        "value": "59-J",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "uom": {
@@ -200,98 +200,6 @@
         "source_type": "unavailable",
         "confidence": 0.0,
         "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1 in H x 5-1/2 in W x 192 in D",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Width",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5-1/2",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "16",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "ft",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
         "source_snippet": null
       }
     },
@@ -300,14 +208,37 @@
         "value": "Color",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "Coastline",
+        "value": "Pueblo",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Blended Masonry Cement with Pigments",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "uom": {
@@ -323,14 +254,83 @@
         "value": "Certifications",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "ASTM D7032, ASTM E84",
+        "value": "ASTM C91, ASTM C1329, ASTM C270, ASTM C144",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Country of Origin",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "United States",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Strength Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Type N",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Pigment Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Iron Oxide",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "uom": {
@@ -346,14 +346,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
+        "value": "UV resistant, minimal fading, factory blended under strict quality conditions, American Owned and American Made",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://www.fairborncement.com/",
         "source_snippet": null
       },
       "uom": {
@@ -498,7 +498,28 @@
     "source_url": null,
     "source_snippet": null
   },
-  "assets": [],
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      }
+    },
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://www.lampus.com/files/Resources/Miami-Fairborn-MasonryMortar.pdf",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.fairborncement.com/",
+        "source_snippet": null
+      }
+    }
+  ],
   "country_of_origin": {
     "value": null,
     "source_type": "unavailable",
@@ -521,7 +542,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-21T05:42:58.956426+00:00",
-  "fields_found_count": 36,
+  "processed_at": "2026-08-21T06:04:10.415573+00:00",
+  "fields_found_count": 33,
   "fields_total_count": 66
 }

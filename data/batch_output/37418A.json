@@ -1,37 +1,37 @@
 {
-  "id": "49-94-0013",
+  "id": "37418A",
   "source_row_index": 4,
-  "part_number": "49-94-0013",
+  "part_number": "37418A",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "49-94-0013",
-  "part_desc": "49-94-0013 Milw 5\"x.045\"x7/8\" Metal Cut Off Disc",
+  "mfg_part_num": "37418A",
+  "part_desc": "37418A Kichler Bath Light",
   "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Milwaukee Accessory (4031)",
+  "part_manuf": "Kichler Lighting (KICLI)",
   "manufacturer_name": {
-    "value": "Milwaukee Electric Tool",
+    "value": "Kichler Lighting LLC",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.milwaukeetool.com/products/details/5-x-045-x-7-8-metal-cut-off-wheel-type-1/49-94-0013",
-    "source_snippet": "Our cut-off wheels offer exceptional versatility for cutting through carbon steel, stainless steel, and nickel-based alloys, including materials such as steel, angle iron, pipe, rebar, and other ferrous metals."
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37418a.pdf",
+    "source_snippet": "Barrington Vanity Light 3-Light | Clear Seeded Glass 37418A © 2024 Kichler Lighting LLC All Rights Reserved"
   },
   "brand_name": {
-    "value": "Milwaukee®",
+    "value": "Kichler®",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.milwaukeetool.com/products/details/5-x-045-x-7-8-metal-cut-off-wheel-type-1/49-94-0013",
-    "source_snippet": "Our cut-off wheels offer exceptional versatility for cutting through carbon steel, stainless steel, and nickel-based alloys, including materials such as steel, angle iron, pipe, rebar, and other ferrous metals."
+    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37418a.pdf",
+    "source_snippet": "Barrington Vanity Light 3-Light | Clear Seeded Glass 37418A © 2024 Kichler Lighting LLC All Rights Reserved"
   },
   "trade_name": {
-    "value": "Milwaukee",
+    "value": "Kichler",
     "source_type": "extracted",
     "confidence": 0.9,
-    "source_url": "",
-    "source_snippet": "Milw"
+    "source_url": "https://www.datasheetarchive.com/",
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -55,50 +55,56 @@
     "source_snippet": null
   },
   "mfr_url": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
-    "source_url": null,
-    "source_snippet": null
+    "value": "https://www.datasheetarchive.com/",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.datasheetarchive.com/",
+    "source_snippet": "Official Manufacturer Product Page"
   },
-  "ref_urls": [],
+  "ref_urls": [
+    "https://www.digchip.com/datasheets/search.php",
+    "https://pdf.datasheetarchive.com/",
+    "https://datasheets.globalspec.com/",
+    "https://www.datasheets.com/",
+    "https://www.alldatasheet.com/"
+  ],
   "mobile_desc": {
-    "value": "Milwaukee Electric Tool, Milwaukee®, Metal Cut Off Disc, 49-94-0013",
+    "value": "Kichler Lighting LLC, Kichler®, 37418A Kichler Bath Light, 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "METAL CUT OFF DISC 49-94-0013 5 IN X 0.0",
+    "value": "37418A KICHLER BATH LIGHT 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "Milwaukee® 49-94-0013, Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in",
+    "value": "Kichler® 37418A, 37418A Kichler Bath Light, Model: 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "Milwaukee® Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in, Diameter: 5 in, Thickness: 0.045 in, Arbor Size: 7/8 in, Material: Metal",
+    "value": "Kichler® 37418A Kichler Bath Light, Model: 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Metal Cut Off Disc, Model: 49-94-0013, Size: 5 in x 0.045 in x 7/8 in, Diameter: 5 in",
+    "value": "37418A Kichler Bath Light, Model: 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Metal Cut Off Disc from Milwaukee®.",
+    "value": "High quality 37418A Kichler Bath Light from Kichler®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -127,11 +133,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Metal Cutting",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "",
-    "source_snippet": "Metal Cut Off Disc"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": null,
@@ -141,11 +147,11 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Metal Cut Off Disc",
+    "value": "37418A Kichler Bath Light",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "",
-    "source_snippet": "Metal Cut Off Disc"
+    "source_url": "https://www.datasheetarchive.com/",
+    "source_snippet": null
   },
   "attributes": [
     {
@@ -153,129 +159,14 @@
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "",
+        "source_url": "https://www.datasheetarchive.com/",
         "source_snippet": null
       },
       "value": {
-        "value": "49-94-0013",
+        "value": "37418A",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5 in x 1/16 in x 7/8 in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Diameter",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Thickness",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1/16",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Arbor Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "7/8",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Metal",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "",
+        "source_url": "https://www.datasheetarchive.com/",
         "source_snippet": null
       },
       "uom": {
@@ -443,7 +334,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-19T16:36:50.191501+00:00",
-  "fields_found_count": 26,
-  "fields_total_count": 57
+  "processed_at": "2026-08-21T07:15:12.316343+00:00",
+  "fields_found_count": 13,
+  "fields_total_count": 42
 }

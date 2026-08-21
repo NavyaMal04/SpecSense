@@ -1,37 +1,37 @@
 {
-  "id": "ADB15516CS",
-  "source_row_index": 14,
-  "part_number": "ADB15516CS",
+  "id": "44-A",
+  "source_row_index": 0,
+  "part_number": "44-A",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "ADB15516CS",
-  "part_desc": "1x6-16' Coastline Sq Edge - Vintage Azek PVC Decking",
-  "e1_brand": "TIMBERTECH",
+  "mfg_part_num": "44-A",
+  "part_desc": "Light Chocolate 44-A Mortar - Type N",
+  "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Parksite (6151)",
+  "part_manuf": "Rees Cast Stone Company (REECA)",
   "manufacturer_name": {
-    "value": "The AZEK Company",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "TimberTech®",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
-    "value": "Azek / TimberTech",
+    "value": "Light Chocolate 44-A Mortar - Type N",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "SUPPLIER AZEK/TIMBERTECH"
+    "source_url": "https://caststone.org/specifications",
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,66 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Decking",
+    "value": "Building Materials > Masonry > Mortar",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Shop by Category Ag Products Decking & Railing"
+    "source_url": "https://caststone.org/specifications",
+    "source_snippet": null
   },
   "mfr_url": {
-    "value": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+    "value": "https://caststone.org/specifications",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+    "source_url": "https://caststone.org/specifications",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "https://www.dakotacountylumber.com/p/16-azek-coastline-solid-decking/16CLS",
-    "https://www.datasheetarchive.com/",
-    "https://www.alldatasheet.com/?lang=en",
-    "https://www.digchip.com/datasheets/search.php",
-    "https://pdf.datasheetarchive.com/",
-    "https://www.datasheets.com/",
-    "https://www.sierraic.com/buy_online/datasheet"
+    "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf",
+    "https://www.chamberofcommerce.com/business-directory/ohio/dover/concrete-contractor/28959517-rees-cast-stone-co",
+    "https://www.buzzfile.com/business/Rees,-E-J-Cast-Stone-330-343-6677",
+    "https://www.yellowpages.com/dover-oh/mip/rees-cast-stone-co-inc-15458039",
+    "https://industrynet.com/listing/1075738/rees-cast-stone-co",
+    "https://usmix.com/wp-content/uploads/2025/10/AMX-Color-Chart-2025.pdf",
+    "https://www.mortar.org.uk/MPAMortar/media/Mortar/Publications/Learning-Texts/LT09-Specifications.pdf",
+    "https://theconstructor.org/building/types-mortar-masonry/12396/"
   ],
   "mobile_desc": {
-    "value": "The AZEK Company, TimberTech®, Vintage Collection Deck Board, ADB15516CS",
+    "value": "Rees Cast Stone Company (REECA), -- Unbranded --, Light Chocolate 44-A Mortar - Type N, 44-A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "VINTAGE COLLECTION DECK BOARD VINTAGE CO",
+    "value": "LIGHT CHOCOLATE 44-A MORTAR - TYPE N 44-",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "TimberTech® ADB15516CS, Vintage Collection Deck Board, With Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending, Series: Vintage Collection, Model: AGB15516CS",
+    "value": "-- Unbranded -- 44-A, Light Chocolate 44-A Mortar - Type N, Model: 44-A, Color: Light Chocolate",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "TimberTech® Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D, Height: 1 in, Width: 5.5 in, Depth: 16 ft, Color: Coastline, Certifications: ASTM D7032, ASTM E84, Additional Information: Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
+    "value": "-- Unbranded -- Light Chocolate 44-A Mortar - Type N, Model: 44-A, Color: Light Chocolate, Material: Portland cement, lime, sand, Mortar Type: Type N, Certifications: ASTM C270, ASTM C144, ASTM C979, Additional Information: Composition includes plasticizing agents to reduce shrinkage, pigmented to match architectural cast stone without compromising durability",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D",
+    "value": "Light Chocolate 44-A Mortar - Type N, Model: 44-A, Color: Light Chocolate, Material: Portland cement, lime, sand",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Vintage Collection Deck Board from TimberTech®.",
+    "value": "High quality Light Chocolate 44-A Mortar - Type N from -- Unbranded --.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,18 +115,18 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Super Durable Fade & Stain Resistant Splinter Free & Barefoot Friendly Sustainable Low Maintenance Top-Rated Fire Resistance"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
-    "value": "ASTM D7032, ASTM E84",
+    "value": "ASTM C270",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Applicable Standards : ASTM D7032 ASTM E84"
+    "source_url": "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf",
+    "source_snippet": "Type N Mortar (ASTM C270)"
   },
   "prop_65": {
     "value": null,
@@ -136,11 +136,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Decking",
+    "value": "Cast stone masonry installations, architectural feature trim, ornament or facing setting",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board"
+    "source_url": "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf",
+    "source_snippet": "Mortar selection is a critical factor in the performance and longevity of cast stone masonry."
   },
   "includes": {
     "value": null,
@@ -150,49 +150,26 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Vintage Collection Deck Board",
+    "value": "Light Chocolate 44-A Mortar - Type N",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board Coastline"
+    "source_url": "https://caststone.org/specifications",
+    "source_snippet": null
   },
   "attributes": [
-    {
-      "label": {
-        "value": "Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Vintage Collection",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
     {
       "label": {
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "value": {
-        "value": "AGB15516CS",
+        "value": "44-A",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "uom": {
@@ -200,98 +177,6 @@
         "source_type": "unavailable",
         "confidence": 0.0,
         "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1 in H x 5-1/2 in W x 192 in D",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Width",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5-1/2",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "16",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "ft",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
         "source_snippet": null
       }
     },
@@ -300,14 +185,60 @@
         "value": "Color",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "value": {
-        "value": "Coastline",
+        "value": "Light Chocolate",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://caststone.org/specifications",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Portland cement, lime, sand",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://caststone.org/specifications",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mortar Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://caststone.org/specifications",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Type N",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "uom": {
@@ -323,14 +254,14 @@
         "value": "Certifications",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "value": {
-        "value": "ASTM D7032, ASTM E84",
+        "value": "ASTM C270, ASTM C144, ASTM C979",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "uom": {
@@ -346,14 +277,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "value": {
-        "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
+        "value": "Composition includes plasticizing agents to reduce shrinkage, pigmented to match architectural cast stone without compromising durability",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "https://caststone.org/specifications",
         "source_snippet": null
       },
       "uom": {
@@ -498,7 +429,18 @@
     "source_url": null,
     "source_snippet": null
   },
-  "assets": [],
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://caststone.org/specifications",
+        "source_snippet": null
+      }
+    }
+  ],
   "country_of_origin": {
     "value": null,
     "source_type": "unavailable",
@@ -521,7 +463,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-21T05:42:58.956426+00:00",
-  "fields_found_count": 36,
-  "fields_total_count": 66
+  "processed_at": "2026-08-21T07:07:35.338657+00:00",
+  "fields_found_count": 24,
+  "fields_total_count": 57
 }

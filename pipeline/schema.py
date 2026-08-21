@@ -1,5 +1,5 @@
 from typing import Optional, List, Literal, Generic, TypeVar, Dict, Any
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 T = TypeVar("T")
 
@@ -8,11 +8,21 @@ class FieldValue(BaseModel, Generic[T]):
     """
     Sub-model wrapping a field value with provenance and audit metadata.
     """
-    value: Optional[T] = None
+    value: Optional[Any] = None
     source_type: Literal["extracted", "inferred", "unavailable"] = "unavailable"
     confidence: float = Field(default=0.0, ge=0.0, le=1.0)
     source_url: Optional[str] = None
     source_snippet: Optional[str] = None
+
+    @field_validator("value", mode="before")
+    @classmethod
+    def normalize_value(cls, v: Any) -> Any:
+        if isinstance(v, bool):
+            return "Yes" if v else "No"
+        if isinstance(v, (list, tuple)):
+            clean = [str(x).strip() for x in v if x is not None and str(x).strip()]
+            return ", ".join(clean) if clean else None
+        return v
 
 
 class AttributeEntry(BaseModel):
