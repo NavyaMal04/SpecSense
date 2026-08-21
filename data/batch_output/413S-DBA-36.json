@@ -1,0 +1,676 @@
+{
+  "id": null,
+  "source_row_index": 11,
+  "part_number": "413S-DBA-36",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "413S-DBA-36",
+  "part_desc": "413S 36\" Alum Threshold DBZ",
+  "e1_brand": "HAGER",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Hager Hinge Co (4189)",
+  "manufacturer_name": {
+    "value": "Hager Companies",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.uhs-hardware.com/products/hager-413s-threshold-saddle-36-mil",
+    "source_snippet": "Since Hager’s inception in 1849 their Hager brand commercial hinges have always been made right here in America. And it’s not just hinges. The bulk of Hager’s traditional door hardware lines are American-made."
+  },
+  "brand_name": {
+    "value": "Hager®",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.uhs-hardware.com/products/hager-413s-threshold-saddle-36-mil",
+    "source_snippet": "Since Hager’s inception in 1849 their Hager brand commercial hinges have always been made right here in America. And it’s not just hinges. The bulk of Hager’s traditional door hardware lines are American-made."
+  },
+  "trade_name": {
+    "value": "Hager",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.trudoor.com/hager/413s-saddle-threshold/",
+    "source_snippet": "Hager 413S Saddle Threshold"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": "Door Hardware / Thresholds",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
+    "source_snippet": "Product Subgroup: Door Thresholds"
+  },
+  "mfr_url": {
+    "value": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://www.arcat.com/downloads/hager-companies-32922-hagerhin/cad/Q:thresholds?mf=04",
+    "https://thebuilderssupply.com/hager-413s-72-dba-threshold",
+    "https://prod-trudoor-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/02/06152648/Hager-413S.pdf",
+    "https://media.topnotchinc.com/docs/pricebooks/Hager+Thresholds+&+Weatherstripping+May+1,+2022.pdf",
+    "https://www.trudoor.com/hager/413s-saddle-threshold/",
+    "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
+    "https://mt2.absupply.net/Hager-Company-413S-32D-36-ThresholdSaddle-36-Inch.aspx?ppt=3",
+    "https://www.hager.co.in/downloads/technical-information/product-data-sheet/1303.htm"
+  ],
+  "mobile_desc": {
+    "value": "Hager Companies, Hager®, Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\", 413S-DBA-36",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "HAGER 413S DARK BRONZE ANODIZED SADDLE T",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "Hager® 413S-DBA-36, Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\", With Yes, Series: Hager Weatherstripping and Thresholds, Model: 413S",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "Hager® Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\", Series: Hager Weatherstripping and Thresholds, Model: 413S, Size: 1/4 in H x 5 in W x 36 in D, Height: 1/4 in, Width: 5 in, Depth: 36 in, Color: Dark Bronze Anodized, Material: Aluminum, Certifications: BHMA Certified Handicap Accessibility, UL Listed, Warranty: Five-Year Warranty, Fasteners: #10 x 1-1/2\" sheet metal screws, Fire Rating: Up to 3 Hours with metal doors; 90 minutes with wood doors, ADA Compliant: Yes, Subtype: Saddle Threshold, Additional Information: Available with Sure-Step non-slip abrasive coating, Supplied with color-matched screws plated to match",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\", Series: Hager Weatherstripping and Thresholds, Model: 413S, Size: 1/4 in H x 5 in W x 36 in D",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\" from Hager®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": "Yes",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
+    "source_snippet": "Professional Features & Benefits"
+  },
+  "standard_approvals": {
+    "value": "BHMA Certified, Handicap Accessibility, ADA Compliant, UL Listed",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+    "source_snippet": "BHMA Certified Handicap Accessibility\nUL Listed"
+  },
+  "prop_65": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "application": {
+    "value": "Commercial applications requiring ADA compliance and fire-rated door assemblies",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
+    "source_snippet": "making it ideal for commercial applications requiring ADA compliance. ... fire-rated door assemblies"
+  },
+  "includes": {
+    "value": "#10 x 1-1/2\" sheet metal screws (plated to match Dark Bronze Anodized finish)",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+    "source_snippet": "Fasteners #10 x 1-1/2” sheet metal screws ... Color anodized thresholds are supplied with screws plated to match"
+  },
+  "product_name": {
+    "value": "Hager 413S Dark Bronze Anodized Saddle Threshold 5\" x 1/4\" x 36\"",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+    "source_snippet": "413S 36\" Alum Threshold DBZ"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Hager Weatherstripping and Thresholds",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "413S",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1/4 in H x 5 in W x 36 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "1/4",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "36",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Dark Bronze Anodized",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Aluminum",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Certifications",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "BHMA Certified Handicap Accessibility, UL Listed",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Warranty",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Five-Year Warranty",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Fasteners",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "#10 x 1-1/2\" sheet metal screws",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Fire Rating",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Up to 3 Hours with metal doors; 90 minutes with wood doors",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "ADA Compliant",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Yes",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Subtype",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Saddle Threshold",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Available with Sure-Step non-slip abrasive coating, Supplied with color-matched screws plated to match",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [
+    {
+      "asset_type": "specification_sheet",
+      "url": {
+        "value": "https://prod-trudoor-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/02/06152648/Hager-413S.pdf",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
+        "source_snippet": null
+      }
+    }
+  ],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-21T05:39:21.431119+00:00",
+  "fields_found_count": 49,
+  "fields_total_count": 84
+}

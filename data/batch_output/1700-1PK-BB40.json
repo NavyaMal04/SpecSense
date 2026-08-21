@@ -1,37 +1,37 @@
 {
   "id": null,
-  "source_row_index": 0,
-  "part_number": "05134545001",
+  "source_row_index": 10,
+  "part_number": "1700-1PK-BB40",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "05134545001",
-  "part_desc": "9516 Kneeling Pad & Bottle Opener",
-  "e1_brand": "Wera",
+  "mfg_part_num": "1700-1PK-BB40",
+  "part_desc": "3/4x60' Vinyl Elect Tape",
+  "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
-  "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Wera Tools NA Inc (WERTO)",
+  "dib_brand": "3M",
+  "part_manuf": "3 M Co (5293)",
   "manufacturer_name": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG",
+    "value": "3M Company",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "3M™ Temflex 1700 vinyl electrical tape is a quality, economical general purpose vinyl insulating tape."
   },
   "brand_name": {
-    "value": "Wera®",
+    "value": "3M™",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "3M™ Temflex 1700 vinyl electrical tape is a quality, economical general purpose vinyl insulating tape."
   },
   "trade_name": {
-    "value": "Wera",
+    "value": "3M",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Brand: Wera"
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,66 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Mechanics Creepers, Seats & Mats",
+    "value": "Tapes > Electrical Tapes > Vinyl Electrical Tapes",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Category: Mechanics Creepers, Seats & Mats"
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "All 3M Products Tapes Electrical Tapes Vinyl Electrical Tapes"
   },
   "mfr_url": {
-    "value": "https://www.bigredpowertools.co.uk/wera-05134545001",
+    "value": "https://www.3m.com/3M/en_US/p/d/v101363404/",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "https://www.eio.com/products/wera-05134545001-comfort-refreshment-set-9516-2-pc",
-    "https://whiterosetools.com/en-us/products/wera-kneeling-pad-9516-with-bottle-opener-comfort-and-refreshment-set-knee-saver-mat-2-pieces",
-    "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "https://www.amazon.co.uk/Wera-05134545001-9516-Kneepat-Cushion/dp/B0CFY2GJ84",
-    "https://www.propowertoolparts.com/product/wera-05134545001-9516-wera-comfort-refreshment-set-2-pieces/",
-    "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener"
+    "https://www.3m.com/3M/en_US/p/c/tapes/electrical/vinyl/",
+    "https://www.3m.com/3M/en_US/p/c/tapes/",
+    "https://www.3m.com/3M/en_US/p/d/v100849643/",
+    "https://store.dealershopusa.com/3m-temflex-1700-black-electrical-tape-3-4-in-x-60-7-mil-65429-/p76825/",
+    "https://www.3m.com/3M/en_US/p/c/tapes/electrical/",
+    "https://www.3m.com/3M/en_US/p/c/tapes/i/consumer/",
+    "https://www.alldatasheet.com/datasheet-pdf/pdf/1043797/3M/1700.html",
+    "https://technicaldatasheets.3m.com/"
   ],
   "mobile_desc": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG, Wera®, Wera 9516 Comfort & Refreshment Set 2 Pieces, 05134545001",
+    "value": "3M Company, 3M™, 3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil, 1700-1PK-BB40",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "WERA 9516 COMFORT & REFRESHMENT SET 2 PI",
+    "value": "3M™ TEMFLEX 1700 VINYL ELECTRICAL TAPE 1",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "Wera® 05134545001, Wera 9516 Comfort & Refreshment Set 2 Pieces, With Yes, Model: 05134545001, Series: 9516",
+    "value": "3M™ 1700-1PK-BB40, 3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil, Series: Temflex, Model: 1700-1PK-BB40",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "Wera® Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm, Width: 480 mm, Depth: 280 mm, Size: 0.79 in H x 18.90 in W x 11.02 in D, Weight: 280 g, Material: Memory foam, Country of Origin: Czech Republic, Warranty: Lifetime warranty, Certifications: RoHS Compliant, Additional Information: Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
+    "value": "3M™ 3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil, Series: Temflex, Model: 1700-1PK-BB40, Voltage Rating: 600 V, Size: 3/4 in x 60 ft x 7 mil, Width: 0.75 in, Length: 60 ft, Thickness: 7 mil, Material: Polyvinyl Chloride (PVC), Backing Material: Polyvinyl Chloride (PVC), Adhesive Material: Rubber-Resin, Operating Temperature Range: 32 to 176 °F (0 to 80 °C), Flame Retardant: Yes, Certifications: UL Listed, CSA Certified, RoHS 2011/65/EU Compliant, Additional Information: General purpose vinyl insulating tape, High wet dielectric strength, Conformable, Resistant to copper corrosion, For use above or below ground",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm",
+    "value": "3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil, Series: Temflex, Model: 1700-1PK-BB40, Voltage Rating: 600 V",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Wera 9516 Comfort & Refreshment Set 2 Pieces from Wera®.",
+    "value": "High quality 3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil from 3M™.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,18 +115,18 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "The material also returns to its original shape after use (memory foam). The integrated handle allows for easy portability. The knee pad is waterproof"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
-    "value": "RoHS Compliant",
+    "value": "UL Listed, CSA Certified, RoHS 2011/65/EU Compliant",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "source_snippet": "RoHS Compliant: Yes"
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "UL Listed, CSA Certified and RoHS 2011/65/EU Compliant"
   },
   "prop_65": {
     "value": null,
@@ -136,63 +136,40 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Kneeling activities, especially when working on hard floors",
+    "value": "Primary electrical insulation for most wire and cable splices rated up to 600 volts, protective jacketing and harnessing",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "Primary electrical insulation for most wire and cable splices rated up to 600 volts\nFor protective jacketing and harnessing"
   },
   "includes": {
-    "value": "Kneeling Pad, Bottle Opener with Kraftform handle",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "product_name": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces",
+    "value": "3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces 05134545001"
+    "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+    "source_snippet": "3M™ Temflex 1700 Vinyl Electrical Tape 1700-1PK-BB40, 3/4 in x 60 ft x 7 mil"
   },
   "attributes": [
-    {
-      "label": {
-        "value": "Model",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "05134545001",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
     {
       "label": {
         "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "9516",
+        "value": "Temflex",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -205,70 +182,47 @@
     },
     {
       "label": {
-        "value": "Height",
+        "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "20",
+        "value": "1700-1PK-BB40",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
-        "value": "mm",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
         "source_snippet": null
       }
     },
     {
       "label": {
-        "value": "Width",
+        "value": "Voltage Rating",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "480",
+        "value": "600",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
-        "value": "mm",
+        "value": "V",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "280",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "mm",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       }
     },
@@ -277,14 +231,14 @@
         "value": "Size",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "13/16 in H x 18-7/8 in W x 11 in D",
+        "value": "3/4 in x 60 ft x 7 mil",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -297,24 +251,70 @@
     },
     {
       "label": {
-        "value": "Weight",
+        "value": "Width",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "280",
+        "value": "3/4",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
-        "value": "g",
+        "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Length",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "60",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "ft",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Thickness",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "7",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "mil",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       }
     },
@@ -323,14 +323,14 @@
         "value": "Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "Memory foam",
+        "value": "Polyvinyl Chloride (PVC)",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -343,17 +343,17 @@
     },
     {
       "label": {
-        "value": "Country of Origin",
+        "value": "Backing Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "Czech Republic",
+        "value": "Polyvinyl Chloride (PVC)",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -366,17 +366,63 @@
     },
     {
       "label": {
-        "value": "Warranty",
+        "value": "Adhesive Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "Lifetime warranty",
+        "value": "Rubber-Resin",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Operating Temperature Range",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "32 to 176 °F (0 to 80 °C)",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Flame Retardant",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Yes",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -392,14 +438,14 @@
         "value": "Certifications",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "RoHS Compliant",
+        "value": "UL Listed, CSA Certified, RoHS 2011/65/EU Compliant",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -415,14 +461,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "value": {
-        "value": "Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
+        "value": "General purpose vinyl insulating tape, High wet dielectric strength, Conformable, Resistant to copper corrosion, For use above or below ground",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.3m.com/3M/en_US/p/d/v101363404/",
         "source_snippet": null
       },
       "uom": {
@@ -590,7 +636,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-20T11:09:05.296622+00:00",
-  "fields_found_count": 44,
-  "fields_total_count": 75
+  "processed_at": "2026-08-21T05:38:08.606617+00:00",
+  "fields_found_count": 46,
+  "fields_total_count": 81
 }
