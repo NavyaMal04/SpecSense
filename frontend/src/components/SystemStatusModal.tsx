@@ -1,23 +1,42 @@
-import React from 'react';
-import { CheckCircle2, Server, Shield, Cpu, Clock, Zap, X, User } from 'lucide-react';
+import React, { useEffect, useState } from 'react';
+import { CheckCircle2, XCircle, X, Loader2 } from 'lucide-react';
 import { playCyberSound } from '../utils/audio';
+import { api, API_BASE } from '../api';
+import { TelemetryResponse } from '../types';
 
 interface SystemStatusModalProps {
   onClose: () => void;
 }
 
 export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose }) => {
+  const [connected, setConnected] = useState<boolean | null>(null);
+  const [version, setVersion] = useState<string | null>(null);
+  const [telemetry, setTelemetry] = useState<TelemetryResponse | null>(null);
+
+  useEffect(() => {
+    api
+      .ping()
+      .then((res) => {
+        setConnected(true);
+        setVersion(res.version);
+      })
+      .catch(() => setConnected(false));
+    api.getTelemetry().then(setTelemetry).catch(() => {});
+  }, []);
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fadeIn">
-      <div className="glass-panel-glow max-w-xl w-full rounded-2xl p-6 relative border border-[#4edea3]/40 shadow-2xl">
+      <div className={`glass-panel-glow max-w-xl w-full rounded-2xl p-6 relative border shadow-2xl ${connected ? 'border-[#4edea3]/40' : 'border-[#ff6b6b]/40'}`}>
         <div className="flex items-center justify-between pb-4 border-b border-white/10">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-[#4edea3]/10 flex items-center justify-center border border-[#4edea3]/30 text-[#4edea3]">
-              <CheckCircle2 className="w-6 h-6" />
+            <div className={`w-10 h-10 rounded-xl flex items-center justify-center border ${connected ? 'bg-[#4edea3]/10 border-[#4edea3]/30 text-[#4edea3]' : 'bg-[#ff6b6b]/10 border-[#ff6b6b]/30 text-[#ff6b6b]'}`}>
+              {connected === null ? <Loader2 className="w-6 h-6 animate-spin" /> : connected ? <CheckCircle2 className="w-6 h-6" /> : <XCircle className="w-6 h-6" />}
             </div>
             <div>
-              <h3 className="text-xl font-bold text-[#dce1fb] font-sans">System Status: Optimal</h3>
-              <p className="font-mono text-xs text-[#4edea3]">SpecSense Core Telemetry Operating at 100% SLA</p>
+              <h3 className="text-xl font-bold text-[#dce1fb] font-sans">
+                {connected === null ? 'Checking API…' : connected ? 'Backend Connected' : 'Backend Unreachable'}
+              </h3>
+              <p className="font-mono text-xs text-[#869397] break-all">{API_BASE}</p>
             </div>
           </div>
           <button
@@ -32,37 +51,37 @@ export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose })
         </div>
 
         <div className="mt-4 space-y-4 font-mono text-xs">
+          {!connected && connected !== null && (
+            <div className="p-3.5 bg-[#151b2d] rounded-lg border border-[#ff6b6b]/20 text-[#ffb4ab]">
+              Could not reach the FastAPI backend. Start it with{' '}
+              <code className="text-[#4cd7f6]">uvicorn backend.main:app --reload</code> and confirm
+              <code className="text-[#4cd7f6]"> VITE_API_BASE_URL</code> in <code>frontend/.env</code>.
+            </div>
+          )}
+
           <div className="grid grid-cols-2 gap-3">
             <div className="p-3 bg-[#151b2d] rounded-lg border border-white/5">
-              <span className="text-[#869397] block text-[10px]">Telemetry Ingestion Rate:</span>
-              <span className="text-xl text-[#4cd7f6] font-bold mt-1 block">14,293 ops/sec</span>
-              <span className="text-[10px] text-[#4edea3]">Zero packet drop</span>
+              <span className="text-[#869397] block text-[10px]">API Version:</span>
+              <span className="text-xl text-[#4cd7f6] font-bold mt-1 block">{version || '—'}</span>
             </div>
             <div className="p-3 bg-[#151b2d] rounded-lg border border-white/5">
-              <span className="text-[#869397] block text-[10px]">Uptime SLA:</span>
-              <span className="text-xl text-[#4edea3] font-bold mt-1 block">99.998%</span>
-              <span className="text-[10px] text-[#869397]">Continuous 90 Days</span>
+              <span className="text-[#869397] block text-[10px]">Total Records:</span>
+              <span className="text-xl text-[#4edea3] font-bold mt-1 block">{telemetry?.total_records ?? '—'}</span>
             </div>
           </div>
 
           <div className="p-3.5 bg-[#070d1f] rounded-lg border border-white/5 space-y-2 text-[#bcc9cd]">
-            <div className="flex items-center justify-between text-xs pb-2 border-b border-white/5">
-              <span className="text-[#869397] flex items-center gap-1.5">
-                <User className="w-3.5 h-3.5 text-[#4cd7f6]" /> Current Operator:
-              </span>
-              <span className="text-[#4cd7f6] font-bold">OPR-7792 // LVL-4 ACCESS</span>
+            <div className="flex justify-between">
+              <span className="text-[#869397]">Extracted fields:</span>
+              <span className="text-[#4cd7f6]">{telemetry?.provenance.extracted_pct ?? '—'}%</span>
             </div>
             <div className="flex justify-between">
-              <span className="text-[#869397]">Telemetry Bus Carrier:</span>
-              <span className="text-[#4edea3]">40.0 kHz Optical Fiber</span>
+              <span className="text-[#869397]">Inferred fields:</span>
+              <span className="text-[#4edea3]">{telemetry?.provenance.inferred_pct ?? '—'}%</span>
             </div>
             <div className="flex justify-between">
-              <span className="text-[#869397]">Hardware Acceleration:</span>
-              <span className="text-[#dce1fb]">Edge FPGA Matrix (Active)</span>
-            </div>
-            <div className="flex justify-between">
-              <span className="text-[#869397]">Redundant Node Failover:</span>
-              <span className="text-[#4edea3]">READY (Hot Standby)</span>
+              <span className="text-[#869397]">Unavailable fields:</span>
+              <span className="text-[#ffb4ab]">{telemetry?.provenance.unavailable_pct ?? '—'}%</span>
             </div>
           </div>
         </div>
@@ -75,7 +94,7 @@ export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose })
             }}
             className="px-4 py-2 bg-[#4edea3]/20 hover:bg-[#4edea3]/30 text-[#4edea3] font-bold rounded-lg font-mono text-xs border border-[#4edea3]/40 transition-colors"
           >
-            Close Status
+            Close
           </button>
         </div>
       </div>

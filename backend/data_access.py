@@ -126,12 +126,18 @@ def list_record_files() -> list:
     return sorted(f for f in files if os.path.basename(f) != "batch_summary.json")
 
 
+# Populated by load_all_records() on every call — MPNs whose stored JSON
+# needed defensive type coercion before it would validate against ProductRecord.
+# Exposed here (rather than only logged) so the API layer can surface it if needed.
+last_sanitized_log: dict = {}
+
+
 def load_all_records() -> list:
     """Returns [(mpn, record_dict), ...] for every product JSON on disk.
     Malformed field types are auto-corrected (see sanitize_record_dict);
-    corrections are tracked in st.session_state['ss_sanitized'] for the
-    dashboard to surface, rather than silently hiding the issue."""
-    import streamlit as st
+    corrections are tracked in `last_sanitized_log` rather than silently
+    hiding the issue."""
+    global last_sanitized_log
 
     records = []
     sanitized_log = {}
@@ -147,8 +153,7 @@ def load_all_records() -> list:
             sanitized_log[mpn] = fixed
         records.append((mpn, data))
 
-    if hasattr(st, "session_state"):
-        st.session_state["ss_sanitized"] = sanitized_log
+    last_sanitized_log = sanitized_log
     return records
 
 

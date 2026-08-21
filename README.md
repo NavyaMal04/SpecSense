@@ -17,7 +17,7 @@ SpecSense transforms unstructured, messy product sources (like PDF specification
 
 - `backend/`: FastAPI application endpoints.
 - `pipeline/`: Core PDF extraction, LLM logic (Gemini API), field schema, and inference logic.
-- `frontend/`: Streamlit interactive dashboard.
+- `frontend/`: React + Vite dashboard (calls the FastAPI backend directly).
 - `data/samples/`: Sample PDF specification sheets.
 - `data/reference/`: Reference product catalog for similarity inference.
 
