@@ -21,7 +21,7 @@ PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
-from frontend import data_access as da  # noqa: E402
+from backend import data_access as da  # noqa: E402
 from pipeline.schema import ProductRecord, to_delivery_format_row, DELIVERY_FORMAT_HEADERS  # noqa: E402
 
 app = FastAPI(

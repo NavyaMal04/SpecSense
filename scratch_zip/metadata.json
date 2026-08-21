@@ -1,0 +1,6 @@
+{
+  "name": "SpecSense - Precision Operations Dashboard",
+  "description": "Real-time industrial telemetry, catalog dashboard, diagnostics, network topology, and cyber asset tracking interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

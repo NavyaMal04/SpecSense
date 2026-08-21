@@ -1,0 +1,141 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-hanken: 'Hanken Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-jetbrains: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-hanken);
+    background-color: #0c1324;
+    color: #dce1fb;
+    overflow-x: hidden;
+  }
+
+  code, pre, .font-mono, .data-mono, .label-caps {
+    font-family: var(--font-jetbrains);
+  }
+}
+
+.hex-bg {
+  background-color: #0c1324;
+  background-image: radial-gradient(rgba(76, 215, 246, 0.12) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.hex-bg-dense {
+  background-image: radial-gradient(rgba(76, 215, 246, 0.2) 1.5px, transparent 1.5px);
+  background-size: 16px 16px;
+}
+
+.glass-panel {
+  background: rgba(25, 31, 49, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 0 20px rgba(76, 215, 246, 0.04), 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-panel-glow {
+  background: rgba(25, 31, 49, 0.85);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(76, 215, 246, 0.3);
+  box-shadow: inset 0 0 25px rgba(76, 215, 246, 0.1), 0 0 30px rgba(76, 215, 246, 0.15);
+}
+
+.ambient-glow-tl {
+  position: fixed;
+  top: -150px;
+  left: -150px;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(76, 215, 246, 0.15) 0%, rgba(12, 19, 36, 0) 70%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.ambient-glow-br {
+  position: fixed;
+  bottom: -200px;
+  right: -200px;
+  width: 650px;
+  height: 650px;
+  background: radial-gradient(circle, rgba(76, 215, 246, 0.09) 0%, rgba(208, 188, 255, 0.04) 40%, rgba(12, 19, 36, 0) 75%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.ambient-glow-center {
+  position: fixed;
+  top: 30%;
+  left: 45%;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(78, 222, 163, 0.05) 0%, rgba(12, 19, 36, 0) 70%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.glow-text {
+  text-shadow: 0 0 14px rgba(76, 215, 246, 0.6), 0 0 30px rgba(76, 215, 246, 0.25);
+}
+
+.glow-text-emerald {
+  text-shadow: 0 0 14px rgba(78, 222, 163, 0.6), 0 0 30px rgba(78, 222, 163, 0.25);
+}
+
+.glow-text-error {
+  text-shadow: 0 0 14px rgba(255, 107, 107, 0.6), 0 0 30px rgba(255, 107, 107, 0.25);
+}
+
+.cyber-grid-line {
+  background: linear-gradient(90deg, transparent, rgba(76, 215, 246, 0.3), transparent);
+}
+
+/* Custom cyber scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(12, 19, 36, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(76, 215, 246, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(76, 215, 246, 0.6);
+}
+
+/* Pulsing scan animation */
+@keyframes cyber-radar {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-radar {
+  animation: cyber-radar 4s linear infinite;
+}
+
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
