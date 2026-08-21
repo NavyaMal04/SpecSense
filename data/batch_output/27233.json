@@ -1,37 +1,37 @@
 {
   "id": null,
-  "source_row_index": 0,
-  "part_number": "05134545001",
+  "source_row_index": 15,
+  "part_number": "27233",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
-  "mfg_part_num": "05134545001",
-  "part_desc": "9516 Kneeling Pad & Bottle Opener",
-  "e1_brand": "Wera",
+  "mfg_part_num": "27233",
+  "part_desc": "24x48 WH Attic Access Door",
+  "e1_brand": "AJM",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Wera Tools NA Inc (WERTO)",
+  "part_manuf": "A J Manufacturing Inc (AJMAN)",
   "manufacturer_name": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG",
+    "value": "AJ Manufacturing, Inc.",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "confidence": 0.9,
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "The Insulated Attic Access Door “AAD” is a cost effective engineered solution to attic access. Designed for installation into buildings with an interior ceiling liner."
   },
   "brand_name": {
-    "value": "Wera®",
+    "value": "AJ Manufacturing",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "confidence": 0.9,
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "The Insulated Attic Access Door “AAD” is a cost effective engineered solution to attic access. Designed for installation into buildings with an interior ceiling liner."
   },
   "trade_name": {
-    "value": "Wera",
+    "value": "AJ Manufacturing",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Brand: Wera"
+    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+    "source_snippet": "Brand: AJ Manufacturing"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,66 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Mechanics Creepers, Seats & Mats",
+    "value": "Attic Access Doors",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Category: Mechanics Creepers, Seats & Mats"
+    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+    "source_snippet": "Category: Attic Access Door"
   },
   "mfr_url": {
-    "value": "https://www.bigredpowertools.co.uk/wera-05134545001",
+    "value": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "https://www.eio.com/products/wera-05134545001-comfort-refreshment-set-9516-2-pc",
-    "https://whiterosetools.com/en-us/products/wera-kneeling-pad-9516-with-bottle-opener-comfort-and-refreshment-set-knee-saver-mat-2-pieces",
-    "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "https://www.amazon.co.uk/Wera-05134545001-9516-Kneepat-Cushion/dp/B0CFY2GJ84",
-    "https://www.propowertoolparts.com/product/wera-05134545001-9516-wera-comfort-refreshment-set-2-pieces/",
-    "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener"
+    "https://ajdoor.com/shop/",
+    "https://supplymaverick.com/product/aj-mfg-attic-access-door-white/",
+    "https://www.ajmfg.com/",
+    "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233_3_pack.htm",
+    "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "https://www.wbdoors.com/product/wb-basic-300-24x48/",
+    "https://www.acudoraccesspanels.com/24-x-48-universal-flush-premium-access-door-with-flange-acudor/",
+    "https://www.wbdoors.com/product/wb-gp-101-24x48/"
   ],
   "mobile_desc": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG, Wera®, Wera 9516 Comfort & Refreshment Set 2 Pieces, 05134545001",
+    "value": "AJ Manufacturing, Inc., AJ Manufacturing, Insulated Attic Access Door 24\"x48\", 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "WERA 9516 COMFORT & REFRESHMENT SET 2 PI",
+    "value": "INSULATED ATTIC ACCESS DOOR 24\"X48\" AAD ",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "Wera® 05134545001, Wera 9516 Comfort & Refreshment Set 2 Pieces, With Yes, Model: 05134545001, Series: 9516",
+    "value": "AJ Manufacturing 27233, Insulated Attic Access Door 24\"x48\", With Yes, Series: AAD, Model: 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "Wera® Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm, Width: 480 mm, Depth: 280 mm, Size: 0.79 in H x 18.90 in W x 11.02 in D, Weight: 280 g, Material: Memory foam, Country of Origin: Czech Republic, Warranty: Lifetime warranty, Certifications: RoHS Compliant, Additional Information: Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
+    "value": "AJ Manufacturing Insulated Attic Access Door 24\"x48\", Series: AAD, Model: 27233, Size: 48 in H x 24 in W x 1 in D, Height: 48 in, Width: 24 in, Depth: 1 in, Color: White, Material: Galvanized G60 Steel / Aluminum, Egress Size: 20\"x44\", Insulating Value: R6.5, Mounting Type: Self-flashing, Frame Material: Painted aluminum extrusions, Insulation Type: Expanded polystyrene core, Hinge Type: Fixed pin stainless steel hinges, Additional Information: Self-flashing, Factory installed gasket, Pre-hung, Egress pull cord",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm",
+    "value": "Insulated Attic Access Door 24\"x48\", Series: AAD, Model: 27233, Size: 48 in H x 24 in W x 1 in D",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Wera 9516 Comfort & Refreshment Set 2 Pieces from Wera®.",
+    "value": "High quality Insulated Attic Access Door 24\"x48\" from AJ Manufacturing.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -118,15 +118,15 @@
     "value": "Yes",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "The material also returns to its original shape after use (memory foam). The integrated handle allows for easy portability. The knee pad is waterproof"
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "Pre-hung in a self flashing aluminum frame. Packed with an egress cord already attached"
   },
   "standard_approvals": {
-    "value": "RoHS Compliant",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "source_snippet": "RoHS Compliant: Yes"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
     "value": null,
@@ -136,40 +136,40 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Kneeling activities, especially when working on hard floors",
+    "value": "Designed for installation into buildings with an interior ceiling liner.",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "Designed for installation into buildings with an interior ceiling liner."
   },
   "includes": {
-    "value": "Kneeling Pad, Bottle Opener with Kraftform handle",
+    "value": "Egress pull cord",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces"
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "Packed with an egress cord already attached"
   },
   "product_name": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces",
+    "value": "Insulated Attic Access Door 24\"x48\"",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces 05134545001"
+    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
+    "source_snippet": "Insulated Attic Access Door 24\"x48\""
   },
   "attributes": [
     {
       "label": {
-        "value": "Model",
+        "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "05134545001",
+        "value": "AAD",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -182,17 +182,40 @@
     },
     {
       "label": {
-        "value": "Series",
+        "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "9516",
+        "value": "27233",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "48 in H x 24 in W x 1 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -208,21 +231,21 @@
         "value": "Height",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "20",
+        "value": "48",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
-        "value": "mm",
+        "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       }
     },
@@ -231,21 +254,21 @@
         "value": "Width",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "480",
+        "value": "24",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
-        "value": "mm",
+        "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       }
     },
@@ -254,37 +277,37 @@
         "value": "Depth",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "280",
+        "value": "1",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
-        "value": "mm",
+        "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       }
     },
     {
       "label": {
-        "value": "Size",
+        "value": "Color",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "13/16 in H x 18-7/8 in W x 11 in D",
+        "value": "White",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -292,29 +315,6 @@
         "source_type": "unavailable",
         "confidence": 0.0,
         "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Weight",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "280",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "g",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
         "source_snippet": null
       }
     },
@@ -323,14 +323,14 @@
         "value": "Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "Memory foam",
+        "value": "Galvanized G60 Steel / Aluminum",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -343,17 +343,17 @@
     },
     {
       "label": {
-        "value": "Country of Origin",
+        "value": "Egress Size",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "Czech Republic",
+        "value": "20\"x44\"",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -366,17 +366,17 @@
     },
     {
       "label": {
-        "value": "Warranty",
+        "value": "Insulating Value",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "Lifetime warranty",
+        "value": "R6.5",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -389,17 +389,86 @@
     },
     {
       "label": {
-        "value": "Certifications",
+        "value": "Mounting Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "RoHS Compliant",
+        "value": "Self-flashing",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Frame Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Painted aluminum extrusions",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Insulation Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Expanded polystyrene core",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Hinge Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Fixed pin stainless steel hinges",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -415,14 +484,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "value": {
-        "value": "Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
+        "value": "Self-flashing, Factory installed gasket, Pre-hung, Egress pull cord",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
         "source_snippet": null
       },
       "uom": {
@@ -590,7 +659,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-20T11:09:05.296622+00:00",
-  "fields_found_count": 44,
-  "fields_total_count": 75
+  "processed_at": "2026-08-21T05:44:28.324785+00:00",
+  "fields_found_count": 48,
+  "fields_total_count": 84
 }

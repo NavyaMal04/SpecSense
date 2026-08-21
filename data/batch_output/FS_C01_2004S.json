@@ -1,0 +1,502 @@
+{
+  "id": null,
+  "source_row_index": 13,
+  "part_number": "FS C01 2004S",
+  "dept": null,
+  "product_class": null,
+  "fine_class": null,
+  "sku": null,
+  "mfg_part_num": "FS C01 2004S",
+  "part_desc": "FS C01 Velux Fxd Skylt Gry/Wh - w/Solar Shade RO 21\"x26-7/8\"",
+  "e1_brand": "-- Unbranded --",
+  "unilog_brand": "-- No Unilog Brand --",
+  "dib_brand": "-- No DIB Brand --",
+  "part_manuf": "Velux America Inc (VELAM)",
+  "manufacturer_name": {
+    "value": "VELUX Group",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "brand_name": {
+    "value": "VELUX®",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "trade_name": {
+    "value": "Velux",
+    "source_type": "extracted",
+    "confidence": 0.9,
+    "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+    "source_snippet": "Velux Fxd Skylt"
+  },
+  "manufacturer_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "alternate_part_number": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "classpath": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "mfr_url": {
+    "value": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+    "source_snippet": "Official Manufacturer Product Page"
+  },
+  "ref_urls": [
+    "https://www.datasheetarchive.com/",
+    "https://datasheets.globalspec.com/",
+    "https://www.digchip.com/datasheets/search.php",
+    "https://pdf.datasheetarchive.com/",
+    "https://datasheetpdf.com/",
+    "https://social.msdn.microsoft.com/"
+  ],
+  "mobile_desc": {
+    "value": "VELUX Group, VELUX®, FS C01 Velux Fixed Skylight Gray/White with Solar Shade, FS C01 2004S",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "invoice_desc": {
+    "value": "FS C01 VELUX FIXED SKYLIGHT GRAY/WHITE W",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "short_desc": {
+    "value": "VELUX® FS C01 2004S, FS C01 Velux Fixed Skylight Gray/White with Solar Shade, Model: FS C01 2004S, Color: Gray/White",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "long_desc1": {
+    "value": "VELUX® FS C01 Velux Fixed Skylight Gray/White with Solar Shade, Model: FS C01 2004S, Color: Gray/White, Mounting Type: Fixed, Width: 21 in, Height: 26.875 in, Size: 26.875 in H x 21 in W, Rough Opening Size: 21\" x 26-7/8\", Additional Information: Includes Solar Shade",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "retail_desc": {
+    "value": "FS C01 Velux Fixed Skylight Gray/White with Solar Shade, Model: FS C01 2004S, Color: Gray/White, Mounting Type: Fixed",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "marketing_description": {
+    "value": "High quality FS C01 Velux Fixed Skylight Gray/White with Solar Shade from VELUX®.",
+    "source_type": "inferred",
+    "confidence": 0.95,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "item_features": [],
+  "with_features": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_approvals": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "prop_65": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "application": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "includes": {
+    "value": "Solar Shade",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+    "source_snippet": "w/Solar Shade"
+  },
+  "product_name": {
+    "value": "FS C01 Velux Fixed Skylight Gray/White with Solar Shade",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+    "source_snippet": "FS C01 Velux Fxd Skylt Gry/Wh - w/Solar Shade"
+  },
+  "attributes": [
+    {
+      "label": {
+        "value": "Model",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "FS C01 2004S",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Gray/White",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mounting Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Fixed",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "21",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "26-7/8",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "26-7/8 in H x 21 in W",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Rough Opening Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "21\" x 26-7/8\"",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Includes Solar Shade",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.bing.com/aclick?ld=e8rwMmWnxRmQ5JQ4uQ0tAgdzVUCUwTFqSsp1btruoq6Yr9zTG9BNJerfJbWPfE2aOKPqCu74-pz_ZUmh0xigAQp1THwzIEkTXuEbVU5AfNUxdV4VF6GNYrwdCWdRfZulTQXA88aqaLtyOcHh5d6JsF1HLTDbBxbV1a32cOWgoRS_RQSBzAiWIoviqtJE0O8XdoP3EPBA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlbHV4JTJic2t5bGlnaHRzJTJiZml4ZWQlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF9uYmt4bDNleXZfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMTc5MDM2MTQ3JTI2aHZhZGlkJTNkODMzNTcxNzI5MzAyNzQlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QyNjI3MjklMjZodnRhcmdpZCUzZGt3ZC04MzM1ODExNTE1MzE5MyUzYWxvYy05MCUyNmh5ZGFkY3IlM2QxMzU0NF8xMzM5MjAwNCUyNm1jaWQlM2RhZGY0MWMxY2Q4NDUzYTIwYjc5NzJlOWQ0OTZkNDMxNCUyNmh2b2NpamlkJTNkMzk4NTc2OTYyOTY1MzAyNDY5Mi0tJTI2aHZleHBsbiUzZDAlMjZnYiUzZDI&rlid=fd1b9434ef7d18e67bbdfeb30bae944c",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    }
+  ],
+  "upc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "ean": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "gtin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "unspsc": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "warranty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "list_price": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_qty": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "selling_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "standard_packaging_info": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "length_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "height_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "width_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "weight_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "volume_uom": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "assets": [],
+  "country_of_origin": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "discontinued": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "actual_image_yn": {
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
+  },
+  "review_status": "pending",
+  "processed_at": "2026-08-21T05:41:46.448830+00:00",
+  "fields_found_count": 30,
+  "fields_total_count": 63
+}
