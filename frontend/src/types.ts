@@ -102,7 +102,9 @@ export interface EnrichRequest {
 
 export interface EnrichResponse {
   status: string;
+  source?: 'cached' | 'live' | string;
   mpn: string;
   completeness: number;
   record: ProductRecord;
+  message?: string;
 }

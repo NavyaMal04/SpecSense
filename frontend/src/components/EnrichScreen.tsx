@@ -28,11 +28,7 @@ export const EnrichScreen: React.FC<{ onEnriched: () => void; onOpenProduct: (mp
     setRunning(true);
     setResult(null);
     playCyberSound('scan');
-    setLog([
-      `Looking up "${mfgPartNum.trim()}"…`,
-      'Searching manufacturer sources for specifications…',
-      'Filling in product details…',
-    ]);
+    setLog([`Checking catalog for "${mfgPartNum.trim()}"…`]);
 
     try {
       const res = await api.enrich({
@@ -41,8 +37,23 @@ export const EnrichScreen: React.FC<{ onEnriched: () => void; onOpenProduct: (mp
         part_manuf: partManuf,
         e1_brand: brand,
       });
-      appendLog(`Done — ${res.completeness}% of fields were filled in.`);
-      appendLog('Product added to your catalog as "pending" — review it before approving.');
+
+      if (res.source === 'cached') {
+        setLog([
+          `✓ Found existing record for "${res.mpn}" in catalog.`,
+          'Skipped live enrichment — loaded existing data directly from database.',
+          `Completeness: ${res.completeness}% | Review Status: ${res.record?.review_status || 'pending'}`,
+        ]);
+      } else {
+        setLog([
+          `Looking up "${mfgPartNum.trim()}"…`,
+          'Searching manufacturer sources for specifications…',
+          'Filling in product details…',
+          `Done — ${res.completeness}% of fields were filled in.`,
+          'Product added to your catalog as "pending" — review it before approving.',
+        ]);
+      }
+
       setResult(res);
       onEnriched();
       playCyberSound('success');
@@ -138,14 +149,38 @@ export const EnrichScreen: React.FC<{ onEnriched: () => void; onOpenProduct: (mp
       </div>
 
       {result && (
-        <div className="glass-panel rounded-xl p-6 border border-[#4edea3]/30 flex items-center justify-between gap-4 animate-fadeIn">
+        <div
+          className={`glass-panel rounded-xl p-6 border ${
+            result.source === 'cached'
+              ? 'border-[#4cd7f6]/40 bg-[#4cd7f6]/5'
+              : 'border-[#4edea3]/30'
+          } flex items-center justify-between gap-4 animate-fadeIn`}
+        >
           <div className="flex items-center gap-3">
-            <CheckCircle2 className="w-6 h-6 text-[#4edea3]" />
+            <CheckCircle2
+              className={`w-6 h-6 ${
+                result.source === 'cached' ? 'text-[#4cd7f6]' : 'text-[#4edea3]'
+              }`}
+            />
             <div>
-              <p className="font-mono text-sm text-[#dce1fb] font-semibold">
-                {result.mpn} added — {result.completeness}% of details filled in
+              <div className="flex items-center gap-2">
+                <p className="font-mono text-sm text-[#dce1fb] font-semibold">
+                  {result.mpn}{' '}
+                  {result.source === 'cached'
+                    ? 'already in catalog'
+                    : 'added'} — {result.completeness}% of details filled in
+                </p>
+                {result.source === 'cached' && (
+                  <span className="text-[10px] uppercase font-mono px-2 py-0.5 rounded bg-[#4cd7f6]/20 text-[#4cd7f6] border border-[#4cd7f6]/30">
+                    Existing Record
+                  </span>
+                )}
+              </div>
+              <p className="font-mono text-xs text-[#869397]">
+                {result.source === 'cached'
+                  ? `Loaded from catalog (Status: ${result.record?.review_status || 'pending'})`
+                  : 'Status: pending review'}
               </p>
-              <p className="font-mono text-xs text-[#869397]">Status: pending review</p>
             </div>
           </div>
           <button

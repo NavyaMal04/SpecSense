@@ -177,6 +177,61 @@ def get_product_record(doc_id: str) -> ProductRecord:
         raise Exception(f"[Firestore] Failed to fetch product record '{doc_id}': {err}") from err
 
 
+def find_product_by_mpn(mpn: str) -> Optional[ProductRecord]:
+    """
+    Finds a ProductRecord in Firestore by MPN or document ID.
+    Checks document ID directly first, then queries by 'mfg_part_num' and 'part_number'.
+    Returns None if not found or if Firestore is unavailable.
+    """
+    if not mpn or not str(mpn).strip():
+        return None
+    cleaned_mpn = str(mpn).strip()
+    safe_mpn = "".join(c if c.isalnum() or c in "-_" else "_" for c in cleaned_mpn)
+
+    try:
+        db = _get_db()
+    except Exception as e:
+        print(f"[Firestore] DB connection unavailable during find_product_by_mpn: {e}")
+        return None
+
+    # 1. Try direct document lookup by exact MPN
+    try:
+        doc = db.collection(COLLECTION).document(cleaned_mpn).get()
+        if doc.exists:
+            return ProductRecord.model_validate(doc.to_dict())
+    except Exception:
+        pass
+
+    # 2. Try direct document lookup by safe MPN if different
+    if safe_mpn != cleaned_mpn:
+        try:
+            doc = db.collection(COLLECTION).document(safe_mpn).get()
+            if doc.exists:
+                return ProductRecord.model_validate(doc.to_dict())
+        except Exception:
+            pass
+
+    # 3. Query collection by mfg_part_num
+    try:
+        query = db.collection(COLLECTION).where(filter=FieldFilter("mfg_part_num", "==", cleaned_mpn)).limit(1)
+        docs = list(query.stream())
+        if docs:
+            return ProductRecord.model_validate(docs[0].to_dict())
+    except Exception:
+        pass
+
+    # 4. Query collection by part_number
+    try:
+        query = db.collection(COLLECTION).where(filter=FieldFilter("part_number", "==", cleaned_mpn)).limit(1)
+        docs = list(query.stream())
+        if docs:
+            return ProductRecord.model_validate(docs[0].to_dict())
+    except Exception:
+        pass
+
+    return None
+
+
 def list_product_records(review_status: Optional[str] = None) -> List[Dict[str, Any]]:
     """
     Returns a lightweight summary list of product records for fast UI display.

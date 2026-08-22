@@ -149,13 +149,50 @@ def bulk_update_status(req: BulkStatusRequest):
     return {"status": "success", "updated_count": updated_count, "new_status": req.status}
 
 
+from pipeline.firestore_client import find_product_by_mpn, save_product_record, get_product_record
+
+
 @app.post("/api/enrich")
 def enrich_single_product(req: SingleEnrichmentRequest):
     if not req.mfg_part_num.strip():
         raise HTTPException(status_code=400, detail="mfg_part_num is required.")
 
+    cleaned_mpn = req.mfg_part_num.strip()
+    safe_mpn = "".join(c if c.isalnum() or c in "-_" else "_" for c in cleaned_mpn)
+
+    # 1. Check Firestore and local store first for an existing product record
+    existing_rec = None
+    try:
+        existing_rec = find_product_by_mpn(cleaned_mpn)
+    except Exception as fs_err:
+        print(f"[Firestore] Lookup warning in /api/enrich: {fs_err}")
+
+    # Fallback check on local disk if Firestore didn't find it or was offline
+    if not existing_rec:
+        local_data = da.load_record(cleaned_mpn) or da.load_record(safe_mpn)
+        if local_data:
+            try:
+                existing_rec = ProductRecord.model_validate(local_data)
+            except Exception:
+                existing_rec = None
+
+    # 2. If a record already exists: skip enrichment pipeline entirely
+    if existing_rec:
+        rec_dict = existing_rec.model_dump()
+        resolved_mpn = existing_rec.mfg_part_num or existing_rec.part_number or safe_mpn
+        return {
+            "status": "success",
+            "source": "cached",
+            "mpn": resolved_mpn,
+            "completeness": da.record_completeness(rec_dict),
+            "record": rec_dict,
+            "message": "Already in catalog — showing existing record",
+        }
+
+    # 3. Only if no existing record is found: proceed with live enrichment pipeline
     raw_row = {
-        "Mfg_Part_Num": req.mfg_part_num.strip(),
+        "Mfg_Part_Num": cleaned_mpn,
+        "PART_NUMBER": cleaned_mpn,
         "Part_Desc": (req.part_desc or "").strip(),
         "Part_Manuf": (req.part_manuf or "").strip(),
         "E1_Brand": (req.e1_brand or "-- Unbranded --").strip(),
@@ -165,11 +202,21 @@ def enrich_single_product(req: SingleEnrichmentRequest):
 
     try:
         enriched_rec = da.run_single_enrichment(raw_row, source_row_index=0)
-        safe_mpn = "".join(c if c.isalnum() or c in "-_" else "_" for c in req.mfg_part_num.strip())
+        enriched_rec.id = safe_mpn
         rec_dict = enriched_rec.model_dump()
+        
+        # Save to local disk cache
         da.save_record(safe_mpn, rec_dict)
+        
+        # Save to Firestore
+        try:
+            save_product_record(enriched_rec)
+        except Exception as fs_save_err:
+            print(f"[Firestore] Warning: Could not save new record to Firestore: {fs_save_err}")
+
         return {
             "status": "success",
+            "source": "live",
             "mpn": safe_mpn,
             "completeness": da.record_completeness(rec_dict),
             "record": rec_dict,
