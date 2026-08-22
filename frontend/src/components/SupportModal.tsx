@@ -10,27 +10,27 @@ const sections = [
   {
     icon: LayoutDashboard,
     title: 'Dashboard',
-    body: 'Shows aggregate provenance (extracted vs. inferred vs. unavailable) and per-section fill rates across every product record on disk.',
+    body: 'A quick overview of your catalog — how many products you have, how complete their details are, and which sections need the most attention.',
   },
   {
     icon: PackageSearch,
     title: 'Products',
-    body: 'Search and filter the catalog by MPN, manufacturer, or brand. Click any card to open the full record with field-level provenance, confidence, and source citations.',
+    body: 'Search and filter your catalog by part number, manufacturer, or brand. Click any product to see its full details and edit them if needed.',
   },
   {
     icon: Sparkles,
-    title: 'Run Enrichment',
-    body: 'Enrich a single new part by MPN. The pipeline extracts from datasheets, infers missing fields from similar reference products, and saves the result to the catalog as "pending".',
+    title: 'Add Product',
+    body: 'Add a brand-new product by part number. We automatically look up and fill in as many details as we can find — it\'s saved as "pending" so you can review it before it goes live.',
   },
   {
     icon: ClipboardList,
     title: 'Review Queue',
-    body: 'Triage pending and flagged products in bulk — approve, flag, or reset a record\'s review status before it goes into an export.',
+    body: 'A checklist of products waiting on your review. Approve them individually or in bulk, or flag anything that needs a closer look.',
   },
   {
     icon: Download,
     title: 'Export',
-    body: 'Download the catalog as a 252-column Unilog delivery-format CSV, or the full JSON with all provenance metadata. Optionally restrict to approved records only.',
+    body: 'Download your catalog as a spreadsheet-ready CSV or a full JSON file, whenever you need it elsewhere. You can choose to include only approved products.',
   },
 ];
 
@@ -42,7 +42,7 @@ export const SupportModal: React.FC<SupportModalProps> = ({ onClose }) => {
           <div>
             <h3 className="text-xl font-bold text-[#dce1fb]">Support &amp; Docs</h3>
             <p className="font-mono text-xs text-[#869397] mt-1">
-              AI-powered product intelligence pipeline — datasheets in, commerce-ready catalog data out.
+              A quick guide to what each part of SpecSense does.
             </p>
           </div>
           <button
@@ -70,11 +70,12 @@ export const SupportModal: React.FC<SupportModalProps> = ({ onClose }) => {
           ))}
 
           <div className="p-4 rounded-lg bg-[#151b2d]/60 border border-white/5">
-            <p className="font-mono text-sm text-[#dce1fb] font-semibold mb-2">Field provenance badges</p>
+            <p className="font-mono text-sm text-[#dce1fb] font-semibold mb-2">What the field tags mean</p>
             <ul className="text-sm text-[#bcc9cd] space-y-1">
-              <li><span className="text-[#4cd7f6] font-mono">extracted</span> — pulled directly from a source document or page, with a citation.</li>
-              <li><span className="text-[#4edea3] font-mono">inferred</span> — predicted from similar historical products via vector similarity.</li>
-              <li><span className="text-[#869397] font-mono">unavailable</span> — no confident value found; flagged for human review.</li>
+              <li><span className="text-[#4cd7f6] font-mono">extracted</span> — found directly in a manufacturer source.</li>
+              <li><span className="text-[#4edea3] font-mono">inferred</span> — predicted based on similar products.</li>
+              <li><span className="text-[#4cd7f6] font-mono">verified</span> — entered or confirmed by hand.</li>
+              <li><span className="text-[#869397] font-mono">unavailable</span> — no value found yet; worth a look.</li>
             </ul>
           </div>
         </div>

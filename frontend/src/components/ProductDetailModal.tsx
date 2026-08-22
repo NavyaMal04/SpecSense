@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ProductRecord, FieldValue, ReviewStatus } from '../types';
 import { api } from '../api';
-import { X, Loader2, CheckCircle2, Flag, RotateCcw, ExternalLink } from 'lucide-react';
+import { X, Loader2, CheckCircle2, Flag, RotateCcw, ExternalLink, Pencil, Save, XCircle } from 'lucide-react';
 import { playCyberSound } from '../utils/audio';
 
 interface ProductDetailModalProps {
@@ -76,11 +76,18 @@ const STATUS_STYLES: Record<ReviewStatus, string> = {
   flagged: 'text-[#ffb4ab] bg-[#ff6b6b]/10 border-[#ff6b6b]/40',
 };
 
+// Deep-ish clone sufficient for this record shape (plain JSON data).
+const cloneRecord = (r: ProductRecord): ProductRecord => JSON.parse(JSON.stringify(r));
+
 export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onClose, onStatusChanged }) => {
   const [record, setRecord] = useState<ProductRecord | null>(null);
+  const [draft, setDraft] = useState<ProductRecord | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [updating, setUpdating] = useState(false);
+  const [isEditing, setIsEditing] = useState(false);
+  const [saving, setSaving] = useState(false);
+  const [saveError, setSaveError] = useState<string | null>(null);
 
   useEffect(() => {
     setLoading(true);
@@ -105,6 +112,56 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
     }
   };
 
+  const startEditing = () => {
+    if (!record) return;
+    setDraft(cloneRecord(record));
+    setSaveError(null);
+    setIsEditing(true);
+    playCyberSound('click');
+  };
+
+  const cancelEditing = () => {
+    setDraft(null);
+    setIsEditing(false);
+    setSaveError(null);
+  };
+
+  const updateField = (key: string, value: string) => {
+    setDraft((d) => {
+      if (!d) return d;
+      const existing: FieldValue | undefined = d[key];
+      const next: FieldValue = {
+        value: value === '' ? null : value,
+        source_type: value === '' ? 'unavailable' : 'verified',
+        confidence: value === '' ? 0 : 1,
+        source_url: existing?.source_url ?? null,
+        source_snippet: existing?.source_snippet ?? null,
+      };
+      return { ...d, [key]: next };
+    });
+  };
+
+  const saveChanges = async () => {
+    if (!draft) return;
+    setSaving(true);
+    setSaveError(null);
+    try {
+      await api.saveProduct(mpn, draft);
+      setRecord(draft);
+      setIsEditing(false);
+      setDraft(null);
+      onStatusChanged();
+      playCyberSound('success');
+    } catch (e: any) {
+      setSaveError(e.message || 'Failed to save changes');
+      playCyberSound('alert');
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const active = isEditing ? draft : record;
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fadeIn">
       <div className="glass-panel-glow max-w-4xl w-full max-h-[88vh] rounded-2xl flex flex-col overflow-hidden border border-[#4cd7f6]/40 shadow-2xl shadow-[#4cd7f6]/10">
@@ -123,6 +180,14 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
                 {record.review_status}
               </span>
             )}
+            {record && !isEditing && (
+              <button
+                onClick={startEditing}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-mono border border-[#4cd7f6]/40 text-[#4cd7f6] hover:bg-[#4cd7f6]/10 transition-colors"
+              >
+                <Pencil className="w-3.5 h-3.5" /> Edit
+              </button>
+            )}
             <button
               onClick={onClose}
               className="p-2 rounded-lg bg-white/5 hover:bg-white/10 text-[#bcc9cd] hover:text-white transition-colors"
@@ -131,6 +196,14 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
             </button>
           </div>
         </div>
+
+        {isEditing && (
+          <div className="px-6 py-2.5 bg-[#4cd7f6]/5 border-b border-[#4cd7f6]/20 flex items-center justify-between">
+            <p className="font-mono text-[11px] text-[#4cd7f6]">
+              Editing — manually entered values are marked <span className="font-bold">verified</span>.
+            </p>
+          </div>
+        )}
 
         {/* Body */}
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
@@ -146,7 +219,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
             </div>
           )}
 
-          {record &&
+          {active &&
             Object.entries(SCALAR_SECTIONS).map(([section, fields]) => (
               <div key={section}>
                 <h4 className="font-mono text-xs uppercase tracking-widest text-[#4cd7f6] font-bold mb-3">
@@ -154,7 +227,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
                 </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {fields.map(([key, label]) => {
-                    const fv: FieldValue | undefined = record[key];
+                    const fv: FieldValue | undefined = active[key];
                     const hasValue = fv && fv.value !== null && fv.value !== '';
                     return (
                       <div key={key} className="p-3 rounded-lg bg-[#151b2d]/60 border border-white/5">
@@ -167,10 +240,21 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
                             </span>
                           )}
                         </div>
-                        <p className={`text-sm ${hasValue ? 'text-[#dce1fb]' : 'text-[#5b6572] italic'}`}>
-                          {hasValue ? String(fv!.value) : 'no value'}
-                        </p>
-                        {fv?.source_url && (
+
+                        {isEditing ? (
+                          <input
+                            value={fv?.value !== null && fv?.value !== undefined ? String(fv.value) : ''}
+                            onChange={(e) => updateField(key, e.target.value)}
+                            placeholder="no value"
+                            className="w-full bg-[#0c1120] border border-white/10 rounded px-2 py-1.5 text-sm text-[#dce1fb] placeholder:text-[#5b6572] focus:outline-none focus:border-[#4cd7f6]/60"
+                          />
+                        ) : (
+                          <p className={`text-sm ${hasValue ? 'text-[#dce1fb]' : 'text-[#5b6572] italic'}`}>
+                            {hasValue ? String(fv!.value) : 'no value'}
+                          </p>
+                        )}
+
+                        {!isEditing && fv?.source_url && (
                           <a
                             href={fv.source_url}
                             target="_blank"
@@ -187,7 +271,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
               </div>
             ))}
 
-          {record && record.item_features?.length > 0 && (
+          {!isEditing && record && record.item_features?.length > 0 && (
             <div>
               <h4 className="font-mono text-xs uppercase tracking-widest text-[#4cd7f6] font-bold mb-3">
                 Feature Bullets
@@ -205,7 +289,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
             </div>
           )}
 
-          {record && record.attributes?.filter((a) => a.value?.value).length > 0 && (
+          {!isEditing && record && record.attributes?.filter((a) => a.value?.value).length > 0 && (
             <div>
               <h4 className="font-mono text-xs uppercase tracking-widest text-[#4cd7f6] font-bold mb-3">
                 Attributes
@@ -224,31 +308,65 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
               </div>
             </div>
           )}
+
+          {isEditing && (
+            <p className="font-mono text-[11px] text-[#869397]">
+              Feature bullets and attributes aren't editable here yet.
+            </p>
+          )}
+
+          {saveError && (
+            <div className="glass-panel rounded-xl p-3 border border-[#ff6b6b]/40 text-[#ffb4ab] font-mono text-xs">
+              {saveError}
+            </div>
+          )}
         </div>
 
         {/* Footer actions */}
         <div className="p-4 border-t border-white/10 bg-[#070d1f]/90 flex flex-wrap items-center justify-end gap-2">
-          <button
-            disabled={updating}
-            onClick={() => setStatus('flagged')}
-            className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-[#ff6b6b]/40 text-[#ffb4ab] hover:bg-[#ff6b6b]/10 transition-colors disabled:opacity-50"
-          >
-            <Flag className="w-3.5 h-3.5" /> Flag
-          </button>
-          <button
-            disabled={updating}
-            onClick={() => setStatus('pending')}
-            className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-white/10 text-[#bcc9cd] hover:bg-white/5 transition-colors disabled:opacity-50"
-          >
-            <RotateCcw className="w-3.5 h-3.5" /> Reset to Pending
-          </button>
-          <button
-            disabled={updating}
-            onClick={() => setStatus('approved')}
-            className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-[#4edea3]/40 text-[#4edea3] hover:bg-[#4edea3]/10 transition-colors disabled:opacity-50"
-          >
-            <CheckCircle2 className="w-3.5 h-3.5" /> Approve
-          </button>
+          {isEditing ? (
+            <>
+              <button
+                disabled={saving}
+                onClick={cancelEditing}
+                className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-white/10 text-[#bcc9cd] hover:bg-white/5 transition-colors disabled:opacity-50"
+              >
+                <XCircle className="w-3.5 h-3.5" /> Cancel
+              </button>
+              <button
+                disabled={saving}
+                onClick={saveChanges}
+                className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-[#4cd7f6]/40 text-[#4cd7f6] hover:bg-[#4cd7f6]/10 transition-colors disabled:opacity-50"
+              >
+                {saving ? <Loader2 className="w-3.5 h-3.5 animate-spin" /> : <Save className="w-3.5 h-3.5" />}
+                Save Changes
+              </button>
+            </>
+          ) : (
+            <>
+              <button
+                disabled={updating}
+                onClick={() => setStatus('flagged')}
+                className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-[#ff6b6b]/40 text-[#ffb4ab] hover:bg-[#ff6b6b]/10 transition-colors disabled:opacity-50"
+              >
+                <Flag className="w-3.5 h-3.5" /> Flag
+              </button>
+              <button
+                disabled={updating}
+                onClick={() => setStatus('pending')}
+                className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-white/10 text-[#bcc9cd] hover:bg-white/5 transition-colors disabled:opacity-50"
+              >
+                <RotateCcw className="w-3.5 h-3.5" /> Reset to Pending
+              </button>
+              <button
+                disabled={updating}
+                onClick={() => setStatus('approved')}
+                className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg text-xs font-mono border border-[#4edea3]/40 text-[#4edea3] hover:bg-[#4edea3]/10 transition-colors disabled:opacity-50"
+              >
+                <CheckCircle2 className="w-3.5 h-3.5" /> Approve
+              </button>
+            </>
+          )}
         </div>
       </div>
     </div>

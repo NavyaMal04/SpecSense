@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { CheckCircle2, XCircle, X, Loader2 } from 'lucide-react';
 import { playCyberSound } from '../utils/audio';
-import { api, API_BASE } from '../api';
+import { api } from '../api';
 import { TelemetryResponse } from '../types';
 
 interface SystemStatusModalProps {
@@ -10,16 +10,12 @@ interface SystemStatusModalProps {
 
 export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose }) => {
   const [connected, setConnected] = useState<boolean | null>(null);
-  const [version, setVersion] = useState<string | null>(null);
   const [telemetry, setTelemetry] = useState<TelemetryResponse | null>(null);
 
   useEffect(() => {
     api
       .ping()
-      .then((res) => {
-        setConnected(true);
-        setVersion(res.version);
-      })
+      .then(() => setConnected(true))
       .catch(() => setConnected(false));
     api.getTelemetry().then(setTelemetry).catch(() => {});
   }, []);
@@ -34,9 +30,11 @@ export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose })
             </div>
             <div>
               <h3 className="text-xl font-bold text-[#dce1fb] font-sans">
-                {connected === null ? 'Checking API…' : connected ? 'Backend Connected' : 'Backend Unreachable'}
+                {connected === null ? 'Checking connection…' : connected ? 'Everything is running' : 'Connection issue'}
               </h3>
-              <p className="font-mono text-xs text-[#869397] break-all">{API_BASE}</p>
+              <p className="font-mono text-xs text-[#869397]">
+                {connected === null ? '' : connected ? 'The catalog is up to date and reachable.' : 'The catalog could not be reached.'}
+              </p>
             </div>
           </div>
           <button
@@ -53,21 +51,13 @@ export const SystemStatusModal: React.FC<SystemStatusModalProps> = ({ onClose })
         <div className="mt-4 space-y-4 font-mono text-xs">
           {!connected && connected !== null && (
             <div className="p-3.5 bg-[#151b2d] rounded-lg border border-[#ff6b6b]/20 text-[#ffb4ab]">
-              Could not reach the FastAPI backend. Start it with{' '}
-              <code className="text-[#4cd7f6]">uvicorn backend.main:app --reload</code> and confirm
-              <code className="text-[#4cd7f6]"> VITE_API_BASE_URL</code> in <code>frontend/.env</code>.
+              We couldn't load your catalog right now. Try refreshing, or check back in a moment.
             </div>
           )}
 
-          <div className="grid grid-cols-2 gap-3">
-            <div className="p-3 bg-[#151b2d] rounded-lg border border-white/5">
-              <span className="text-[#869397] block text-[10px]">API Version:</span>
-              <span className="text-xl text-[#4cd7f6] font-bold mt-1 block">{version || '—'}</span>
-            </div>
-            <div className="p-3 bg-[#151b2d] rounded-lg border border-white/5">
-              <span className="text-[#869397] block text-[10px]">Total Records:</span>
-              <span className="text-xl text-[#4edea3] font-bold mt-1 block">{telemetry?.total_records ?? '—'}</span>
-            </div>
+          <div className="p-3 bg-[#151b2d] rounded-lg border border-white/5">
+            <span className="text-[#869397] block text-[10px]">Total Products:</span>
+            <span className="text-xl text-[#4edea3] font-bold mt-1 block">{telemetry?.total_records ?? '—'}</span>
           </div>
 
           <div className="p-3.5 bg-[#070d1f] rounded-lg border border-white/5 space-y-2 text-[#bcc9cd]">

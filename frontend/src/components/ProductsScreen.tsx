@@ -46,7 +46,7 @@ export const ProductsScreen: React.FC<ProductsScreenProps> = ({ onOpenProduct, r
             Product Browser
           </h2>
           <p className="font-mono text-sm text-[#bcc9cd] mt-1">
-            Enriched product records from the extraction pipeline.
+            Search, review, and manage every product in your catalog.
           </p>
         </div>
         <div className="font-mono text-xs text-[#869397]">
@@ -90,7 +90,7 @@ export const ProductsScreen: React.FC<ProductsScreenProps> = ({ onOpenProduct, r
 
       {error && (
         <div className="glass-panel rounded-xl p-4 border border-[#ff6b6b]/40 text-[#ffb4ab] font-mono text-sm">
-          {error}. Is the backend running at the configured API URL?
+          {error}. Please try again in a moment.
         </div>
       )}
 

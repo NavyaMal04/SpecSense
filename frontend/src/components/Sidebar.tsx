@@ -54,7 +54,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
     },
     {
       id: 'enrich' as ScreenType,
-      label: 'Run Enrichment',
+      label: 'Add Product',
       icon: Sparkles,
       badge: null as string | null,
       badgeColor: '',
@@ -161,7 +161,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
               <span className={`relative inline-flex rounded-full h-2 w-2 ${apiConnected ? 'bg-[#4edea3]' : 'bg-[#ff6b6b]'}`}></span>
             </div>
             <p className={`font-mono text-xs font-semibold tracking-wide ${apiConnected ? 'text-[#4edea3]' : 'text-[#ffb4ab]'}`}>
-              API: {apiConnected ? 'Connected' : 'Unreachable'}
+              System: {apiConnected ? 'Connected' : 'Unreachable'}
             </p>
           </div>
           {apiConnected ? (

@@ -113,7 +113,7 @@ export const DashboardScreen: React.FC<DashboardScreenProps> = ({
           </div>
           <div className="mt-4 flex items-center gap-2 text-[#bcc9cd] font-mono text-sm font-medium">
             <TrendingUp className="w-4 h-4 text-sm" />
-            <span>Records in batch_output/</span>
+            <span>Every product currently in your catalog</span>
           </div>
         </div>
 
@@ -201,14 +201,14 @@ export const DashboardScreen: React.FC<DashboardScreenProps> = ({
             <div className="pt-5 mt-5 border-t border-white/5 flex flex-wrap gap-4 text-[11px] font-mono text-[#869397]">
               {summary.total_wall_clock_formatted && (
                 <span className="flex items-center gap-1.5">
-                  <Clock className="w-3.5 h-3.5" /> Last batch run: {summary.total_wall_clock_formatted}
+                  <Clock className="w-3.5 h-3.5" /> Last updated: {summary.total_wall_clock_formatted}
                 </span>
               )}
               {typeof summary.total_processed === 'number' && (
                 <span>Processed: {summary.total_processed}</span>
               )}
               {typeof summary.total_errored === 'number' && (
-                <span>Errored: {summary.total_errored}</span>
+                <span>Needs attention: {summary.total_errored}</span>
               )}
               {typeof summary.total_skipped === 'number' && (
                 <span>Skipped: {summary.total_skipped}</span>

@@ -48,6 +48,12 @@ export const api = {
       { method: 'PATCH', body: JSON.stringify({ status }) }
     ),
 
+  saveProduct: (mpn: string, record: Record<string, any>) =>
+    request<{ status: string; mpn: string; message: string }>(
+      `/api/products/${encodeURIComponent(mpn)}`,
+      { method: 'PUT', body: JSON.stringify(record) }
+    ),
+
   bulkUpdateStatus: (mpns: string[], status: ReviewStatus) =>
     request<{ status: string; updated_count: number; new_status: string }>(
       `/api/bulk-status`,
