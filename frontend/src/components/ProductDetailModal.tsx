@@ -163,7 +163,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({ mpn, onC
   const active = isEditing ? draft : record;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fadeIn">
+    <div className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fadeIn">
       <div className="glass-panel-glow max-w-4xl w-full max-h-[88vh] rounded-2xl flex flex-col overflow-hidden border border-[#4cd7f6]/40 shadow-2xl shadow-[#4cd7f6]/10">
         {/* Header */}
         <div className="p-6 border-b border-white/10 bg-[#070d1f]/90 flex items-center justify-between gap-4">
