@@ -68,18 +68,6 @@ export default function App() {
 
   const refreshAll = () => setRefreshSignal((s) => s + 1);
 
-  const handleExportSnapshot = () => {
-    if (!telemetry) return;
-    playCyberSound('click');
-    const blob = new Blob([JSON.stringify(telemetry, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `specsense-telemetry-snapshot-${Date.now()}.json`;
-    a.click();
-    showToast('Telemetry JSON snapshot downloaded.');
-  };
-
   return (
     <div className="min-h-screen bg-[#0c1324] text-[#dce1fb] font-sans relative overflow-x-hidden">
       <div className="hex-bg fixed inset-0 z-0 pointer-events-none"></div>
@@ -163,7 +151,6 @@ export default function App() {
                 onOpenReviewQueue={() => setShowReviewQueue(true)}
                 onRefresh={refreshAll}
                 onGoToProducts={() => setCurrentScreen('products')}
-                onExportSnapshot={handleExportSnapshot}
               />
             )}
 

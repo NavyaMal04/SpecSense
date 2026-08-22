@@ -5,7 +5,6 @@ import {
   CheckCircle,
   AlertTriangle,
   BarChart2,
-  Download,
   ArrowUpRight,
   RefreshCw,
   Clock,
@@ -19,7 +18,6 @@ interface DashboardScreenProps {
   onOpenReviewQueue: () => void;
   onRefresh: () => void;
   onGoToProducts: () => void;
-  onExportSnapshot: () => void;
 }
 
 export const DashboardScreen: React.FC<DashboardScreenProps> = ({
@@ -29,7 +27,6 @@ export const DashboardScreen: React.FC<DashboardScreenProps> = ({
   onOpenReviewQueue,
   onRefresh,
   onGoToProducts,
-  onExportSnapshot,
 }) => {
   const provenance = telemetry?.provenance ?? {
     extracted_pct: 0,
@@ -63,7 +60,7 @@ export const DashboardScreen: React.FC<DashboardScreenProps> = ({
             </span>
           </div>
           <p className="font-mono text-sm text-[#bcc9cd] mt-2">
-            Provenance and completeness across the enriched product catalog.
+            Where your catalog data came from, and how complete it is.
           </p>
         </div>
 
@@ -77,17 +74,6 @@ export const DashboardScreen: React.FC<DashboardScreenProps> = ({
           >
             <RefreshCw className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} />
             <span>Refresh</span>
-          </button>
-
-          <button
-            onClick={() => {
-              playCyberSound('click');
-              onExportSnapshot();
-            }}
-            className="flex items-center gap-1.5 px-3 py-1.5 bg-[#4cd7f6]/10 hover:bg-[#4cd7f6]/20 border border-[#4cd7f6]/40 text-[#4cd7f6] rounded-lg text-xs font-mono transition-all"
-          >
-            <Download className="w-3.5 h-3.5" />
-            <span>Export Snapshot</span>
           </button>
         </div>
       </header>

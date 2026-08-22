@@ -109,11 +109,10 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 playCyberSound('tab');
                 onSelectScreen(item.id);
               }}
-              className={`w-full flex items-center justify-between px-3.5 py-3 rounded-md transition-all duration-200 group text-left ${
-                isActive
+              className={`w-full flex items-center justify-between px-3.5 py-3 rounded-md transition-all duration-200 group text-left ${isActive
                   ? 'bg-[#4cd7f6]/10 text-[#4cd7f6] border-l-4 border-[#4cd7f6] shadow-[inset_0_0_15px_rgba(76,215,246,0.15)] font-semibold'
                   : 'text-[#bcc9cd] hover:bg-white/5 hover:text-[#4cd7f6] border-l-4 border-transparent'
-              }`}
+                }`}
             >
               <div className="flex items-center gap-3.5">
                 <Icon className={`w-5 h-5 transition-transform duration-200 group-hover:scale-110 ${isActive ? 'text-[#4cd7f6]' : 'text-[#869397]'}`} />
@@ -151,9 +150,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
             playCyberSound('click');
             onOpenStatusModal();
           }}
-          className={`glass-panel p-2.5 rounded-md border cursor-pointer transition-all flex items-center justify-between group ${
-            apiConnected ? 'border-[#4edea3]/20 hover:border-[#4edea3]/50' : 'border-[#ff6b6b]/30 hover:border-[#ff6b6b]/60'
-          }`}
+          className={`glass-panel p-2.5 rounded-md border cursor-pointer transition-all flex items-center justify-between group ${apiConnected ? 'border-[#4edea3]/20 hover:border-[#4edea3]/50' : 'border-[#ff6b6b]/30 hover:border-[#ff6b6b]/60'
+            }`}
         >
           <div className="flex items-center gap-2">
             <div className="relative flex h-2 w-2">
@@ -161,7 +159,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
               <span className={`relative inline-flex rounded-full h-2 w-2 ${apiConnected ? 'bg-[#4edea3]' : 'bg-[#ff6b6b]'}`}></span>
             </div>
             <p className={`font-mono text-xs font-semibold tracking-wide ${apiConnected ? 'text-[#4edea3]' : 'text-[#ffb4ab]'}`}>
-              System: {apiConnected ? 'Connected' : 'Unreachable'}
+              {apiConnected ? 'Connected' : "Can't Connect"}
             </p>
           </div>
           {apiConnected ? (

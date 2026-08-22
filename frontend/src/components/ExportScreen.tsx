@@ -33,11 +33,11 @@ export const ExportScreen: React.FC = () => {
         </div>
         <button
           onClick={() => setOnlyApproved((v) => !v)}
-          className={`w-12 h-6 rounded-full transition-colors relative ${onlyApproved ? 'bg-[#4edea3]/40' : 'bg-white/10'}`}
+          className={`w-11 h-6 rounded-full transition-colors relative shrink-0 ${onlyApproved ? 'bg-[#4edea3]/40' : 'bg-white/10'}`}
         >
           <span
-            className={`absolute top-0.5 w-5 h-5 rounded-full transition-transform ${
-              onlyApproved ? 'translate-x-6 bg-[#4edea3]' : 'translate-x-0.5 bg-[#bcc9cd]'
+            className={`absolute top-0.5 left-0.5 w-5 h-5 rounded-full transition-transform duration-200 ${
+              onlyApproved ? 'translate-x-full bg-[#4edea3]' : 'translate-x-0 bg-[#bcc9cd]'
             }`}
           ></span>
         </button>
