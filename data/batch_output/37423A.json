@@ -61,16 +61,7 @@
     "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/4-light-bath-fixtures/barrington-vanity-light-37423a",
     "source_snippet": "Official Manufacturer Product Page"
   },
-  "ref_urls": [
-    "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
-    "https://manuals.plus/kichler/37423a-4-light-vanity-manual",
-    "https://manuals.plus/m/cd519bbeeddd3cb68c3cdbbf6c54abc7eae80db8e56e3f8e13ffd89148c64dce_optim.pdf",
-    "https://www.rona.ca/en/product/kichler-barrington-913-in-x-295-in-4-light-black-bathroom-vanity-light-37423a-61325017",
-    "https://www.datasheetarchive.com/",
-    "https://www.digchip.com/datasheets/search.php",
-    "https://www.alldatasheet.com/",
-    "https://pdf.datasheetarchive.com/"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
     "value": "Masco Corporation, Kichler®, Barrington Vanity Light 4-Light, 37423A",
     "source_type": "inferred",
@@ -122,25 +113,25 @@
     "source_snippet": "Barrington 4-Light Steel features a distressed black metal and a wood tone finish"
   },
   "standard_approvals": {
-    "value": [],
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
-    "source_snippet": "ADA Compliant No\nProp65 No\nDark Sky Compliant No"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
-    "value": "No",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
-    "source_snippet": "Prop65 No"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "application": {
-    "value": "Interior",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
-    "source_snippet": "Interior/Exterior Interior Product"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": null,
@@ -150,11 +141,11 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Barrington Vanity Light 4-Light",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37423a.pdf",
-    "source_snippet": "Barrington Vanity Light 4-Light | Clear Seeded Glass 37423A"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "attributes": [
     {
@@ -704,6 +695,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-21T07:16:06.244220+00:00",
-  "fields_found_count": 54,
-  "fields_total_count": 87
+  "fields_found_count": 50,
+  "fields_total_count": 87,
+  "sourcing_compliance_note": "Pruned 4 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 8 ref_url(s) removed."
 }

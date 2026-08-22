@@ -1,6 +1,6 @@
 {
   "id": "05134545001",
-  "source_row_index": 0,
+  "source_row_index": 7,
   "part_number": "05134545001",
   "dept": null,
   "product_class": null,
@@ -13,25 +13,25 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "Wera Tools NA Inc (WERTO)",
   "manufacturer_name": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG",
+    "value": "Wera Tools",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": null,
+    "source_snippet": "05134545001 - Assorted Tool Kit General Purpose from Wera Tools NA Inc.. View datasheets, pricing and availability from DigiKey now! ... Wera 9516."
   },
   "brand_name": {
     "value": "Wera®",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener",
-    "source_snippet": "Uber Premium Wera tools The super-comfortable large knee pad protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "source_url": null,
+    "source_snippet": "05134545001 - Assorted Tool Kit General Purpose from Wera Tools NA Inc.. View datasheets, pricing and availability from DigiKey now! ... Wera 9516."
   },
   "trade_name": {
-    "value": "Wera",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Brand: Wera"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,57 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Mechanics Creepers, Seats & Mats",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "Category: Mechanics Creepers, Seats & Mats"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "mfr_url": {
-    "value": "https://www.bigredpowertools.co.uk/wera-05134545001",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-    "source_snippet": "Official Manufacturer Product Page"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
-  "ref_urls": [
-    "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "https://www.eio.com/products/wera-05134545001-comfort-refreshment-set-9516-2-pc",
-    "https://whiterosetools.com/en-us/products/wera-kneeling-pad-9516-with-bottle-opener-comfort-and-refreshment-set-knee-saver-mat-2-pieces",
-    "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "https://www.amazon.co.uk/Wera-05134545001-9516-Kneepat-Cushion/dp/B0CFY2GJ84",
-    "https://www.propowertoolparts.com/product/wera-05134545001-9516-wera-comfort-refreshment-set-2-pieces/",
-    "https://uberlegen.com/products/wera-05134545001-9516-kneeling-pad-botlle-opener"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
-    "value": "Wera Werk Hermann Werner GmbH & Co. KG, Wera®, Wera 9516 Comfort & Refreshment Set 2 Pieces, 05134545001",
+    "value": "Wera Tools, Wera®, 9516 Kneeling Pad & Bottle Opener, 05134545001",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "WERA 9516 COMFORT & REFRESHMENT SET 2 PI",
+    "value": "9516 KNEELING PAD & BOTTLE OPENER 9516",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "Wera® 05134545001, Wera 9516 Comfort & Refreshment Set 2 Pieces, With Yes, Model: 05134545001, Series: 9516",
+    "value": "Wera® 05134545001, 9516 Kneeling Pad & Bottle Opener, Model: 9516",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "Wera® Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm, Width: 480 mm, Depth: 280 mm, Size: 0.79 in H x 18.90 in W x 11.02 in D, Weight: 280 g, Material: Memory foam, Country of Origin: Czech Republic, Warranty: Lifetime warranty, Certifications: RoHS Compliant, Additional Information: Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
+    "value": "Wera® 9516 Kneeling Pad & Bottle Opener, Model: 9516",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces, Model: 05134545001, Series: 9516, Height: 20 mm",
+    "value": "9516 Kneeling Pad & Bottle Opener, Model: 9516",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Wera 9516 Comfort & Refreshment Set 2 Pieces from Wera®.",
+    "value": "High quality 9516 Kneeling Pad & Bottle Opener from Wera®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,18 +106,18 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "The material also returns to its original shape after use (memory foam). The integrated handle allows for easy portability. The knee pad is waterproof"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
-    "value": "RoHS Compliant",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.newark.com/wera/05134545001/9516-kneeling-pad-botlle-opener/dp/17AN4280",
-    "source_snippet": "RoHS Compliant: Yes"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
     "value": null,
@@ -136,25 +127,25 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Kneeling activities, especially when working on hard floors",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.primetools.co.uk/product/wera-9516-kneeling-pad-set-2-with-bottle-opener/",
-    "source_snippet": "protects during all kneeling activities. It comes in particularly handy when working on hard floors."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
-    "value": "Kneeling Pad, Bottle Opener with Kraftform handle",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "product_name": {
-    "value": "Wera 9516 Comfort & Refreshment Set 2 Pieces",
+    "value": "9516 Kneeling Pad & Bottle Opener",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://mrtools.com/products/wera-9516-comfort-refreshment-set-2-pieces-05134545001",
-    "source_snippet": "Wera 9516 Comfort & Refreshment Set 2 Pieces 05134545001"
+    "source_url": "",
+    "source_snippet": "Description: 9516 Kneeling Pad & Bottle Opener"
   },
   "attributes": [
     {
@@ -162,267 +153,14 @@
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "05134545001",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "",
         "source_snippet": null
       },
       "value": {
         "value": "9516",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "20",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "mm",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Width",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "480",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "mm",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "280",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "mm",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "13/16 in H x 18-7/8 in W x 11 in D",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Weight",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "280",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "g",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Memory foam",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Country of Origin",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Czech Republic",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Warranty",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Lifetime warranty",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Certifications",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "RoHS Compliant",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Additional Information",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Waterproof, Integrated handle, Returns to original shape, Includes Kraftform handle bottle opener",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bigredpowertools.co.uk/wera-05134545001",
+        "source_url": "",
         "source_snippet": null
       },
       "uom": {
@@ -589,8 +327,8 @@
     "source_url": null,
     "source_snippet": null
   },
-  "review_status": "pending",
-  "processed_at": "2026-08-20T11:09:05.296622+00:00",
-  "fields_found_count": 44,
-  "fields_total_count": 75
+  "review_status": "flagged",
+  "processed_at": "2026-08-22T14:17:39.813125+00:00",
+  "fields_found_count": 11,
+  "fields_total_count": 42
 }

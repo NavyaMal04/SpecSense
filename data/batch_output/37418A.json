@@ -1,37 +1,37 @@
 {
   "id": "37418A",
-  "source_row_index": 4,
+  "source_row_index": 8,
   "part_number": "37418A",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
   "mfg_part_num": "37418A",
-  "part_desc": "37418A Kichler Bath Light",
+  "part_desc": "37418A Product",
   "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Kichler Lighting (KICLI)",
+  "part_manuf": "",
   "manufacturer_name": {
-    "value": "Kichler Lighting LLC",
+    "value": "Kichler Lighting",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37418a.pdf",
-    "source_snippet": "Barrington Vanity Light 3-Light | Clear Seeded Glass 37418A © 2024 Kichler Lighting LLC All Rights Reserved"
+    "source_url": null,
+    "source_snippet": "Shop Kichler Barrington 22-in 3-Light Distressed Black Rustic Vanity Light 37418A in the Vanity Lights department at Lowes.com"
   },
   "brand_name": {
     "value": "Kichler®",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://en.lumenco.ca/dev/kichler_specsheet_37418a.pdf",
-    "source_snippet": "Barrington Vanity Light 3-Light | Clear Seeded Glass 37418A © 2024 Kichler Lighting LLC All Rights Reserved"
+    "source_url": null,
+    "source_snippet": "Shop Kichler Barrington 22-in 3-Light Distressed Black Rustic Vanity Light 37418A in the Vanity Lights department at Lowes.com"
   },
   "trade_name": {
     "value": "Kichler",
     "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.datasheetarchive.com/",
-    "source_snippet": null
+    "confidence": 0.95,
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+    "source_snippet": "Barrington 3 Light Vanity Light Black | Kichler Lighting"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,63 +48,59 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
-    "source_url": null,
-    "source_snippet": null
-  },
-  "mfr_url": {
-    "value": "https://www.datasheetarchive.com/",
+    "value": "Indoor Lighting > Bath and Vanity Lights > 3-Light Bath Fixtures",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.datasheetarchive.com/",
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+    "source_snippet": "indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures"
+  },
+  "mfr_url": {
+    "value": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.digchip.com/datasheets/search.php",
-    "https://pdf.datasheetarchive.com/",
-    "https://datasheets.globalspec.com/",
-    "https://www.datasheets.com/",
-    "https://www.alldatasheet.com/"
+    "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/kennewick-vanity-light-55087bk"
   ],
   "mobile_desc": {
-    "value": "Kichler Lighting LLC, Kichler®, 37418A Kichler Bath Light, 37418A",
+    "value": "Kichler Lighting, Kichler®, Barrington 3 Light Vanity Light Black, 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "37418A KICHLER BATH LIGHT 37418A",
+    "value": "BARRINGTON 3 LIGHT VANITY LIGHT BLACK BA",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "Kichler® 37418A, 37418A Kichler Bath Light, Model: 37418A",
+    "value": "Kichler® 37418A, Barrington 3 Light Vanity Light Black, Series: Barrington Collection, Model: 37418A",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "Kichler® 37418A Kichler Bath Light, Model: 37418A",
+    "value": "Kichler® Barrington 3 Light Vanity Light Black, Series: Barrington Collection, Model: 37418A, Size: 9 in H x 5.69 in W x 22 in D, Height: 9 in, Width: 5.69 in, Depth: 22 in, Color: Distressed Black, Material: Metal, Wood, Glass, Number of Lights: 3, Socket: 3 E26 (Medium), Glass Type: Clear Seeded Glass, Mounting Type: Horizontal, Additional Information: Install Glass up or Down: Both, Mounts Horizontal or Vertical: Horizontal, Distressed black metal and a wood tone finish",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "37418A Kichler Bath Light, Model: 37418A",
+    "value": "Barrington 3 Light Vanity Light Black, Series: Barrington Collection, Model: 37418A, Size: 9 in H x 5.69 in W x 22 in D",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality 37418A Kichler Bath Light from Kichler®.",
+    "value": "High quality Barrington 3 Light Vanity Light Black from Kichler®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -133,11 +129,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": null,
-    "source_type": "unavailable",
-    "confidence": 0.0,
-    "source_url": null,
-    "source_snippet": null
+    "value": "Bathroom",
+    "source_type": "extracted",
+    "confidence": 0.95,
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+    "source_snippet": "adds charm to any bathroom"
   },
   "includes": {
     "value": null,
@@ -147,26 +143,302 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "37418A Kichler Bath Light",
+    "value": "Barrington 3 Light Vanity Light Black",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.datasheetarchive.com/",
-    "source_snippet": null
+    "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+    "source_snippet": "Barrington 3 Light Vanity Light Black | Kichler Lighting"
   },
   "attributes": [
+    {
+      "label": {
+        "value": "Series",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Barrington Collection",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
     {
       "label": {
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.datasheetarchive.com/",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
         "source_snippet": null
       },
       "value": {
         "value": "37418A",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.datasheetarchive.com/",
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Size",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "9 in H x 5-11/16 in W x 22 in D",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Height",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "9",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Width",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "5-11/16",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Depth",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "22",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "in",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Color",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Distressed Black",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Material",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Metal, Wood, Glass",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Number of Lights",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Socket",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "3 E26 (Medium)",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Glass Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Clear Seeded Glass",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Mounting Type",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Horizontal",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Additional Information",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "Install Glass up or Down: Both, Mounts Horizontal or Vertical: Horizontal, Distressed black metal and a wood tone finish",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kichler.com/products/indoor-lighting/bath-and-vanity-lights/3-light-bath-fixtures/barrington-vanity-light-37418a",
         "source_snippet": null
       },
       "uom": {
@@ -334,7 +606,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-21T07:15:12.316343+00:00",
-  "fields_found_count": 13,
-  "fields_total_count": 42
+  "processed_at": "2026-08-22T14:18:53.042649+00:00",
+  "fields_found_count": 42,
+  "fields_total_count": 78
 }

@@ -13,18 +13,18 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "V & V Appliance Parts Inc (VVAPP)",
   "manufacturer_name": {
-    "value": "Alliance Laundry Systems",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://partsdr.com/part/d519127-heater-kit",
-    "source_snippet": "Genuine OEM part made by Speed Queen to work with Speed Queen appliances. KIT HEATER-ORG-5350W W/GRN Buy this commercial Alliance part #D519127 replacement KIT HEATER-ORG-5350W W/GRN LIMIT here online at Alliance Laundry Systems Distribution"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "Speed Queen®",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://partsdr.com/part/d519127-heater-kit",
-    "source_snippet": "Genuine OEM part made by Speed Queen to work with Speed Queen appliances. KIT HEATER-ORG-5350W W/GRN Buy this commercial Alliance part #D519127 replacement KIT HEATER-ORG-5350W W/GRN LIMIT here online at Alliance Laundry Systems Distribution"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
     "value": "Alliance / Speed Queen",
@@ -62,10 +62,7 @@
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://oemlaundryparts.com/alliance-laundry-d519127-kit-heater-org-5350w-w-grn-limit.html",
-    "https://partsdr.com/part/d519127-heater-kit",
-    "https://www.deyparts.com/product/inv_D519127",
-    "https://partssolutiongroup.com/products/speed-queen-d519127"
+    "https://oemlaundryparts.com/alliance-laundry-d519127-kit-heater-org-5350w-w-grn-limit.html"
   ],
   "mobile_desc": {
     "value": "Alliance Laundry Systems, Speed Queen®, Kit Heater-org-5350w W/grn Limit, D519127",
@@ -146,11 +143,11 @@
     "source_snippet": "KIT HEATER-ORG-5350W W/GRN LIMIT"
   },
   "product_name": {
-    "value": "Kit Heater-org-5350w W/grn Limit",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://partssolutiongroup.com/products/speed-queen-d519127",
-    "source_snippet": "SPEED QUEEN D519127 KIT HEATER-ORG-5350W W/GRN LIMIT (GENUINE OEM PART)"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "attributes": [
     {
@@ -541,6 +538,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-19T16:36:08.772663+00:00",
-  "fields_found_count": 38,
-  "fields_total_count": 69
+  "fields_found_count": 35,
+  "fields_total_count": 69,
+  "sourcing_compliance_note": "Pruned 3 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 3 ref_url(s) removed."
 }

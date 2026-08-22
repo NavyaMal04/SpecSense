@@ -1,6 +1,7 @@
 import os
 import sys
 import io
+import time
 import json
 import re
 import urllib.parse
@@ -30,13 +31,41 @@ from pipeline.schema import (
 load_dotenv()
 
 DOMAIN_BLOCKLIST: List[str] = [
-    "amazon.com", "ebay.com", "grainger.com", "mcmaster.com", "homedepot.com",
-    "lowes.com", "walmart.com", "target.com", "sears.com", "supplyhouse.com",
-    "build.com", "wayfair.com", "bestbuy.com", "webstaurantstore.com",
-    "zoro.com", "ferguson.com", "newegg.com", "cdw.com", "aliexpress.com",
-    "overstock.com", "rakuten.com", "etsy.com", "partsselect.com",
-    "searspartsdirect.com", "repairclinic.com", "appliancepartspros.com",
-    "wikipedia.org", "sec.gov", "bloomberg.com", "fortune.com", "crunchbase.com"
+    # General marketplaces & big box retailers
+    "amazon.com", "ebay.com", "walmart.com", "target.com", "homedepot.com",
+    "lowes.com", "menards.com", "bestbuy.com", "costco.com", "samsclub.com",
+    "wayfair.com", "overstock.com", "bedbathandbeyond.com", "kohls.com",
+    "jcpenney.com", "sears.com", "aliexpress.com", "rakuten.com", "etsy.com",
+    "newegg.com", "cdw.com",
+    # Appliance / kitchen / bath retailers & distributors
+    "appliancesconnection.com", "abt.com", "us-appliance.com",
+    "billandrodsappliance.com", "ajmadison.com", "pcrichard.com",
+    "ferguson.com", "build.com", "faucetdirect.com", "prolinerangehoods.com",
+    "appliancefactory.com", "grandappliance.com", "warnersstellian.com",
+    "brayandoffice.com", "brandsmartusa.com", "supplyhouse.com",
+    "plumbersstock.com", "supply.com", "webstaurantstore.com", "zoro.com",
+    "grainger.com", "mcmaster.com", "mscdirect.com", "fastenal.com",
+    "globalindustrial.com", "northerntool.com", "harborfreight.com",
+    "toolnut.com", "toolbarn.com", "acmetools.com", "cpooutlets.com",
+    "summitracing.com", "rockauto.com", "autozone.com", "oreillyauto.com",
+    "advanceautoparts.com",
+    # Replacement parts & repair distributors
+    "searspartsdirect.com", "partselect.com", "partsselect.com",
+    "repairclinic.com", "appliancepartspros.com", "marcone.com",
+    "encompass.com", "ereplacementparts.com",
+    # Generic spec / manual / datasheet aggregators
+    "datasheetarchive.com", "alldatasheet.com", "datasheetcatalog.com",
+    "manualslib.com", "manualzz.com", "retrevo.com", "fixya.com",
+    "vosstv.com",
+    # Social, encyclopedic, review & corporate aggregation sites
+    "wikipedia.org", "sec.gov", "bloomberg.com", "fortune.com",
+    "crunchbase.com", "consumerreports.org", "cnet.com", "reviewed.com",
+    "thespruce.com", "bobvila.com", "thisoldhouse.com", "angi.com",
+    "homeadvisor.com", "yelp.com", "yellowpages.com", "bbb.org",
+    "trustpilot.com", "houzz.com", "pinterest.com", "youtube.com",
+    "facebook.com", "twitter.com", "instagram.com", "linkedin.com",
+    "reddit.com", "quora.com", "google.com", "bing.com", "yahoo.com",
+    "duckduckgo.com"
 ]
 
 # User-Agent header for direct page fetches
@@ -95,23 +124,39 @@ class GeminiRetryExhaustedError(EnrichmentError):
 
 
 # ── Multi-key round-robin rotation ──────────────────────────────────────────
-# Loads up to 3 Google AI Studio keys from environment. Each key has 20 req/day
-# free-tier quota, giving 60 req/day total across the pool.
+# Scans GEMINI_API_KEY_1 through GEMINI_API_KEY_10 — load any that are present
+# and non-empty. Each free-tier key gives 20 req/day; total capacity scales
+# linearly with the number of keys added to .env.
+
+_PLACEHOLDER_KEYS = {
+    "<YOUR_KEY_2_HERE>", "<YOUR_KEY_3_HERE>", "<YOUR_KEY_4_HERE>",
+    "<YOUR_KEY_5_HERE>", "your_gemini_api_key_here", "",
+}
 
 def _load_key_pool() -> list:
-    """Load GEMINI_API_KEY_1/2/3 (or fall back to GEMINI_API_KEY) into an ordered list."""
+    """Scan GEMINI_API_KEY_1..10 and load all non-empty, non-placeholder keys.
+
+    Also accepts the bare GEMINI_API_KEY as a backwards-compatible fallback.
+    To add more keys: simply set GEMINI_API_KEY_4, GEMINI_API_KEY_5, etc. in .env.
+    No code changes needed.
+    """
     pool = []
-    for i in (1, 2, 3):
+    seen = set()
+    for i in range(1, 11):  # scan slots 1–10
         k = os.getenv(f"GEMINI_API_KEY_{i}", "").strip()
-        if k and k not in ("<YOUR_KEY_2_HERE>", "<YOUR_KEY_3_HERE>", "your_gemini_api_key_here"):
+        if k and k not in _PLACEHOLDER_KEYS and k not in seen:
             pool.append(k)
+            seen.add(k)
     if not pool:
-        # Backwards-compat fallback to bare GEMINI_API_KEY
+        # Backwards-compat: bare GEMINI_API_KEY
         k = os.getenv("GEMINI_API_KEY", "").strip()
-        if k and k != "your_gemini_api_key_here":
+        if k and k not in _PLACEHOLDER_KEYS:
             pool.append(k)
     if not pool:
-        raise EnrichmentError("No valid Gemini API keys found in environment. Set GEMINI_API_KEY_1/2/3 or GEMINI_API_KEY.")
+        raise EnrichmentError(
+            "No valid Gemini API keys found. Set GEMINI_API_KEY_1 (through GEMINI_API_KEY_10) "
+            "or GEMINI_API_KEY in your .env file."
+        )
     return pool
 
 
@@ -257,6 +302,101 @@ def _is_blocked_domain(url: str) -> bool:
         return False
 
 
+_STOP_WORDS = {
+    "inc", "incorporated", "llc", "corp", "corporation", "co", "company",
+    "the", "america", "usa", "us", "products", "product", "group",
+    "holdings", "holding", "ltd", "limited", "international", "intl",
+    "global", "industries", "industry", "gmbh", "electric", "manufacturing",
+    "mfg", "service", "services", "supply", "supplies", "systems", "system",
+    "technologies", "technology", "tools", "tool", "lighting", "light",
+    "appliances", "appliance", "dealers", "cooperative"
+}
+
+
+_BRAND_AFFILIATES: Dict[str, List[str]] = {
+    "frigidaire": ["electrolux", "electroluxmedia", "frigidaire"],
+    "electrolux": ["frigidaire", "electroluxmedia", "electrolux"],
+    "diablo": ["freud", "freudtools", "diablotools", "diablo"],
+    "freud": ["diablo", "diablotools", "freudtools", "freud"],
+    "nuvo": ["satco", "nuvo"],
+    "satco": ["nuvo", "satco"],
+    "kitchenaid": ["whirlpool", "kitchenaid", "whirlpoolcorp"],
+    "maytag": ["whirlpool", "maytag", "whirlpoolcorp"],
+    "whirlpool": ["kitchenaid", "maytag", "whirlpool", "whirlpoolcorp"],
+    "dewalt": ["stanleyblackdecker", "stanley", "dewalt"],
+    "timbertech": ["azek", "timbertech"],
+    "azek": ["timbertech", "azek"],
+}
+
+
+def _extract_domain_tokens(name: str) -> List[str]:
+    """Extracts alphanumeric brand/mfr tokens suitable for domain matching."""
+    if not name:
+        return []
+    clean = re.sub(r'[®™©\(\)\[\],.:;\'\"/\\-]', ' ', name).lower()
+    tokens = []
+    for w in clean.split():
+        w_s = w.strip()
+        if w_s in ["3m", "ge"]:
+            tokens.append(w_s)
+        elif len(w_s) >= 3 and w_s not in _STOP_WORDS:
+            tokens.append(w_s)
+    alnum = re.sub(r'[^a-z0-9]', '', clean)
+    if len(alnum) >= 3 and alnum not in _STOP_WORDS and alnum not in tokens:
+        tokens.append(alnum)
+
+    # Expand known corporate parent / affiliate brand tokens (e.g. Frigidaire <-> Electrolux)
+    expanded = list(tokens)
+    for tok in tokens:
+        if tok in _BRAND_AFFILIATES:
+            for aff in _BRAND_AFFILIATES[tok]:
+                if aff not in expanded:
+                    expanded.append(aff)
+    return expanded
+
+
+def _is_manufacturer_domain(url: str, manufacturer_name: str, brand_name: str = "") -> bool:
+    """
+    Heuristic check: verifies whether a URL domain contains the resolved manufacturer_name
+    or brand_name (or a close variant) anywhere in its domain string.
+    Rejects any URL in DOMAIN_BLOCKLIST or whose domain does not contain any manufacturer/brand tokens.
+    """
+    if not url or _is_blocked_domain(url):
+        return False
+    try:
+        netloc = urllib.parse.urlparse(url).netloc.lower()
+        domain_clean = re.sub(r'[^a-z0-9]', '', netloc)
+        tokens = set(_extract_domain_tokens(manufacturer_name) + _extract_domain_tokens(brand_name))
+        if not tokens:
+            return False
+        for tok in tokens:
+            tok_clean = re.sub(r'[^a-z0-9]', '', tok)
+            if tok_clean and (tok_clean in domain_clean or tok in netloc):
+                return True
+        return False
+    except Exception:
+        return False
+
+
+def normalize_fraction_hyphenation(text: str) -> str:
+    """
+    Finds any pattern of '{whole number} {fraction}' followed by inch designations
+    or dimension connectors (e.g., '33 3/4 in', '33 3/4 inch', '33 3/4\"', '33 3/4 to')
+    and converts the space between the whole number and fraction into a hyphen ('33-3/4 in').
+    Only applies to the specific pattern (digit, space, digit/digit) followed by dimension units
+    without modifying any other spaces in the text.
+    """
+    if not isinstance(text, str) or not text.strip():
+        return text
+    pattern = r'\b(\d+)\s+(\d+/\d+)(\s*(?:in\b|in\.|inch\b|inches\b|\"|\'\'|\bto\b|\bx\b|\bby\b|\bH\b|\bW\b|\bD\b|\bL\b))'
+    def _repl(m):
+        whole = m.group(1)
+        frac = m.group(2)
+        suffix = m.group(3)
+        return f"{whole}-{frac}{suffix}"
+    return re.sub(pattern, _repl, text, flags=re.IGNORECASE)
+
+
 def _clean_and_parse_json(raw_text: str) -> Dict[str, Any]:
     """Safely extracts JSON from LLM markdown code blocks and parses it."""
     if not raw_text:
@@ -277,8 +417,8 @@ print("=" * 70)
 print("[SpecSense Enricher] Search Grounding Safety Check:")
 print("  • Gemini Search Grounding Tools: DISABLED (Zero-Cost Free Tier Mode)")
 print("  • Free Web Search: ENABLED (duckduckgo-search / ddgs)")
-print(f"  • Gemini Key Pool: {len(GEMINI_KEY_POOL)} key(s) loaded — round-robin rotation ACTIVE")
-print(f"    (~{len(GEMINI_KEY_POOL) * 20} req/day total free-tier capacity)")
+print(f"  • Gemini Key Pool: {len(GEMINI_KEY_POOL)} key(s) loaded (scanned GEMINI_API_KEY_1..10)")
+print(f"  • Round-Robin Rotation: ACTIVE — ~{len(GEMINI_KEY_POOL) * 20} req/day total free-tier capacity")
 print("  • Gemini Call Sites:")
 print("      1. identify_manufacturer    -> plain text prompt (grounding tools: DISABLED)")
 print("      2. find_manufacturer_page   -> pure search + blocklist (Gemini: NONE)")
@@ -294,29 +434,39 @@ def web_search_free(query: str, max_results: int = 5) -> list[dict]:
     """
     if not query or not str(query).strip():
         return []
-    results = []
-    try:
-        try:
-            from ddgs import DDGS
-        except ImportError:
-            from duckduckgo_search import DDGS
 
-        with DDGS() as ddgs:
-            raw_results = list(ddgs.text(str(query).strip(), max_results=max_results))
-            for r in raw_results:
-                title = r.get("title") or ""
-                url = r.get("href") or r.get("url") or ""
-                snippet = r.get("body") or r.get("snippet") or ""
-                if url:
-                    results.append({
-                        "title": title,
-                        "url": url,
-                        "snippet": snippet
-                    })
-    except Exception as e:
-        print(f"  [web_search_free] Warning: search query '{str(query)[:60]}' failed/rate-limited: {e}")
-        return []
-    return results
+    try:
+        from ddgs import DDGS
+    except ImportError:
+        try:
+            from duckduckgo_search import DDGS
+        except ImportError:
+            return []
+
+    cleaned_q = str(query).strip()
+    for attempt in range(2):
+        results = []
+        try:
+            with DDGS() as ddgs:
+                raw_results = list(ddgs.text(cleaned_q, max_results=max_results))
+                for r in raw_results:
+                    title = r.get("title") or ""
+                    url = r.get("href") or r.get("url") or ""
+                    snippet = r.get("body") or r.get("snippet") or ""
+                    if url:
+                        results.append({
+                            "title": title,
+                            "url": url,
+                            "snippet": snippet
+                        })
+            if results:
+                return results
+        except Exception as e:
+            if attempt == 0:
+                time.sleep(1.5)
+            else:
+                print(f"  [web_search_free] Warning: search query '{cleaned_q[:60]}' failed/rate-limited: {e}")
+    return []
 
 
 def identify_manufacturer(part_manuf: str, part_desc: str, mfg_part_num: str) -> dict:
@@ -381,6 +531,13 @@ If no confident match is found, return "manufacturer_name": null, "brand_name": 
             current_mpn=mfg_part_num
         )
         data = _clean_and_parse_json(res.text)
+        src_url = data.get("source_url")
+        if src_url:
+            mfr_n = data.get("manufacturer_name") or ""
+            brd_n = data.get("brand_name") or ""
+            if _is_blocked_domain(src_url) or not _is_manufacturer_domain(src_url, mfr_n, brd_n):
+                print(f"Rejected non-manufacturer source: {src_url}")
+                data["source_url"] = None
         return data
     except Exception as e:
         if isinstance(e, EnrichmentError):
@@ -388,12 +545,18 @@ If no confident match is found, return "manufacturer_name": null, "brand_name": 
         raise EnrichmentError(f"identify_manufacturer failed: {e}")
 
 
-def find_manufacturer_page(manufacturer_name: str, mfg_part_num: str, part_desc: str = "") -> dict:
+def find_manufacturer_page(
+    manufacturer_name: str,
+    mfg_part_num: str,
+    part_desc: str = "",
+    brand_name: str = ""
+) -> dict:
     """
     Finds the manufacturer's official product page and candidate reference URLs
     (including PDF spec sheets and manuals) using broadened multi-query free search
-    and domain filtering (no Gemini API call needed).
-    Explicitly filters out marketplace/distributor domains in DOMAIN_BLOCKLIST.
+    and strict domain filtering (no Gemini API call needed).
+    Explicitly filters out marketplace/distributor domains in DOMAIN_BLOCKLIST AND
+    enforces that domains must contain manufacturer/brand name tokens.
 
     Returns:
         dict: {"mfr_url": ..., "candidate_ref_urls": [...]}
@@ -403,6 +566,7 @@ def find_manufacturer_page(manufacturer_name: str, mfg_part_num: str, part_desc:
 
     clean_mpn = mfg_part_num.split("-")[-1] if "3MABR-" in (mfg_part_num or "") else (mfg_part_num or "")
     mfr_str = (manufacturer_name or "").strip()
+    brand_str = (brand_name or "").strip()
 
     # Extract short descriptive keywords (e.g. "Cubitron II Stikit Film" or "Metal Cut Off Disc")
     clean_desc = re.sub(r'[^a-zA-Z0-9\s/.-]', ' ', part_desc or "")
@@ -424,32 +588,26 @@ def find_manufacturer_page(manufacturer_name: str, mfg_part_num: str, part_desc:
     clean_urls = []
     for r in all_raw_results:
         url = r.get("url") or ""
-        if url and not _is_blocked_domain(url) and url not in clean_urls:
-            clean_urls.append(url)
+        if not url or url in clean_urls:
+            continue
+
+        # Check blocklist and manufacturer-name-in-domain heuristic
+        if _is_blocked_domain(url) or not _is_manufacturer_domain(url, mfr_str, brand_str):
+            print(f"Rejected non-manufacturer source: {url}")
+            continue
+
+        clean_urls.append(url)
 
     mfr_url = None
     candidate_ref_urls = []
 
-    # Prioritize a non-PDF URL whose domain matches the manufacturer name tokens as the main mfr_url
-    mfr_tokens = [
-        t.lower() for t in re.split(r'\W+', mfr_str)
-        if len(t) > 2 and t.lower() not in ["inc", "llc", "corp", "corporation", "the", "company", "america", "usa"]
-    ]
+    # Prioritize a non-PDF URL from clean_urls
     for url in clean_urls:
         if not url.lower().endswith(".pdf"):
-            netloc = urllib.parse.urlparse(url).netloc.lower()
-            if any(tok in netloc for tok in mfr_tokens):
-                mfr_url = url
-                break
+            mfr_url = url
+            break
 
-    # If no direct manufacturer domain match found, pick the first non-PDF clean URL
-    if not mfr_url:
-        for url in clean_urls:
-            if not url.lower().endswith(".pdf"):
-                mfr_url = url
-                break
-
-    # If still no mfr_url (e.g. only PDFs found), take the first clean URL
+    # If all clean URLs are PDFs, take the first clean URL
     if not mfr_url and clean_urls:
         mfr_url = clean_urls[0]
 
@@ -617,12 +775,12 @@ def fetch_and_extract_fields(
             if rich_sources_count >= 5:  # Gather up to 5 full rich sources
                 break
 
-    # If all direct page/PDF fetches returned short or failed, try one more targeted spec query
-    if not collected_text_blocks:
+    # If all direct page/PDF fetches returned short or failed, try one more targeted spec query (strictly manufacturer sources only)
+    if not collected_text_blocks and mfr_url:
         spec_search_results = web_search_free(f"{mfg_part_num} specifications features dimensions", max_results=5)
         for r in spec_search_results:
             fallback_u = r.get("url")
-            if fallback_u and fallback_u not in [d.get("url") for d in content_diagnostics]:
+            if fallback_u and not _is_blocked_domain(fallback_u) and fallback_u not in [d.get("url") for d in content_diagnostics]:
                 diag = _fetch_page_content_direct(fallback_u)
                 diag["url"] = fallback_u
                 content_diagnostics.append(diag)
@@ -1056,7 +1214,13 @@ def enrich_product_record(raw_row: dict, source_row_index: int) -> ProductRecord
 
     # 3. Find official product/support page & reference URLs
     effective_mfr = record.manufacturer_name.value or record.part_manuf or ""
-    mfr_page_info = find_manufacturer_page(effective_mfr, record.mfg_part_num or "", record.part_desc or "")
+    effective_brand = record.brand_name.value or record.e1_brand or ""
+    mfr_page_info = find_manufacturer_page(
+        manufacturer_name=effective_mfr,
+        mfg_part_num=record.mfg_part_num or "",
+        part_desc=record.part_desc or "",
+        brand_name=effective_brand
+    )
 
     if mfr_page_info.get("mfr_url"):
         record.mfr_url = FieldValue(
@@ -1173,6 +1337,14 @@ def enrich_product_record(raw_row: dict, source_row_index: int) -> ProductRecord
                 new_val = decimal_to_fraction_inches(val_str)
                 if new_val != val_str:
                     fv.value = new_val
+
+    # 5c. Normalize fraction hyphenation across all generated description fields
+    for desc_field in ["mobile_desc", "invoice_desc", "short_desc", "long_desc1", "retail_desc", "marketing_description"]:
+        fv = getattr(record, desc_field, None)
+        if fv and fv.value and isinstance(fv.value, str):
+            norm_desc = normalize_fraction_hyphenation(fv.value)
+            if norm_desc != fv.value:
+                fv.value = norm_desc
 
     # 6. Compute counts and pipeline metadata
     all_fvs: List[FieldValue] = [
@@ -1337,7 +1509,16 @@ if __name__ == "__main__":
             "DIB_Brand": "-- No DIB Brand --",
             "Part_Manuf": "Appliance Dealers Cooperative (APPDE)",
         },
-        # Row 1: Milwaukee Metal Cut-Off Disc (tool accessory)
+        # Row 1: Frigidaire Dishwasher — tests strict retailer domain rejection & fraction hyphenation
+        {
+            "Mfg_Part_Num": "PDSH4816AF",
+            "Part_Desc": "PDSH4816AF Dishwasher SS - Display Only",
+            "E1_Brand": "-- Unbranded --",
+            "Unilog_Brand": "-- No Unilog Brand --",
+            "DIB_Brand": "-- No DIB Brand --",
+            "Part_Manuf": "Appliance Dealers Cooperative (APPDE)",
+        },
+        # Row 2: Milwaukee Metal Cut-Off Disc (tool accessory)
         {
             "Mfg_Part_Num": "49-94-0013",
             "Part_Desc": '49-94-0013 Milw 5"x.045"x7/8" Metal Cut Off Disc',
@@ -1346,7 +1527,7 @@ if __name__ == "__main__":
             "DIB_Brand": "-- No DIB Brand --",
             "Part_Manuf": "Milwaukee Accessory (4031)",
         },
-        # Row 2: 3M Cubitron II Stikit Film Disc (abrasive)
+        # Row 3: 3M Cubitron II Stikit Film Disc (abrasive)
         {
             "Mfg_Part_Num": "3MABR-7100075678",
             "Part_Desc": "3M 775L Stikit Film P150 - Cubitron II 50 Disc/Box",
@@ -1355,7 +1536,7 @@ if __name__ == "__main__":
             "DIB_Brand": "-- No DIB Brand --",
             "Part_Manuf": "Jam Industrial Supply LLC (JAMIN)",
         },
-        # Row 3: Diablo / Freud Sanding Belt (abrasive/cutting tool)
+        # Row 4: Diablo / Freud Sanding Belt (abrasive/cutting tool)
         {
             "Mfg_Part_Num": "DCB518ASTS06G",
             "Part_Desc": 'DCB518ASTS06G Diablo 1/2"x18" - Sanding Belt 6pc',

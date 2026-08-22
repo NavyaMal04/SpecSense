@@ -1,37 +1,37 @@
 {
   "id": "PDSH4816AF",
-  "source_row_index": 1,
+  "source_row_index": 0,
   "part_number": "PDSH4816AF",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
   "mfg_part_num": "PDSH4816AF",
-  "part_desc": "PDSH4816AF Dishwasher SS - Display Only",
-  "e1_brand": "-- Unbranded --",
+  "part_desc": "Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™",
+  "e1_brand": "Frigidaire",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Appliance Dealers Cooperative (APPDE)",
+  "part_manuf": "Frigidaire (FRIGR)",
   "manufacturer_name": {
     "value": "Frigidaire",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-    "source_snippet": "Frigidaire Professional® 24\" Stainless Steel Dishwasher | PDSH4816AF | Bill & Rod's ApplianceLooking for a powerful, efficient, and quiet dishwasher? Check out the Frigidaire Professional® 24\" Stainless Steel Dishwasher (model PDSH4816AF)."
+    "source_url": null,
+    "source_snippet": "Shop Frigidaire Professional - PDSH4816AF - 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™-PDSH4816AF by Frigidaire Professional at Weaver Appliance"
   },
   "brand_name": {
-    "value": "FRIGIDAIRE®",
+    "value": "Frigidaire Professional®",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-    "source_snippet": "Frigidaire Professional® 24\" Stainless Steel Dishwasher | PDSH4816AF | Bill & Rod's ApplianceLooking for a powerful, efficient, and quiet dishwasher? Check out the Frigidaire Professional® 24\" Stainless Steel Dishwasher (model PDSH4816AF)."
+    "source_url": null,
+    "source_snippet": "Shop Frigidaire Professional - PDSH4816AF - 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™-PDSH4816AF by Frigidaire Professional at Weaver Appliance"
   },
   "trade_name": {
     "value": "Frigidaire Professional",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.us-appliance.com/pdsh4816af-frigidaire-24-professional-series-built-in-dishwasher-with-cleanboost-47-dbastainless-steel.html",
-    "source_snippet": "Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost Technology"
+    "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+    "source_snippet": "Frigidaire Professional"
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,60 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Built-In Dishwasher",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.us-appliance.com/pdsh4816af-frigidaire-24-professional-series-built-in-dishwasher-with-cleanboost-47-dbastainless-steel.html",
-    "source_snippet": "24\" Built-In Dishwasher with CleanBoost"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "mfr_url": {
-    "value": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+    "value": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+    "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.us-appliance.com/pdsh4816af-frigidaire-24-professional-series-built-in-dishwasher-with-cleanboost-47-dbastainless-steel.html",
-    "https://www.consumerreports.org/appliances/dishwashers/frigidaire-professional-pdsh4816af/m412387/",
-    "https://www.vanvreedes.com/appliances/kitchen-cleanup/dishwashers/built-in-dishwasher/frigidaire/PDSH4816AF",
-    "https://www.townappliance.com/products/frigidaire-pdsh4816af-built-in-dishwasher",
-    "https://www.appliancefactory.com/kitchen-cleanup/dishwashers/built-in-dishwasher/frigidaire/PDSH4816AF",
-    "https://www.ajmadison.com/cgi-bin/ajmadison/PDSH4816AF.html",
-    "https://www.manua.ls/frigidaire/pdsh4816af/manual",
-    "https://www.manualowl.com/m/Frigidaire/PDSH4816AF/Manual/709091"
+    "https://www.frigidaire.com/en/p/Kitchen/Dishwashers/PDSH4816BF",
+    "https://na2.electroluxmedia.com/Original/Electrolux/Electrolux+Assets/Document/Complete+Owners+Guide/English/A20448609+en.pdf"
   ],
   "mobile_desc": {
-    "value": "Frigidaire, FRIGIDAIRE®, Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™, PDSH4816AF",
+    "value": "Frigidaire, Frigidaire Professional®, Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™, PDSH4816AF",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "FRIGIDAIRE PROFESSIONAL 24\" STAINLESS ST",
+    "value": "FRIGIDAIRE PROFESSIONAL 24'' STAINLESS S",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "FRIGIDAIRE® PDSH4816AF, Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™, With Yes, Series: Frigidaire Professional Series, Model: PDSH4816AF",
+    "value": "Frigidaire Professional® PDSH4816AF, Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™, Model: PDSH4816AF, Series: Professional",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "FRIGIDAIRE® Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™, Series: Frigidaire Professional Series, Model: PDSH4816AF, Voltage Rating: 120 V, Amperage Rating: 15 A, Power Rating: 240 W, Mounting Type: Built-In, Size: 33 3/4 in H x 24 in W x 24 1/4 in D, Height: 33 3/4 in, Width: 24 in, Depth: 24 1/4 in, Depth With Door Open: 50 1/4 in, Minimum Height: 33 3/4 in, Maximum Height: 35 3/4 in, Weight: 86 lbs, Color: Smudge-Proof Stainless Steel, Material: Stainless Steel, Sound Level: 47 dBA, Number of Wash Cycles: 8, Certifications: CEE Tier 1, ENERGY STAR Certified, UL Listed, cUL Listed, Meets ASSE 1006 Requirements, NSF Certified, Warranty: 1 Year Parts & Labor, Place Setting Capacity: 14 settings, Control Type: Digital, Control Style: Fully Integrated, Number of Spray Arms: 3, Wash Levels: 5, Tub Design: Tall Tub, Third Level Rack: Yes, Leak Detection System: Yes, Additional Information: CleanBoost Technology, MaxBoost Dry, DishSense Sensor Technology, Target Spray Zones, OrbitClean Wash System, Status Indicator Floor Beam (LED floor light), StayPut Door Type, Smudge-Proof Stainless Steel Finish, Nylon Deluxe Racks, Stemware Holder, Removable Stainless Steel Filter Trap",
+    "value": "Frigidaire Professional® Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™, Model: PDSH4816AF, Series: Professional, Mounting Type: Built-In, Size: 24 in, Width: 24 in, Tub Material: Stainless Steel, Additional Information: CleanBoost™",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™, Series: Frigidaire Professional Series, Model: PDSH4816AF, Voltage Rating: 120 V",
+    "value": "Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™, Model: PDSH4816AF, Series: Professional, Mounting Type: Built-In",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™ from FRIGIDAIRE®.",
+    "value": "High quality Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™ from Frigidaire Professional®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,32 +109,32 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.us-appliance.com/pdsh4816af-frigidaire-24-professional-series-built-in-dishwasher-with-cleanboost-47-dbastainless-steel.html",
-    "source_snippet": "features / description:"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
-    "value": "CEE Tier 1, ENERGY STAR Certified, UL Listed, cUL Listed, Meets ASSE 1006 Requirements, NSF Certified",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.townappliance.com/products/frigidaire-pdsh4816af-built-in-dishwasher",
-    "source_snippet": "CEE Tier Tier 1 ENERGY STAR Certified Yes UL Listed Yes cUL Listed Yes Meets ASSE 1006 Requirements Yes NSF Certified Yes"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
-    "value": "No",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.townappliance.com/products/frigidaire-pdsh4816af-built-in-dishwasher",
-    "source_snippet": "Prop 65 Label No"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "application": {
-    "value": "Residential",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/PDSH4816AF.html",
-    "source_snippet": "Protection plans are for residential use only."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": null,
@@ -150,49 +144,26 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher with CleanBoost™",
+    "value": "Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.townappliance.com/products/frigidaire-pdsh4816af-built-in-dishwasher",
-    "source_snippet": "Frigidaire Professional 24\" Stainless Steel Tub Built-In Dishwasher With Cleanboost™"
+    "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
+    "source_snippet": "Frigidaire Professional 24'' Stainless Steel Tub Built-In Dishwasher with CleanBoost™"
   },
   "attributes": [
-    {
-      "label": {
-        "value": "Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Frigidaire Professional Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
     {
       "label": {
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
         "value": "PDSH4816AF",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
@@ -205,70 +176,24 @@
     },
     {
       "label": {
-        "value": "Voltage Rating",
+        "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
-        "value": "120",
+        "value": "Professional",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
-        "value": "V",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Amperage Rating",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "15",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "A",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Power Rating",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "240",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "W",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "value": null,
+        "source_type": "unavailable",
+        "confidence": 0.0,
+        "source_url": null,
         "source_snippet": null
       }
     },
@@ -277,14 +202,14 @@
         "value": "Mounting Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
         "value": "Built-In",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
@@ -300,14 +225,14 @@
         "value": "Size",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
-        "value": "33 3/4 in H x 24 in W x 24 1/4 in D",
+        "value": "24 in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
@@ -315,29 +240,6 @@
         "source_type": "unavailable",
         "confidence": 0.0,
         "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "33 3/4",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
         "source_snippet": null
       }
     },
@@ -346,451 +248,37 @@
         "value": "Width",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
         "value": "24",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       }
     },
     {
       "label": {
-        "value": "Depth",
+        "value": "Tub Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "24 1/4",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth With Door Open",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "50 1/4",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Minimum Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "33 3/4",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Maximum Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "35 3/4",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Weight",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "86",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "lbs",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Color",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Smudge-Proof Stainless Steel",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
         "value": "Stainless Steel",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Sound Level",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "47",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "dBA",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Number of Wash Cycles",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "8",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Certifications",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "CEE Tier 1, ENERGY STAR Certified, UL Listed, cUL Listed, Meets ASSE 1006 Requirements, NSF Certified",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Warranty",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1 Year Parts & Labor",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Place Setting Capacity",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "14",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "settings",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Control Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Digital",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Control Style",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Fully Integrated",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Number of Spray Arms",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "3",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Wash Levels",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Tub Design",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Tall Tub",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Third Level Rack",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Leak Detection System",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
@@ -806,14 +294,14 @@
         "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "value": {
-        "value": "CleanBoost Technology, MaxBoost Dry, DishSense Sensor Technology, Target Spray Zones, OrbitClean Wash System, Status Indicator Floor Beam (LED floor light), StayPut Door Type, Smudge-Proof Stainless Steel Finish, Nylon Deluxe Racks, Stemware Holder, Removable Stainless Steel Filter Trap",
+        "value": "CleanBoost™",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.billandrodsappliance.com/blog/Finally-a-Dishwasher-That-Actually-Cleans-Frigidaire-PDSH4816AF-Review",
+        "source_url": "https://www.frigidaire.com/en/p/kitchen/dishwashers/PDSH4816AF",
         "source_snippet": null
       },
       "uom": {
@@ -981,7 +469,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-19T16:33:30.609860+00:00",
-  "fields_found_count": 86,
-  "fields_total_count": 126
+  "processed_at": "2026-08-22T14:11:17.005661+00:00",
+  "fields_found_count": 26,
+  "fields_total_count": 60
 }

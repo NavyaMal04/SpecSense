@@ -13,25 +13,25 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "MillerTech Energy Solutions (MILTE)",
   "manufacturer_name": {
-    "value": "MillerTech Energy Solutions",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "source_snippet": "12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery (402-R) by MillerTech"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "MillerTech",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "source_snippet": "12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery (402-R) by MillerTech"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
-    "value": "MillerTech",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "source_snippet": "MillerTech 12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery (402-R)"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -61,16 +61,7 @@
     "source_url": "https://millertechenergy.com/product-category/12v-batteries/",
     "source_snippet": "Official Manufacturer Product Page"
   },
-  "ref_urls": [
-    "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "https://www.superbuypower.com/product/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r/",
-    "https://www.eastwesttravelsltd.com/1748092243816301.html",
-    "https://battery-wholesale.com/product/millertech-12v-12ah-lifepo4-deepcycle/",
-    "https://www.lithiumbatterysupply.com/collections/millertech",
-    "https://www.datasheetarchive.com/",
-    "https://pdf.datasheetarchive.com/",
-    "https://www.digchip.com/datasheets/search.php"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
     "value": "MillerTech Energy Solutions, MillerTech, 12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery, 402-R",
     "source_type": "inferred",
@@ -136,11 +127,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Replacement for MillerTech 12V 12Ah 8d Lithium Iron Phosphate batteries",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "source_snippet": "Replacement for MillerTech 12V 12Ah 8d Lithium Iron Phosphate batteries."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": null,
@@ -150,11 +141,11 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://wildoaktrail.com/products/millertech-12v-12ah-8d-replacement-intelligent-lithium-iron-phosphate-battery-402-r",
-    "source_snippet": "MillerTech 12V 12AH 8D Replacement Intelligent Lithium Iron Phosphate Battery (402-R)"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "attributes": [
     {
@@ -752,6 +743,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-21T05:40:21.766728+00:00",
-  "fields_found_count": 58,
-  "fields_total_count": 96
+  "fields_found_count": 53,
+  "fields_total_count": 96,
+  "sourcing_compliance_note": "Pruned 5 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 8 ref_url(s) removed."
 }

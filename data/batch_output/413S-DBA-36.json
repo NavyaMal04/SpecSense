@@ -13,25 +13,25 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "Hager Hinge Co (4189)",
   "manufacturer_name": {
-    "value": "Hager Companies",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.uhs-hardware.com/products/hager-413s-threshold-saddle-36-mil",
-    "source_snippet": "Since Hager’s inception in 1849 their Hager brand commercial hinges have always been made right here in America. And it’s not just hinges. The bulk of Hager’s traditional door hardware lines are American-made."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "Hager®",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.uhs-hardware.com/products/hager-413s-threshold-saddle-36-mil",
-    "source_snippet": "Since Hager’s inception in 1849 their Hager brand commercial hinges have always been made right here in America. And it’s not just hinges. The bulk of Hager’s traditional door hardware lines are American-made."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
-    "value": "Hager",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.trudoor.com/hager/413s-saddle-threshold/",
-    "source_snippet": "Hager 413S Saddle Threshold"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,11 +48,11 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Door Hardware / Thresholds",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
-    "source_snippet": "Product Subgroup: Door Thresholds"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "mfr_url": {
     "value": "https://www.hagerco.com/thresholds-and-weatherstripping/saddle-threshold/413s-5in-wide",
@@ -62,13 +62,6 @@
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.arcat.com/downloads/hager-companies-32922-hagerhin/cad/Q:thresholds?mf=04",
-    "https://thebuilderssupply.com/hager-413s-72-dba-threshold",
-    "https://prod-trudoor-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/02/06152648/Hager-413S.pdf",
-    "https://media.topnotchinc.com/docs/pricebooks/Hager+Thresholds+&+Weatherstripping+May+1,+2022.pdf",
-    "https://www.trudoor.com/hager/413s-saddle-threshold/",
-    "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
-    "https://mt2.absupply.net/Hager-Company-413S-32D-36-ThresholdSaddle-36-Inch.aspx?ppt=3",
     "https://www.hager.co.in/downloads/technical-information/product-data-sheet/1303.htm"
   ],
   "mobile_desc": {
@@ -115,11 +108,11 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
-    "source_snippet": "Professional Features & Benefits"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
     "value": "BHMA Certified, Handicap Accessibility, ADA Compliant, UL Listed",
@@ -136,11 +129,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Commercial applications requiring ADA compliance and fire-rated door assemblies",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://zensupply.com/hager-413s-saddle-threshold-5-x-1-4-kb32/",
-    "source_snippet": "making it ideal for commercial applications requiring ADA compliance. ... fire-rated door assemblies"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": "#10 x 1-1/2\" sheet metal screws (plated to match Dark Bronze Anodized finish)",
@@ -671,6 +664,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-21T05:39:21.431119+00:00",
-  "fields_found_count": 49,
-  "fields_total_count": 84
+  "fields_found_count": 43,
+  "fields_total_count": 84,
+  "sourcing_compliance_note": "Pruned 6 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 7 ref_url(s) removed."
 }

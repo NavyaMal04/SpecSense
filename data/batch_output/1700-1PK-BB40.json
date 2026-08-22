@@ -65,10 +65,8 @@
     "https://www.3m.com/3M/en_US/p/c/tapes/electrical/vinyl/",
     "https://www.3m.com/3M/en_US/p/c/tapes/",
     "https://www.3m.com/3M/en_US/p/d/v100849643/",
-    "https://store.dealershopusa.com/3m-temflex-1700-black-electrical-tape-3-4-in-x-60-7-mil-65429-/p76825/",
     "https://www.3m.com/3M/en_US/p/c/tapes/electrical/",
     "https://www.3m.com/3M/en_US/p/c/tapes/i/consumer/",
-    "https://www.alldatasheet.com/datasheet-pdf/pdf/1043797/3M/1700.html",
     "https://technicaldatasheets.3m.com/"
   ],
   "mobile_desc": {
@@ -638,5 +636,6 @@
   "review_status": "pending",
   "processed_at": "2026-08-21T05:38:08.606617+00:00",
   "fields_found_count": 46,
-  "fields_total_count": 81
+  "fields_total_count": 81,
+  "sourcing_compliance_note": "Pruned 0 non-compliant field(s) on 2026-08-22T13:34:46Z per manufacturer-only sourcing rule. 2 ref_url(s) removed."
 }

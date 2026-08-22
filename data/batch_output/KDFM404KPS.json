@@ -1,44 +1,44 @@
 {
   "id": "KDFM404KPS",
-  "source_row_index": 2,
+  "source_row_index": 3,
   "part_number": "KDFM404KPS",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
   "mfg_part_num": "KDFM404KPS",
-  "part_desc": "KDFM404KPS Dishwasher SS",
-  "e1_brand": "-- Unbranded --",
+  "part_desc": "KitchenAid 44 dBA Dishwasher with FreeFlex Third Level Rack",
+  "e1_brand": "KitchenAid",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Appliance Dealers Cooperative (APPDE)",
+  "part_manuf": "KitchenAid / Whirlpool Corporation (KITAD)",
   "manufacturer_name": {
     "value": "Whirlpool Corporation",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360&deg;-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html",
-    "source_snippet": "Eco Series dishwashers from KitchenAid brand are designed with efficiency in mind, delivering next level wash and dry performance while saving you water, energy and money."
+    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+    "source_snippet": "This KitchenAid® Eco Series front control dishwasher has the largest dishwasher tub."
   },
   "brand_name": {
     "value": "KitchenAid®",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360&deg;-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html",
-    "source_snippet": "Eco Series dishwashers from KitchenAid brand are designed with efficiency in mind, delivering next level wash and dry performance while saving you water, energy and money."
+    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+    "source_snippet": "This KitchenAid® Eco Series front control dishwasher has the largest dishwasher tub."
   },
   "trade_name": {
     "value": "KitchenAid",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "Brand: KitchenAid"
+    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360%E2%81%B0-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+    "source_snippet": "KDFM404KPS | KitchenAid"
   },
   "manufacturer_part_number": {
-    "value": "178293",
-    "source_type": "extracted",
-    "confidence": 1.0,
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
     "source_url": null,
-    "source_snippet": "Manually verified by reviewer"
+    "source_snippet": null
   },
   "alternate_part_number": {
     "value": null,
@@ -48,66 +48,60 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Dishwashers",
+    "value": "Major Kitchen Appliances > Dishwashers > Front Control Dishwashers",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "Home > Dishwashers > Built In Dishwashers > KDFM404KPS"
+    "source_url": "https://www.kitchenaid.ca/en_ca/major-appliances/dishwashers/front-controls/p.44-dba-dishwasher-in-printshield-finish-with-360-max-jets-third-rack.kdfm404kps.html",
+    "source_snippet": "Home Major Kitchen Appliances Dishwashers All Front Control Dishwashers"
   },
   "mfr_url": {
-    "value": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+    "value": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+    "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360&deg;-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html",
-    "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "https://www.manualslib.com/manual/2137143/Kitchenaid-Kdfm404kps.html",
-    "https://www.designerappliances.com/kitchenaid-kdfm404kps.html",
-    "https://www.kitchenaid.com/owners-center-pdp.KDFM404KPS.html",
-    "https://www.colders.com/blog/kitchenaid-KDFM404KPS-review",
-    "https://www.consumerreports.org/appliances/dishwashers/kitchenaid-kdfm404kps/m405625/",
-    "https://www.abt.com/KitchenAid-24-PrintShield-Stainless-Steel-Dishwasher-With-FreeFlex-Third-Rack-KDFM404KPS/p/142715.html"
+    "https://www.kitchenaid.ca/en_ca/major-appliances/dishwashers/front-controls/p.44-dba-dishwasher-in-printshield-finish-with-freeflex-third-rack.kdfm404kps.html",
+    "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-max-jets,-44-dba-.kdfm404kps.html?bvstate=pg:8/ct:r?bvstate=pg:8/ct:r"
   ],
   "mobile_desc": {
-    "value": "Whirlpool Corporation, KitchenAid®, 24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack, KDFM404KPS",
+    "value": "Whirlpool Corporation, KitchenAid®, 44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack, KDFM404KPS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "24 INCH FULL CONSOLE DISHWASHER WITH FRE",
+    "value": "44 DBA DISHWASHER IN PRINTSHIELD™ FINISH",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "KitchenAid® KDFM404KPS, 24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack, With FreeFlex™ 3rd Rack, ProWash™, Heat Dry, Express Wash, Sani Rinse, Advanced Clean Water Wash System, SatinGlide® Rails, PrintShield™ Stainless Steel, Model: KDFM404KPS, Voltage Rating: 120 V",
+    "value": "KitchenAid® KDFM404KPS, 44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack, With Yes, Series: Eco Series, Model: KDFM404KPS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "KitchenAid® 24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack, Model: KDFM404KPS, Voltage Rating: 120 V, Amperage Rating: 15 A, Mounting Type: Built-In, Size: 33 5/8 in H x 23 7/8 in W x 24 1/2 in D, Height: 33 5/8 in, Width: 23 7/8 in, Depth: 24 1/2 in, Depth With Door Open: 51 in, Weight: 105 lbs, Color: PrintShield™ Stainless Steel, Material: Stainless Steel, Sound Level: 44 dBA, Number of Wash Cycles: 5, Certifications: NSF Certified, Star K, CUL, Warranty: 1-year warranty, Capacity: 16 Place Settings, Control Type: Touchpad, Adjustable Upper Rack: Yes, Third Rack Type: Multi-Purpose, Stainless Steel Interior: Yes, WiFi: No, Delay Start: Yes, Dry Type: Heated, High Temperature Wash: Yes, NSF Certified Rinse: Yes, Quick Wash Setting: Yes, Sensor Clean: Yes, Accepts Panels: No, Child Lock: Yes, Fold-Down Tines: Yes, Rack Material: Nylon, Cutlery Tray: Yes, Cup Shelves: No, Stemware Holder: Yes, Tall Tub: Yes, Number of Spray Arms: 5, Rinse Aid Dispenser: Yes, Water Filtration: Yes, Water Heating: Yes, Fingerprint Resistant: Yes, Interior Light: No, Auto Detergent Dispenser: Yes, Hard Food Disposer: No, Sanitize Cycle: Yes, Heavy Duty Cycle: Yes, Leak Protection: Yes, Rinse & Hold: No, Steam Wash: No, Half Load Option: No",
+    "value": "KitchenAid® 44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack, Series: Eco Series, Model: KDFM404KPS, Size: 33.625 in H x 23.875 in W x 24.5 in D, Height: 33.625 in, Width: 23.875 in, Depth: 24.5 in, Color: Stainless Steel with PrintShield™ Finish, Material: Stainless Steel, Sound Level: 44 dBA, Tub Capacity: 7.25 cu. ft., Number of Wash Jets: 50+, Drying System: Fan-Enabled ProDry™ System, Filtration System: True Self-Cleaning Filtration, Third Rack Type: 360° Max Jets™ Third Rack, Rails Type: SatinGlide® Rails, Number of Stemware Holders: 4, Additional Information: True Self-Cleaning Filtration, Express Wash Cycle, ProWash™ Cycle, Fan-Enabled ProDry™ System, PrintShield™ Finish, SatinGlide® Rails, Adjustable Rows in Middle and Lower Racks, Sani-Rinse Option, Leak Identification System, Adjustable Middle Rack",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack, Model: KDFM404KPS, Voltage Rating: 120 V, Amperage Rating: 15 A",
+    "value": "44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack, Series: Eco Series, Model: KDFM404KPS, Size: 33.625 in H x 23.875 in W x 24.5 in D",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality 24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack from KitchenAid®.",
+    "value": "High quality 44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack from KitchenAid®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,61 +109,61 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "FreeFlex™ 3rd Rack, ProWash™, Heat Dry, Express Wash, Sani Rinse, Advanced Clean Water Wash System, SatinGlide® Rails, PrintShield™ Stainless Steel",
+    "value": "Yes",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "KitchenAid KDFM404KPS 24 Inch Full Console Dishwasher with 16 Place Settings, 44 dBA, 5 Wash Cycles, FreeFlex™ 3rd Rack, ProWash™, Heat Dry, Express Wash, NSF® Certified, and Star K: PrintShield™ Stainless Steel"
+    "source_url": "https://www.kitchenaid.ca/en_ca/major-appliances/dishwashers/front-controls/p.44-dba-dishwasher-in-printshield-finish-with-360-max-jets-third-rack.kdfm404kps.html",
+    "source_snippet": "Key Features"
   },
   "standard_approvals": {
-    "value": "NSF® Certified; Star K Certified; CUL",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "NSF® Certified: Yes\nStar K Certified: Yes\nCUL: Yes"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
-    "value": "California residents see Prop 65 WARNINGS",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "California residents see Prop 65 WARNINGS"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "application": {
-    "value": "Residential indoor dish washing",
+    "value": "Residential dishwashing",
     "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "Keep up with the tools you use from prep to table with this dishwasher's three racks of versatile loading possibilities"
+    "confidence": 0.95,
+    "source_url": "https://www.kitchenaid.ca/en_ca/major-appliances/dishwashers/front-controls/p.44-dba-dishwasher-in-printshield-finish-with-360-max-jets-third-rack.kdfm404kps.html",
+    "source_snippet": "Eco Series dishwashers from KitchenAid brand are designed with efficiency in mind"
   },
   "includes": {
-    "value": "Drain Hose",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "Hoses Included: Drain Hose"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "product_name": {
-    "value": "24 Inch Full Console Dishwasher with FreeFlex™ 3rd Rack",
+    "value": "44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.ajmadison.com/cgi-bin/ajmadison/KDFM404KPS.html",
-    "source_snippet": "KitchenAid KDFM404KPS 24 Inch Full Console Dishwasher with 16 Place Settings, 44 dBA, 5 Wash Cycles, FreeFlex™ 3rd Rack, ProWash™, Heat Dry, Express Wash, NSF® Certified, and Star K: PrintShield™ Stainless Steel"
+    "source_url": "https://www.kitchenaid.ca/en_ca/major-appliances/dishwashers/front-controls/p.44-dba-dishwasher-in-printshield-finish-with-360-max-jets-third-rack.kdfm404kps.html",
+    "source_snippet": "44 dBA Dishwasher in PrintShield™ Finish with 360° Max Jets™ Third Rack"
   },
   "attributes": [
     {
       "label": {
-        "value": "Model",
+        "value": "Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "KDFM404KPS",
+        "value": "Eco Series",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -182,63 +176,17 @@
     },
     {
       "label": {
-        "value": "Voltage Rating",
+        "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "120",
+        "value": "KDFM404KPS",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "V",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Amperage Rating",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "15",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "A",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Mounting Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Built-In",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -254,14 +202,14 @@
         "value": "Size",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "33 5/8 in H x 23 7/8 in W x 24 1/2 in D",
+        "value": "33-5/8 in H x 23-7/8 in W x 24-1/2 in D",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -277,21 +225,21 @@
         "value": "Height",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "33 5/8",
+        "value": "33-5/8",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       }
     },
@@ -300,21 +248,21 @@
         "value": "Width",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "23 7/8",
+        "value": "23-7/8",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       }
     },
@@ -323,67 +271,21 @@
         "value": "Depth",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "24 1/2",
+        "value": "24-1/2",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
         "value": "in",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth With Door Open",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "51",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Weight",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "105",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "lbs",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       }
     },
@@ -392,14 +294,14 @@
         "value": "Color",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "PrintShield™ Stainless Steel",
+        "value": "Stainless Steel with PrintShield™ Finish",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -415,14 +317,14 @@
         "value": "Material",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
         "value": "Stainless Steel",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -438,37 +340,60 @@
         "value": "Sound Level",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
         "value": "44",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
         "value": "dBA",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       }
     },
     {
       "label": {
-        "value": "Number of Wash Cycles",
+        "value": "Tub Capacity",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "5",
+        "value": "7-1/4",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+        "source_snippet": null
+      },
+      "uom": {
+        "value": "cu. ft.",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+        "source_snippet": null
+      }
+    },
+    {
+      "label": {
+        "value": "Number of Wash Jets",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
+        "source_snippet": null
+      },
+      "value": {
+        "value": "50+",
+        "source_type": "extracted",
+        "confidence": 0.95,
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -481,17 +406,17 @@
     },
     {
       "label": {
-        "value": "Certifications",
+        "value": "Drying System",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "NSF Certified, Star K, CUL",
+        "value": "Fan-Enabled ProDry™ System",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -504,86 +429,17 @@
     },
     {
       "label": {
-        "value": "Warranty",
+        "value": "Filtration System",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "1-year warranty",
+        "value": "True Self-Cleaning Filtration",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Capacity",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "16 Place Settings",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Control Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Touchpad",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Adjustable Upper Rack",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -599,14 +455,14 @@
         "value": "Third Rack Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "Multi-Purpose",
+        "value": "360° Max Jets™ Third Rack",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -619,17 +475,17 @@
     },
     {
       "label": {
-        "value": "Stainless Steel Interior",
+        "value": "Rails Type",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "Yes",
+        "value": "SatinGlide® Rails",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -642,17 +498,17 @@
     },
     {
       "label": {
-        "value": "WiFi",
+        "value": "Number of Stemware Holders",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "No",
+        "value": "4",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -665,638 +521,17 @@
     },
     {
       "label": {
-        "value": "Delay Start",
+        "value": "Additional Information",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "value": {
-        "value": "Yes",
+        "value": "True Self-Cleaning Filtration, Express Wash Cycle, ProWash™ Cycle, Fan-Enabled ProDry™ System, PrintShield™ Finish, SatinGlide® Rails, Adjustable Rows in Middle and Lower Racks, Sani-Rinse Option, Leak Identification System, Adjustable Middle Rack",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Dry Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Heated",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "High Temperature Wash",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "NSF Certified Rinse",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Quick Wash Setting",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Sensor Clean",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Accepts Panels",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Child Lock",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Fold-Down Tines",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Rack Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Nylon",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Cutlery Tray",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Cup Shelves",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Stemware Holder",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Tall Tub",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Number of Spray Arms",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Rinse Aid Dispenser",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Water Filtration",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Water Heating",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Fingerprint Resistant",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Interior Light",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Auto Detergent Dispenser",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Hard Food Disposer",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Sanitize Cycle",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Heavy Duty Cycle",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Leak Protection",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Yes",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Rinse & Hold",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Steam Wash",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Half Load Option",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "No",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.bing.com/aclick?ld=e83LiLjoYqPZXlUJ-gOl8Y5zVUCUwmxvgS7MNs2fR-vD_79mzEdXW19Y6iowI2ipVFWzIaykivU_JEelc1tWb1ixflbVf5AFND0SrPK2P5sEjOMkIgqf31IOiJXjjuOkpaE9qTK8XKX46EoVmO7TVo3IA0PzkWhJRlGOFRMGmtm6LSWTogeyiyevbsLEtRSy2osGgb5Q5-jDw3E8btstQSgZcjfbM&u=aHR0cHMlM2ElMmYlMmZ3d3cucGFydHN3YXJlaG91c2UuY29tJTJmV2hpcmxwb29sLXMlMmYxMzU2OS5odG0lM2Ztc2Nsa2lkJTNkNWY1NWE4MGJmODJlMWYwZWVlNGFjMjhlMjJjOWJhZDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCUkFORCUyNTIwLSUyNTIwV2hpcmxwb29sJTI2dXRtX3Rlcm0lM2RXaGlybHBvb2wlMjUyMERpc2h3YXNoZXJzJTI1MjBQYXJ0cyUyNnV0bV9jb250ZW50JTNkRGlzaHdhc2hlcnM&rlid=5f55a80bf82e1f0eee4ac28e22c9bad1",
+        "source_url": "https://www.kitchenaid.com/major-appliances/dishwashers/front-controls/p.360°-max-jets-third-rack-dishwasher-with-50+-total-wash-jets,-44-dba.kdfm404kps.html?bvstate=pg:2/ct:r",
         "source_snippet": null
       },
       "uom": {
@@ -1464,7 +699,7 @@
     "source_snippet": null
   },
   "review_status": "pending",
-  "processed_at": "2026-08-19T16:34:55.768408+00:00",
-  "fields_found_count": 125,
-  "fields_total_count": 189
+  "processed_at": "2026-08-22T14:14:51.274243+00:00",
+  "fields_found_count": 53,
+  "fields_total_count": 90
 }

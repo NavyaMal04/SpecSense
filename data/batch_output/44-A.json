@@ -62,14 +62,7 @@
     "source_snippet": "Official Manufacturer Product Page"
   },
   "ref_urls": [
-    "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf",
-    "https://www.chamberofcommerce.com/business-directory/ohio/dover/concrete-contractor/28959517-rees-cast-stone-co",
-    "https://www.buzzfile.com/business/Rees,-E-J-Cast-Stone-330-343-6677",
-    "https://www.yellowpages.com/dover-oh/mip/rees-cast-stone-co-inc-15458039",
-    "https://industrynet.com/listing/1075738/rees-cast-stone-co",
-    "https://usmix.com/wp-content/uploads/2025/10/AMX-Color-Chart-2025.pdf",
-    "https://www.mortar.org.uk/MPAMortar/media/Mortar/Publications/Learning-Texts/LT09-Specifications.pdf",
-    "https://theconstructor.org/building/types-mortar-masonry/12396/"
+    "https://corinthiancaststone.com/wp-content/uploads/2025/04/CS108-Mortars-for-Cast-Stone.pdf"
   ],
   "mobile_desc": {
     "value": "Rees Cast Stone Company (REECA), -- Unbranded --, Light Chocolate 44-A Mortar - Type N, 44-A",
@@ -465,5 +458,6 @@
   "review_status": "pending",
   "processed_at": "2026-08-21T07:07:35.338657+00:00",
   "fields_found_count": 24,
-  "fields_total_count": 57
+  "fields_total_count": 57,
+  "sourcing_compliance_note": "Pruned 0 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 7 ref_url(s) removed."
 }

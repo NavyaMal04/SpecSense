@@ -1,37 +1,37 @@
 {
   "id": "27233",
-  "source_row_index": 15,
+  "source_row_index": 4,
   "part_number": "27233",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
   "mfg_part_num": "27233",
-  "part_desc": "24x48 WH Attic Access Door",
-  "e1_brand": "AJM",
+  "part_desc": "27233 Product",
+  "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "A J Manufacturing Inc (AJMAN)",
+  "part_manuf": "",
   "manufacturer_name": {
-    "value": "AJ Manufacturing, Inc.",
-    "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "The Insulated Attic Access Door “AAD” is a cost effective engineered solution to attic access. Designed for installation into buildings with an interior ceiling liner."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "AJ Manufacturing",
-    "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "The Insulated Attic Access Door “AAD” is a cost effective engineered solution to attic access. Designed for installation into buildings with an interior ceiling liner."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
-    "value": "AJ Manufacturing",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-    "source_snippet": "Brand: AJ Manufacturing"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,57 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Attic Access Doors",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-    "source_snippet": "Category: Attic Access Door"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "mfr_url": {
-    "value": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-    "source_snippet": "Official Manufacturer Product Page"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
-  "ref_urls": [
-    "https://ajdoor.com/shop/",
-    "https://supplymaverick.com/product/aj-mfg-attic-access-door-white/",
-    "https://www.ajmfg.com/",
-    "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233_3_pack.htm",
-    "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "https://www.wbdoors.com/product/wb-basic-300-24x48/",
-    "https://www.acudoraccesspanels.com/24-x-48-universal-flush-premium-access-door-with-flange-acudor/",
-    "https://www.wbdoors.com/product/wb-gp-101-24x48/"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
-    "value": "AJ Manufacturing, Inc., AJ Manufacturing, Insulated Attic Access Door 24\"x48\", 27233",
+    "value": "-- Unbranded --, 27233 Product, 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "INSULATED ATTIC ACCESS DOOR 24\"X48\" AAD ",
+    "value": "27233 PRODUCT 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "AJ Manufacturing 27233, Insulated Attic Access Door 24\"x48\", With Yes, Series: AAD, Model: 27233",
+    "value": "-- Unbranded -- 27233, 27233 Product, Model: 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "AJ Manufacturing Insulated Attic Access Door 24\"x48\", Series: AAD, Model: 27233, Size: 48 in H x 24 in W x 1 in D, Height: 48 in, Width: 24 in, Depth: 1 in, Color: White, Material: Galvanized G60 Steel / Aluminum, Egress Size: 20\"x44\", Insulating Value: R6.5, Mounting Type: Self-flashing, Frame Material: Painted aluminum extrusions, Insulation Type: Expanded polystyrene core, Hinge Type: Fixed pin stainless steel hinges, Additional Information: Self-flashing, Factory installed gasket, Pre-hung, Egress pull cord",
+    "value": "-- Unbranded -- 27233 Product, Model: 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Insulated Attic Access Door 24\"x48\", Series: AAD, Model: 27233, Size: 48 in H x 24 in W x 1 in D",
+    "value": "27233 Product, Model: 27233",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Insulated Attic Access Door 24\"x48\" from AJ Manufacturing.",
+    "value": "High quality 27233 Product from -- Unbranded --.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,11 +106,11 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "Pre-hung in a self flashing aluminum frame. Packed with an egress cord already attached"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
     "value": null,
@@ -136,362 +127,40 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Designed for installation into buildings with an interior ceiling liner.",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "Designed for installation into buildings with an interior ceiling liner."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
-    "value": "Egress pull cord",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "Packed with an egress cord already attached"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "product_name": {
-    "value": "Insulated Attic Access Door 24\"x48\"",
+    "value": "27233 Product",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.discountdoorsandwindows.com/Insulated-Attic-Access-Door-p/27233.htm",
-    "source_snippet": "Insulated Attic Access Door 24\"x48\""
+    "source_url": "",
+    "source_snippet": "Description: 27233 Product"
   },
   "attributes": [
-    {
-      "label": {
-        "value": "Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "AAD",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
     {
       "label": {
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_url": "",
         "source_snippet": null
       },
       "value": {
         "value": "27233",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "48 in H x 24 in W x 1 in D",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "48",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Width",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "24",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Color",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "White",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Galvanized G60 Steel / Aluminum",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Egress Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "20\"x44\"",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Insulating Value",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "R6.5",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Mounting Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Self-flashing",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Frame Material",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Painted aluminum extrusions",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Insulation Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Expanded polystyrene core",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Hinge Type",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Fixed pin stainless steel hinges",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Additional Information",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Self-flashing, Factory installed gasket, Pre-hung, Egress pull cord",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://www.midmichiganmetalsales.com/product/aj-mfg-attic-access-door-white/",
+        "source_url": "",
         "source_snippet": null
       },
       "uom": {
@@ -658,8 +327,8 @@
     "source_url": null,
     "source_snippet": null
   },
-  "review_status": "pending",
-  "processed_at": "2026-08-21T05:44:28.324785+00:00",
-  "fields_found_count": 48,
-  "fields_total_count": 84
+  "review_status": "flagged",
+  "processed_at": "2026-08-22T14:15:31.902629+00:00",
+  "fields_found_count": 9,
+  "fields_total_count": 42
 }

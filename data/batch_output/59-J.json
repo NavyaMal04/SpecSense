@@ -13,18 +13,18 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "Rees Cast Stone Company (REECA)",
   "manufacturer_name": {
-    "value": "Fairborn Cement Company",
-    "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
-    "source_snippet": "Pueblo 59-J Fairborn Cement Company?s MIAMICOLOR masonry cement mortar is a high quality, versatile, colored product manufactured by blending Fairborn Cement Company?s masonry cement mortar with colored pigments and white masonry cement mortar when required."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "MIAMICOLOR",
-    "source_type": "extracted",
-    "confidence": 0.9,
-    "source_url": "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
-    "source_snippet": "Pueblo 59-J Fairborn Cement Company?s MIAMICOLOR masonry cement mortar is a high quality, versatile, colored product manufactured by blending Fairborn Cement Company?s masonry cement mortar with colored pigments and white masonry cement mortar when required."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
     "value": "MIAMICOLOR",
@@ -63,13 +63,7 @@
   },
   "ref_urls": [
     "https://www.fairborncement.com/wp-content/uploads/2020/03/33095_Fairborn_Miami_Webcard_101818_1-1.pdf",
-    "https://www.lampus.com/files/Resources/Miami-Fairborn-MasonryMortar.pdf",
-    "https://www.fairborncement.com/product/",
-    "https://www.linkedin.com/company/fairborn-cement-company",
-    "https://cdn-global.laticrete.com/-/media/project/laticrete-international/north-america/product-documents/product-data-sheets/ds-60-1.ashx?sc_lang=en&vs=1&d=20220512T213403Z",
-    "https://www.passcon-inc.com/store/p2443/Pueblo_59-J_MIAMI_masonry_cement_mortar_Type_N_ASTM_C270.html",
-    "https://www.quikrete.com/pdfs/spec_guide-mortar.pdf",
-    "https://www.passcon-inc.com/masonry-cement.html"
+    "https://www.fairborncement.com/product/"
   ],
   "mobile_desc": {
     "value": "Fairborn Cement Company, MIAMICOLOR, MIAMICOLOR Masonry Cement Type N - Pueblo (59-J), 59-J",
@@ -543,6 +537,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-21T06:04:10.415573+00:00",
-  "fields_found_count": 33,
-  "fields_total_count": 66
+  "fields_found_count": 31,
+  "fields_total_count": 66,
+  "sourcing_compliance_note": "Pruned 2 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 6 ref_url(s) removed."
 }

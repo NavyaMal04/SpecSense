@@ -1,37 +1,37 @@
 {
   "id": "ADB15516CS",
-  "source_row_index": 14,
+  "source_row_index": 5,
   "part_number": "ADB15516CS",
   "dept": null,
   "product_class": null,
   "fine_class": null,
   "sku": null,
   "mfg_part_num": "ADB15516CS",
-  "part_desc": "1x6-16' Coastline Sq Edge - Vintage Azek PVC Decking",
-  "e1_brand": "TIMBERTECH",
+  "part_desc": "ADB15516CS Dishwasher",
+  "e1_brand": "-- Unbranded --",
   "unilog_brand": "-- No Unilog Brand --",
   "dib_brand": "-- No DIB Brand --",
-  "part_manuf": "Parksite (6151)",
+  "part_manuf": "",
   "manufacturer_name": {
-    "value": "The AZEK Company",
+    "value": "TimberTech",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "confidence": 0.9,
+    "source_url": null,
+    "source_snippet": "TimberTech Vintage 1-in x 6-in x 16-ft Coastline Square/Solid PVC Deck Board Item #1317878 | Model #ADB15516CS"
   },
   "brand_name": {
     "value": "TimberTech®",
     "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.homedepot.com/p/Azek-Vintage-5-4-in-x-6-in-x-16-ft-Coastline-Square-Shouldered-PVC-Deck-Board-ADB15516CS/309866834",
-    "source_snippet": "The Azek TimberTech Vintage PVC Deck Board has a beautiful variegated texture and coastline finish that accentuate its visual appeal."
+    "confidence": 0.9,
+    "source_url": null,
+    "source_snippet": "TimberTech Vintage 1-in x 6-in x 16-ft Coastline Square/Solid PVC Deck Board Item #1317878 | Model #ADB15516CS"
   },
   "trade_name": {
-    "value": "Azek / TimberTech",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "SUPPLIER AZEK/TIMBERTECH"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -48,66 +48,57 @@
     "source_snippet": null
   },
   "classpath": {
-    "value": "Decking",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Shop by Category Ag Products Decking & Railing"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "mfr_url": {
-    "value": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Official Manufacturer Product Page"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
-  "ref_urls": [
-    "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "https://www.dakotacountylumber.com/p/16-azek-coastline-solid-decking/16CLS",
-    "https://www.datasheetarchive.com/",
-    "https://www.alldatasheet.com/?lang=en",
-    "https://www.digchip.com/datasheets/search.php",
-    "https://pdf.datasheetarchive.com/",
-    "https://www.datasheets.com/",
-    "https://www.sierraic.com/buy_online/datasheet"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
-    "value": "The AZEK Company, TimberTech®, Vintage Collection Deck Board, ADB15516CS",
+    "value": "TimberTech, TimberTech®, ADB15516CS Dishwasher, ADB15516CS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "invoice_desc": {
-    "value": "VINTAGE COLLECTION DECK BOARD VINTAGE CO",
+    "value": "ADB15516CS DISHWASHER ADB15516CS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "short_desc": {
-    "value": "TimberTech® ADB15516CS, Vintage Collection Deck Board, With Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending, Series: Vintage Collection, Model: AGB15516CS",
+    "value": "TimberTech® ADB15516CS, ADB15516CS Dishwasher, Model: ADB15516CS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "long_desc1": {
-    "value": "TimberTech® Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D, Height: 1 in, Width: 5.5 in, Depth: 16 ft, Color: Coastline, Certifications: ASTM D7032, ASTM E84, Additional Information: Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
+    "value": "TimberTech® ADB15516CS Dishwasher, Model: ADB15516CS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "retail_desc": {
-    "value": "Vintage Collection Deck Board, Series: Vintage Collection, Model: AGB15516CS, Size: 1 in H x 5.5 in W x 192 in D",
+    "value": "ADB15516CS Dishwasher, Model: ADB15516CS",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
     "source_snippet": null
   },
   "marketing_description": {
-    "value": "High quality Vintage Collection Deck Board from TimberTech®.",
+    "value": "High quality ADB15516CS Dishwasher from TimberTech®.",
     "source_type": "inferred",
     "confidence": 0.95,
     "source_url": null,
@@ -115,18 +106,18 @@
   },
   "item_features": [],
   "with_features": {
-    "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Wire-Brushed Finish, Multi-Tonal Color Blending",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-    "source_snippet": "Super Durable Fade & Stain Resistant Splinter Free & Barefoot Friendly Sustainable Low Maintenance Top-Rated Fire Resistance"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "standard_approvals": {
-    "value": "ASTM D7032, ASTM E84",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Applicable Standards : ASTM D7032 ASTM E84"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "prop_65": {
     "value": null,
@@ -136,11 +127,11 @@
     "source_snippet": null
   },
   "application": {
-    "value": "Decking",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
     "value": null,
@@ -150,210 +141,26 @@
     "source_snippet": null
   },
   "product_name": {
-    "value": "Vintage Collection Deck Board",
+    "value": "ADB15516CS Dishwasher",
     "source_type": "extracted",
     "confidence": 0.95,
-    "source_url": "https://www.qxo.com/product/Azek-1\"-x-6\"-x-16'-Vintage-Collection-Grooved-Deck-Board/C-483696/553119",
-    "source_snippet": "Vintage Collection Grooved Deck Board Coastline"
+    "source_url": "",
+    "source_snippet": "ADB15516CS Dishwasher"
   },
   "attributes": [
-    {
-      "label": {
-        "value": "Series",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Vintage Collection",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
     {
       "label": {
         "value": "Model",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "",
         "source_snippet": null
       },
       "value": {
-        "value": "AGB15516CS",
+        "value": "ADB15516CS",
         "source_type": "extracted",
         "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Size",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1 in H x 5-1/2 in W x 192 in D",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Height",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "1",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Width",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "5-1/2",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "in",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Depth",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "16",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": "ft",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Color",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Coastline",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Certifications",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "ASTM D7032, ASTM E84",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "uom": {
-        "value": null,
-        "source_type": "unavailable",
-        "confidence": 0.0,
-        "source_url": null,
-        "source_snippet": null
-      }
-    },
-    {
-      "label": {
-        "value": "Additional Information",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
-        "source_snippet": null
-      },
-      "value": {
-        "value": "Super Durable, Fade & Stain Resistant, Splinter Free & Barefoot Friendly, Sustainable, Low Maintenance, Top-Rated Fire Resistance, Design Versatility, Refined wire-brushed finish, Multi-tonal color blending",
-        "source_type": "extracted",
-        "confidence": 0.95,
-        "source_url": "https://store.bpi.build/product/TTCDPVIN512CSS16",
+        "source_url": "",
         "source_snippet": null
       },
       "uom": {
@@ -520,8 +327,8 @@
     "source_url": null,
     "source_snippet": null
   },
-  "review_status": "pending",
-  "processed_at": "2026-08-21T05:42:58.956426+00:00",
-  "fields_found_count": 36,
-  "fields_total_count": 66
+  "review_status": "flagged",
+  "processed_at": "2026-08-22T14:16:09.645967+00:00",
+  "fields_found_count": 11,
+  "fields_total_count": 42
 }

@@ -13,25 +13,25 @@
   "dib_brand": "-- No DIB Brand --",
   "part_manuf": "Kichler Lighting (KICLI)",
   "manufacturer_name": {
-    "value": "Kichler Lighting",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.supplylights.com/product/kichler-alton-three-light-bath-in-black-45297bk/",
-    "source_snippet": "Kichler Alton Three Light Bath in Black - 45297BK"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "brand_name": {
-    "value": "Kichler®",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.supplylights.com/product/kichler-alton-three-light-bath-in-black-45297bk/",
-    "source_snippet": "Kichler Alton Three Light Bath in Black - 45297BK"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "trade_name": {
-    "value": "Kichler",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
-    "source_snippet": "Alton Bathroom Vanity Light by Kichler"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "manufacturer_part_number": {
     "value": null,
@@ -61,12 +61,7 @@
     "source_url": "https://kichlerlightinglights.com/product/lighting/wall-lights/bathroom-vanity-lights/kichler-lighting-alton-bathroom-lights-45297bk/2389723.html",
     "source_snippet": "Official Manufacturer Product Page"
   },
-  "ref_urls": [
-    "https://www.fergusonhome.com/kichler-45297/s1274487",
-    "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
-    "https://www.affordablelamps.com/kic-45297bk.html",
-    "https://www.kbauthority.com/kichler-45297bk-alton-24-inch-3-lights-wall-mounted-incandescent-vanity-light-black.html"
-  ],
+  "ref_urls": [],
   "mobile_desc": {
     "value": "Kichler Lighting, Kichler®, Alton 3 Light 24 inch Black Bath Vanity Light Wall Light, 45297BK",
     "source_type": "inferred",
@@ -125,25 +120,25 @@
     "source_snippet": "UL Ratings: cETLus Listed Damp"
   },
   "prop_65": {
-    "value": "Yes",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
-    "source_snippet": "Prop 65 Warning for California Residents This product can expose you to chemicals, which are known in the State of California to cause cancer, birth defects or other reproductive harm."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "application": {
-    "value": "Bathroom Sconce / Bath Vanity Sconce",
-    "source_type": "extracted",
-    "confidence": 0.95,
-    "source_url": "https://www.affordablelamps.com/kic-45297bk.html",
-    "source_snippet": "Alton Black 3-Light Bathroom Sconce Lighting"
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "includes": {
-    "value": "Clear Seeded Glass shades, steel fixture, mounting hardware",
-    "source_type": "extracted",
-    "confidence": 0.85,
-    "source_url": "https://www.lightology.com/index.php?module=prod_detail&prod_id=1177753",
-    "source_snippet": "Clear seeded glass shades and decorative hardware accents add a classic touch to the timeless design."
+    "value": null,
+    "source_type": "unavailable",
+    "confidence": 0.0,
+    "source_url": null,
+    "source_snippet": null
   },
   "product_name": {
     "value": "Alton 3 Light 24 inch Black Bath Vanity Light Wall Light",
@@ -838,6 +833,7 @@
   },
   "review_status": "pending",
   "processed_at": "2026-08-21T07:13:26.591764+00:00",
-  "fields_found_count": 71,
-  "fields_total_count": 105
+  "fields_found_count": 65,
+  "fields_total_count": 105,
+  "sourcing_compliance_note": "Pruned 6 non-compliant field(s) on 2026-08-22T13:34:47Z per manufacturer-only sourcing rule. 4 ref_url(s) removed."
 }
